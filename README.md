@@ -12,3 +12,4 @@ My solutions for Codewars Kata Challenges
 
 - [Disemvowel Trolls](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/0acd37992bcbeea68a5fa58fe08032bf67e4348a/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Disemvowel%20Trolls/DisemvowelTrolls.cs)
 
+- [Stop gninnipS My sdroW!](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/5d22760d213bee5279b214ccb242e441a42cf38b/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Stop%20gninnipS%20My%20sdroW!/StopgninnipSMysdroW.cs)
