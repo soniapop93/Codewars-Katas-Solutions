@@ -17,7 +17,7 @@ namespace CodewarsKatas._7_kyu.Disemvowel_Trolls
 {
     public class DisemvowelTrolls
     {
-        public string Disemvowel(string str)
+        public static string Disemvowel(string str)
         {
             List<string> vowels = new List<string>() { "a", "e", "i", "o", "u"};
             string newStr = "";
