@@ -18,3 +18,5 @@ My solutions for Codewars Kata Challenges
 
 
 - [Sum of a sequence](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9c56306c3822ef3dd484a9efee41e9be2db85987/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Sum%20of%20a%20sequence/SumOfASequence.cs)
+
+- [Simple remove duplicates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9c21aa51316b323889c4de04aaf068ff39b87f9a/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Simple%20remove%20duplicates/SimpleRemoveDuplicates.cs)
