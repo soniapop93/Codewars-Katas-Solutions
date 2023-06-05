@@ -22,3 +22,5 @@ My solutions for Codewars Kata Challenges
 - [Simple remove duplicates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9c21aa51316b323889c4de04aaf068ff39b87f9a/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Simple%20remove%20duplicates/SimpleRemoveDuplicates.cs)
 
 - [Reversed sequence](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/938473eedaf327a05f221cc26c4c85d9a0663690/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Reversed%20sequence/ReversedSequence.cs)
+
+- [Last digit of a large number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f1cd74a04f4c94b6343fc56a108a6703662bf2f5/C%23/CodewarsKatas/CodewarsKatas/5-kyu/Last%20digit%20of%20a%20large%20number/LastDigitOfALargeNumber.cs)
