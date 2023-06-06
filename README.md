@@ -24,3 +24,5 @@ My solutions for Codewars Kata Challenges
 - [Reversed sequence](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/938473eedaf327a05f221cc26c4c85d9a0663690/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Reversed%20sequence/ReversedSequence.cs)
 
 - [Last digit of a large number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f1cd74a04f4c94b6343fc56a108a6703662bf2f5/C%23/CodewarsKatas/CodewarsKatas/5-kyu/Last%20digit%20of%20a%20large%20number/LastDigitOfALargeNumber.cs)
+
+- [Compare 2 digit numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8e6d71283c0e98c010b8d975840056131d4b953c/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Compare%202%20digit%20numbers/Compare2DigitNumbers.cs)
