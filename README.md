@@ -27,3 +27,5 @@ My solutions for Codewars Kata Challenges
 - [Compare 2 digit numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8e6d71283c0e98c010b8d975840056131d4b953c/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Compare%202%20digit%20numbers/Compare2DigitNumbers.cs)
 
 - [Calculate average](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/98744bc937407434cf739cfc8aebef1d6e2fdf8d/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Calculate%20average/CalculateAverage.cs)
+
+- [Not very secure](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2a7fcc9f3532693e4112107031bb720dd1d00369/C%23/CodewarsKatas/CodewarsKatas/5-kyu/Not%20very%20secure/NotVerySecure.cs)
