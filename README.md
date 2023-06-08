@@ -29,3 +29,5 @@ My solutions for Codewars Kata Challenges
 - [Calculate average](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/98744bc937407434cf739cfc8aebef1d6e2fdf8d/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Calculate%20average/CalculateAverage.cs)
 
 - [Not very secure](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2a7fcc9f3532693e4112107031bb720dd1d00369/C%23/CodewarsKatas/CodewarsKatas/5-kyu/Not%20very%20secure/NotVerySecure.cs)
+
+- [Speed Control](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a8dae0acd86a4d528c28a719582058203d81932f/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Speed%20Control/SpeedControl.cs)
