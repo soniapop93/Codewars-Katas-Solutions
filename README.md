@@ -31,3 +31,5 @@ My solutions for Codewars Kata Challenges
 - [Not very secure](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2a7fcc9f3532693e4112107031bb720dd1d00369/C%23/CodewarsKatas/CodewarsKatas/5-kyu/Not%20very%20secure/NotVerySecure.cs)
 
 - [Speed Control](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a8dae0acd86a4d528c28a719582058203d81932f/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Speed%20Control/SpeedControl.cs)
+
+- [Basics 08: Find next higher number with same Bits (1's)](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c4bccee97e3d38a8493c485c63736e1344a03027/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Next%20higher%20number%20with%20same%20bits/NextHigherNumberWithSameBits.cs)
