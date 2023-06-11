@@ -37,3 +37,5 @@ My solutions for Codewars Kata Challenges
 - [Cats and Shelves](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/b9d4b44bd4571b8c4f9f21c90abd6db00e92b082/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Cats%20and%20shelves/CatsAndShelves.cs)
 
 - [Printer Errors](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/93d039c54a5579d64b62f526801cb93c99703c06/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Printer%20Errors/PrinterErrors.cs)
+
+- [Remove All The Marked Elements of a List](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/bb25da38abda581ecb6fcb80fdf3aa171e0dd1e9/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Remove%20All%20The%20Marked%20Elements%20of%20a%20List/RemoveElementsList.cs)
