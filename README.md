@@ -35,3 +35,5 @@ My solutions for Codewars Kata Challenges
 - [Basics 08: Find next higher number with same Bits (1's)](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c4bccee97e3d38a8493c485c63736e1344a03027/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Next%20higher%20number%20with%20same%20bits/NextHigherNumberWithSameBits.cs)
 
 - [Cats and Shelves](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/b9d4b44bd4571b8c4f9f21c90abd6db00e92b082/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Cats%20and%20shelves/CatsAndShelves.cs)
+
+- [Printer Errors](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/93d039c54a5579d64b62f526801cb93c99703c06/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Printer%20Errors/PrinterErrors.cs)
