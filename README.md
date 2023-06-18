@@ -41,3 +41,5 @@ My solutions for Codewars Kata Challenges
 - [Remove All The Marked Elements of a List](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/bb25da38abda581ecb6fcb80fdf3aa171e0dd1e9/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Remove%20All%20The%20Marked%20Elements%20of%20a%20List/RemoveElementsList.cs)
 
 - [Mumbling](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ed18bba6268be58eaa76c9231c58d249e3aa6c41/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Mumbling/Mumbling.cs)
+
+- [Find Array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/16679b937a85e57260159edb59cf41b27e778b4f/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Find%20array/FindArrays.cs)
