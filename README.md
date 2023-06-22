@@ -43,3 +43,5 @@ My solutions for Codewars Kata Challenges
 - [Mumbling](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ed18bba6268be58eaa76c9231c58d249e3aa6c41/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Mumbling/Mumbling.cs)
 
 - [Find Array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/16679b937a85e57260159edb59cf41b27e778b4f/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Find%20array/FindArrays.cs)
+
+- [Return the closest number multiple of 10](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/95d4cbe5665f985f010d4f35c3e17136f1d34eff/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Return%20the%20closest%20number%20multiple%20of%2010/ReturnClosestNumber.cs)
