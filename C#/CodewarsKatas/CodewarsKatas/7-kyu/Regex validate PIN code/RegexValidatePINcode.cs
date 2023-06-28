@@ -18,11 +18,12 @@ namespace CodewarsKatas._7_kyu.Regex_validate_PIN_code
         public static bool ValidatePin(string pin)
         {
             bool isDigit = true;
+
             if (pin.Length == 4 || pin.Length == 6)
             {
                 for (int i = 0; i < pin.Length; i++)
                 {
-                    if (pin[i] < 48 && pin[i] > 57)
+                    if (pin[i] < 48 || pin[i] > 57)
                     {
                         isDigit = false;
                         break;
