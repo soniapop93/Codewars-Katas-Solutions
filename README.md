@@ -49,3 +49,5 @@ My solutions for Codewars Kata Challenges
 - [Get the Middle Character](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c24815bc2fad807848b104f988e7d3d2956e0d4b/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Get%20the%20Middle%20Character/GetTheMiddleCharacter.cs)
 
 - [Regex validate PIN code](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c7bcf8a85d410dbc4acb1bcad6f2fe1d0e1aa9be/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Regex%20validate%20PIN%20code/RegexValidatePINcode.cs)
+
+- [Consonant value](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1206d4b050ce95237361c7a2d3f3d4c2ee36fb52/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Consonant%20value/ConsonantValue.cs)
