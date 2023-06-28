@@ -14,39 +14,61 @@
  * -- The consonant substrings are: "str" and "ngth" with values "
  */
 
+using System.Collections.Generic;
+
 namespace CodewarsKatas._6_kyu.Consonant_value
 {
     public class ConsonantValue
     {
         public static int Solve(string s)
         {
+            
+            s = s.ToLower();
             int result = 0;
             List<string> vowels = new List<string>() { "a", "e", "i", "o", "u" };
             List<int> ints = new List<int>();
             List<string> consonantsString = new List<string>();
 
+            string tempStr = "";
             for (int i = 0; i < s.Length; i++) 
             {
                 if (!vowels.Contains(s[i].ToString()))
                 {
-                    consonantsString.Add(s[i].ToString());
+                    tempStr += s[i];
+                }
+                else
+                {
+                    if(tempStr != "")
+                    {
+                        consonantsString.Add(tempStr);
+                    }
+                    tempStr = "";
                 }
             }
-
+            if (tempStr != "")
+            {
+                consonantsString.Add(tempStr);
+            }
 
 
             for (int i = 0; i < consonantsString.Count; i++)
             {
-                int counter = 1;
-                for (int j = 97; j < 123; j++)
+                string item = consonantsString[i];
+                int res = 0;
+                for (int j = 0; j < item.Length; j++)
                 {
-                    if (consonantsString[i] == ((char)j).ToString())
+                    int counter = 1;
+                    for (int k = 97; k < 123; k++)
                     {
-                        ints.Add(counter);
-                        break;
+                        if (item[j].ToString() == ((char)k).ToString())
+                        {
+                            res += counter;
+                            break;
+                        }
+                        counter++;
                     }
-                    counter++;
                 }
+                ints.Add(res);
             }
 
             for (int i = 0; i < ints.Count; i++)
@@ -56,7 +78,6 @@ namespace CodewarsKatas._6_kyu.Consonant_value
                     result = ints[i];
                 }
             }
-
             return result;
         }
     }
