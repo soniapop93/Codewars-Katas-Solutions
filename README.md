@@ -51,3 +51,5 @@ My solutions for Codewars Kata Challenges
 - [Regex validate PIN code](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c7bcf8a85d410dbc4acb1bcad6f2fe1d0e1aa9be/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Regex%20validate%20PIN%20code/RegexValidatePINcode.cs)
 
 - [Consonant value](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1206d4b050ce95237361c7a2d3f3d4c2ee36fb52/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Consonant%20value/ConsonantValue.cs)
+
+- [Count consonants](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f990083965481733049e1f0194fa0a63cd317c46/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Count%20consonants/CountConsonants.cs)
