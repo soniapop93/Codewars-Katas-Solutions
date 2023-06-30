@@ -53,3 +53,5 @@ My solutions for Codewars Kata Challenges
 - [Consonant value](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1206d4b050ce95237361c7a2d3f3d4c2ee36fb52/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Consonant%20value/ConsonantValue.cs)
 
 - [Count consonants](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f990083965481733049e1f0194fa0a63cd317c46/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Count%20consonants/CountConsonants.cs)
+
+- [Ones and Zeros](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/321b14c293399bc8201fbbaaac5087ee6f6e6917/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Ones%20and%20Zeros/OnesAndZeros.cs)
