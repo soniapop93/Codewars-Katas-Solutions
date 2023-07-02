@@ -55,3 +55,5 @@ My solutions for Codewars Kata Challenges
 - [Count consonants](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f990083965481733049e1f0194fa0a63cd317c46/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Count%20consonants/CountConsonants.cs)
 
 - [Ones and Zeros](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/321b14c293399bc8201fbbaaac5087ee6f6e6917/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Ones%20and%20Zeros/OnesAndZeros.cs)
+
+- [Leap Years](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/bf7a393183d56b38feb2c5659691f5008608a355/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Leap%20Years/LeapYears.cs)
