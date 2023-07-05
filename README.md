@@ -59,3 +59,5 @@ My solutions for Codewars Kata Challenges
 - [Leap Years](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/bf7a393183d56b38feb2c5659691f5008608a355/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Leap%20Years/LeapYears.cs)
 
 - [Alternate Case](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/5491c2519aee6d682eef56c469b78c4d074bcabe/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Alternate%20case/AlternateCase.cs)
+
+- [Two To One](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/0ce65b74756ad92f5ce4bd838258f21f8cac6bd1/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Two%20to%20One/TwoToOne.cs)
