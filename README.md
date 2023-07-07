@@ -3,6 +3,9 @@
 
 My solutions for Codewars Kata Challenges
 
+# Codewars Profile
+
+- [pops93](https://www.codewars.com/users/pops93)
 
 ## 🔗 Links
 
