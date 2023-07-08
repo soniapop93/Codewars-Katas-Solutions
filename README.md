@@ -70,3 +70,7 @@ My solutions for Codewars Kata Challenges
 - [Reverse List Order](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e3d7c0e8a9aef4916fd68e24386f5692ca521d5d/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Reverse%20List%20Order/ReverseListOrder.cs)
 
 - [All Star Code Challenge #18](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c15078056cea7dc4937229725efa07bc6c67bd91/C%23/CodewarsKatas/CodewarsKatas/7-kyu/All%20Star%20Code%20Challenge/AllStarCodeChallenge.cs)
+
+- [Triple Trouble](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/280b72ee83863b3fd5dd89d9bdcd5ecfa8e931a8/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Triple%20Trouble/TripleTroubleKata.cs)
+
+- [Find the position](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/280b72ee83863b3fd5dd89d9bdcd5ecfa8e931a8/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Find%20the%20position/FindThePosition.cs)
