@@ -18,7 +18,20 @@
 
 namespace CodewarsKatas._7_kyu.All_Star_Code_Challenge
 {
-    internal class AllStarCodeChallenge
+    public class AllStarCodeChallenge
     {
+        public static int StrCount(string str, char letter)
+        {
+            int count = 0;
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                if (letter == str[i])
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
     }
 }
