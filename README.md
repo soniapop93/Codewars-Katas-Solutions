@@ -66,3 +66,5 @@ My solutions for Codewars Kata Challenges
 - [Two To One](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/0ce65b74756ad92f5ce4bd838258f21f8cac6bd1/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Two%20to%20One/TwoToOne.cs)
 
 - [Equal Sides Of An Array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/70cb8907965ce51277cd8235760ccf67922759e7/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Equal%20Sides%20Of%20An%20Array/EqualSidesOfAnArray.cs)
+
+- [Reverse List Order](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e3d7c0e8a9aef4916fd68e24386f5692ca521d5d/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Reverse%20List%20Order/ReverseListOrder.cs)
