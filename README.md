@@ -74,3 +74,7 @@ My solutions for Codewars Kata Challenges
 - [Triple Trouble](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/280b72ee83863b3fd5dd89d9bdcd5ecfa8e931a8/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Triple%20Trouble/TripleTroubleKata.cs)
 
 - [Find the position](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/280b72ee83863b3fd5dd89d9bdcd5ecfa8e931a8/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Find%20the%20position/FindThePosition.cs)
+
+- [Set Alarm](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a03b0c0a1ab8612ab23e7221a8557a76202fd4eb/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Set%20Alarm/SetAlarmKata.cs)
+
+- [Consecutive Strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a03b0c0a1ab8612ab23e7221a8557a76202fd4eb/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Consecutive%20strings/ConsecutiveStrings.cs)
