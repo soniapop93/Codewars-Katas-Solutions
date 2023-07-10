@@ -78,3 +78,5 @@ My solutions for Codewars Kata Challenges
 - [Set Alarm](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a03b0c0a1ab8612ab23e7221a8557a76202fd4eb/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Set%20Alarm/SetAlarmKata.cs)
 
 - [Consecutive Strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a03b0c0a1ab8612ab23e7221a8557a76202fd4eb/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Consecutive%20strings/ConsecutiveStrings.cs)
+
+- [Add Length](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/421c8d65244b691c33aefce31db51dce6d06a78e/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Add%20Length/AddLengthKata.cs)
