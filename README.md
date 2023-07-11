@@ -69,7 +69,7 @@ My solutions for Codewars Kata Challenges
 
 - [Reverse List Order](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e3d7c0e8a9aef4916fd68e24386f5692ca521d5d/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Reverse%20List%20Order/ReverseListOrder.cs)
 
-- [All Star Code Challenge #18](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c15078056cea7dc4937229725efa07bc6c67bd91/C%23/CodewarsKatas/CodewarsKatas/7-kyu/All%20Star%20Code%20Challenge/AllStarCodeChallenge.cs)
+- [All Star Code Challenge #18](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fd48ddaf1cf049be3bb2c68911feb5ef0ee81c35/C%23/CodewarsKatas/CodewarsKatas/7-kyu/All%20Star%20Code%20Challenge/AllStarCodeChallenge.cs)
 
 - [Triple Trouble](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/280b72ee83863b3fd5dd89d9bdcd5ecfa8e931a8/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Triple%20Trouble/TripleTroubleKata.cs)
 
@@ -82,3 +82,5 @@ My solutions for Codewars Kata Challenges
 - [Add Length](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/421c8d65244b691c33aefce31db51dce6d06a78e/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Add%20Length/AddLengthKata.cs)
 
 - [Find The Parity Outlier](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/caec82822284eb549b0b5f17f19db37a097a3241/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Find%20The%20Parity%20Outlier/FindTheParityOutlier.cs)
+
+- [Sum Of Digits / Digital Root](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f50423a9cdd01117bec8b684c22f2492c41688ab/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Sum%20of%20Digits%20Digital%20Root/SumOfDigits.cs)
