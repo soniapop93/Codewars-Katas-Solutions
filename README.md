@@ -84,3 +84,5 @@ My solutions for Codewars Kata Challenges
 - [Find The Parity Outlier](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/caec82822284eb549b0b5f17f19db37a097a3241/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Find%20The%20Parity%20Outlier/FindTheParityOutlier.cs)
 
 - [Sum Of Digits / Digital Root](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f50423a9cdd01117bec8b684c22f2492c41688ab/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Sum%20of%20Digits%20Digital%20Root/SumOfDigits.cs)
+
+- [Find the Odd int](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3ec60f95d21c379454c61ba9d3774588e5b6c473/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Find%20the%20odd%20int/FindTheOddInt.cs)
