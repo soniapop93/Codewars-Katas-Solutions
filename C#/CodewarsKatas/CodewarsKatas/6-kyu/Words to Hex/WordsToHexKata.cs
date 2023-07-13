@@ -36,6 +36,8 @@ namespace CodewarsKatas._6_kyu.Words_to_Hex
     {
         public static string[] WordsToHex(string words)
         {
+
+
             List<string> finalList = new List<string>();
 
             if (!words.Contains(" "))
@@ -44,12 +46,28 @@ namespace CodewarsKatas._6_kyu.Words_to_Hex
 
                 for (int j = 0; j < words.Length; j++)
                 {
+                    if (j == 3)
+                    {
+                        break;
+                    }
                     newHex += Conversion.Hex(Convert.ToByte(words[j]));
-                    finalList.Add(newHex);
                 }
+
+                if (words.Length < 3)
+                {
+                    if (words.Length == 1)
+                    {
+                        newHex += "0000";
+                    }
+                    else
+                    {
+                        newHex += "00";
+                    }
+                }
+
+                finalList.Add(newHex.ToLower());
                 return finalList.ToArray();
             }
-
 
             string[] splittedWords = words.Split(" ");
 
@@ -59,9 +77,28 @@ namespace CodewarsKatas._6_kyu.Words_to_Hex
 
                 for (int j = 0; j < splittedWords[i].Length; j++)
                 {
+                    if (j == 3)
+                    {
+                        break;
+                    }
+
                     newHex += Conversion.Hex(Convert.ToByte(splittedWords[i][j]));
-                    finalList.Add(newHex);
                 }
+
+                if (splittedWords[i].Length < 3)
+                {
+                    if (splittedWords[i].Length == 1)
+                    {
+                        newHex += "0000";
+                    }
+                    else
+                    {
+                        newHex += "00";
+                    }
+                }
+                
+                finalList.Add(newHex.ToLower());
+
             }
             return finalList.ToArray();
         }

@@ -86,3 +86,5 @@ My solutions for Codewars Kata Challenges
 - [Sum Of Digits / Digital Root](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f50423a9cdd01117bec8b684c22f2492c41688ab/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Sum%20of%20Digits%20Digital%20Root/SumOfDigits.cs)
 
 - [Find the Odd int](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3ec60f95d21c379454c61ba9d3774588e5b6c473/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Find%20the%20odd%20int/FindTheOddInt.cs)
+
+- [Words To Hex](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/17775198b5f280be60078307787da722ca8ada7e/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Words%20to%20Hex/WordsToHexKata.cs)
