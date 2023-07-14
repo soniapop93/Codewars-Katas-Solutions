@@ -53,8 +53,6 @@ namespace CodewarsKatas._6_kyu.Prize_Draw
 
             List<int> sumNames = new List<int>();
 
-;
-
             if (n > splittedNames.Length)
             {
                 return "Not enough participants";
@@ -90,10 +88,6 @@ namespace CodewarsKatas._6_kyu.Prize_Draw
 
                 Console.WriteLine(String.Join(",", sumNames));
             }
-
-
-
-            
 
             return "";
         }
