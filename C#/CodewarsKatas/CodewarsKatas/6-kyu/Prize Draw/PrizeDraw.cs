@@ -51,26 +51,51 @@ namespace CodewarsKatas._6_kyu.Prize_Draw
         {
             string[] splittedNames = st.ToLower().Split(",");
 
-            for (int i = 0; i < splittedNames.Length; i++)
+            List<int> sumNames = new List<int>();
+
+;
+
+            if (n > splittedNames.Length)
             {
-                int count = 1;
-
-                for (int j = 0; j < splittedNames[i].Length; j++)
+                return "Not enough participants";
+            }
+            else if (st.Equals(""))
+            {
+                return "No participants";
+            }
+            else
+            {
+                for (int i = 0; i < splittedNames.Length; i++)
                 {
-                    for (int k = 97; k <= 122; k++)
+                    int count = 0;
+
+                    for (int j = 0; j < splittedNames[i].Length; j++)
                     {
-                        count++;
+                        int countLetter = 1;
 
-                        if (splittedNames[i][j] == k) 
+                        for (int k = 97; k <= 122; k++)
                         {
-                            break;
+                            if (splittedNames[i][j] == k)
+                            {
+                                break;
+                            }
+                            countLetter++;
                         }
-
+                        count += countLetter;
                     }
+                    sumNames.Add((splittedNames[i].Length + count) * we[i]);
                 }
 
+                //TODO: not finished yet
 
+                Console.WriteLine(String.Join(",", sumNames));
             }
+
+
+
+            
+
+            return "";
         }
     }
 }

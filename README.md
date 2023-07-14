@@ -88,3 +88,7 @@ My solutions for Codewars Kata Challenges
 - [Find the Odd int](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3ec60f95d21c379454c61ba9d3774588e5b6c473/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Find%20the%20odd%20int/FindTheOddInt.cs)
 
 - [Words To Hex](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/17775198b5f280be60078307787da722ca8ada7e/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Words%20to%20Hex/WordsToHexKata.cs)
+
+- [Binary Addition](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1b9801e90488e800327424906cede357678a81f0/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Binary%20Addition/BinaryAddition.cs)
+
+- [Prize Draw](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1b9801e90488e800327424906cede357678a81f0/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Prize%20Draw/PrizeDraw.cs)
