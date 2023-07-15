@@ -49,9 +49,9 @@ namespace CodewarsKatas._6_kyu.Prize_Draw
     {
         public static string NthRank(string st, int[] we, int n)
         {
-            string[] splittedNames = st.ToLower().Split(",");
+            string[] splittedNames = st.Split(",");
 
-            List<int> sumNames = new List<int>();
+            List<KeyValuePair<int, string>> sumNames = new List<KeyValuePair<int, string>>();
 
             if (n > splittedNames.Length)
             {
@@ -67,13 +67,15 @@ namespace CodewarsKatas._6_kyu.Prize_Draw
                 {
                     int count = 0;
 
-                    for (int j = 0; j < splittedNames[i].Length; j++)
+                    string name = splittedNames[i].ToLower();
+
+                    for (int j = 0; j < name.Length; j++)
                     {
                         int countLetter = 1;
 
                         for (int k = 97; k <= 122; k++)
                         {
-                            if (splittedNames[i][j] == k)
+                            if (name[j] == k)
                             {
                                 break;
                             }
@@ -81,7 +83,9 @@ namespace CodewarsKatas._6_kyu.Prize_Draw
                         }
                         count += countLetter;
                     }
-                    sumNames.Add((splittedNames[i].Length + count) * we[i]);
+
+                    sumNames.Add(new KeyValuePair<int, string>((splittedNames[i].Length + count) * we[i], splittedNames[i]));
+
                 }
 
                 //TODO: not finished yet
