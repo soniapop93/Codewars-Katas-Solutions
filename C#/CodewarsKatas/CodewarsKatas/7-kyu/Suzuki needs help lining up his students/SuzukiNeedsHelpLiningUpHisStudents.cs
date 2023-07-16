@@ -68,8 +68,6 @@ namespace CodewarsKatas._7_kyu.Suzuki_needs_help_lining_up_his_students
             }
             return sortedNames.ToArray();
         }
-         
-        //TODO: not finished yet
 
         private static List<string> sortAlphabetically(List<string> sortList) 
         {
@@ -89,6 +87,10 @@ namespace CodewarsKatas._7_kyu.Suzuki_needs_help_lining_up_his_students
                             sortList[i] = sortList[i + 1];
                             sortList[i + 1] = aux;
                             sorted = false;
+                            break;
+                        }
+                        else if (sortList[i][j] > sortList[i + 1][j])
+                        {
                             break;
                         }
                     }
