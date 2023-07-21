@@ -94,3 +94,5 @@ My solutions for Codewars Kata Challenges
 - [Prize Draw](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1b9801e90488e800327424906cede357678a81f0/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Prize%20Draw/PrizeDraw.cs)
 
 - [Suzuki needs help lining up his students!](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/6d1421cfb9a93dd3dbbc376b54d966d01627259e/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Suzuki%20needs%20help%20lining%20up%20his%20students/SuzukiNeedsHelpLiningUpHisStudents.cs)
+
+- [Largest Elements](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c40fdae3d401acbcf2cdd82db74c2e26291d6953/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Largest%20Elements/LargestElements.cs)
