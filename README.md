@@ -96,3 +96,5 @@ My solutions for Codewars Kata Challenges
 - [Suzuki needs help lining up his students!](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/6d1421cfb9a93dd3dbbc376b54d966d01627259e/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Suzuki%20needs%20help%20lining%20up%20his%20students/SuzukiNeedsHelpLiningUpHisStudents.cs)
 
 - [Largest Elements](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c40fdae3d401acbcf2cdd82db74c2e26291d6953/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Largest%20Elements/LargestElements.cs)
+
+- [Sum a list but ignore duplicates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/30c9aaa7c2e2215cab114f8baa334549d20c39e0/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Sum%20a%20list%20but%20ignore%20duplicates/SumAListButIgnoreDuplicates.cs)
