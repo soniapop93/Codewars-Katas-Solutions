@@ -23,7 +23,6 @@ namespace CodewarsKatas._7_kyu.Largest_Elements
                 result.Add(orderedListDescendent[i]);
             }
 
-
             return orderAscendent(result);
         }
 
