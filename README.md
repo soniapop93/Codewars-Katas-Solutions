@@ -100,3 +100,5 @@ My solutions for Codewars Kata Challenges
 - [Sum a list but ignore duplicates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/30c9aaa7c2e2215cab114f8baa334549d20c39e0/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Sum%20a%20list%20but%20ignore%20duplicates/SumAListButIgnoreDuplicates.cs)
 
 - [Fix string case](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a4beadc246b53f3bbdf7268bddb78b05a7456b86/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Fix%20string%20case/FixStringCase.cs)
+
+- [Dot calculator](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/35d7ee0367c2de5a2852cce0ca00beb044ad48a1/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Dot%20Calculator/DotCalculator.cs)
