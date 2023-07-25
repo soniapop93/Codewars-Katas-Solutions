@@ -102,3 +102,5 @@ My solutions for Codewars Kata Challenges
 - [Fix string case](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a4beadc246b53f3bbdf7268bddb78b05a7456b86/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Fix%20string%20case/FixStringCase.cs)
 
 - [Dot calculator](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/35d7ee0367c2de5a2852cce0ca00beb044ad48a1/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Dot%20Calculator/DotCalculator.cs)
+
+- [Between Extremes](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/10b47fad5933badc6445f45946e2f332aedc5167/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Between%20Extremes/BetweenExtremesKata.cs)
