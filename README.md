@@ -104,3 +104,5 @@ My solutions for Codewars Kata Challenges
 - [Dot calculator](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/35d7ee0367c2de5a2852cce0ca00beb044ad48a1/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Dot%20Calculator/DotCalculator.cs)
 
 - [Between Extremes](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/10b47fad5933badc6445f45946e2f332aedc5167/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Between%20Extremes/BetweenExtremesKata.cs)
+
+- [Remove duplicates from list](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1cc9914c0d8ebd4781b8618da66cb37b93bb0396/C%23/CodewarsKatas/CodewarsKatas/8-kyu/Remove%20duplicates%20from%20list/RemoveDuplicatesFromList.cs)
