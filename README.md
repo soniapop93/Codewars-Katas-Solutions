@@ -110,3 +110,7 @@ My solutions for Codewars Kata Challenges
 - [Two numbers are positive](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4d0f9c86347a099b8402199d6d1576c7e2b815ef/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Two%20numbers%20are%20positive/TwoNumbersArePositive.cs)
 
 - [Help Suziki rake his garden](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4d0f9c86347a099b8402199d6d1576c7e2b815ef/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Help%20Suzuki%20rake%20his%20garden/HelpSuzukiRakeHisGarden.cs)
+
+- [Vowel Count](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/039f5bb7a5486554542e200d0d7d4578da994846/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Vowel%20Count/VowelCount.cs)
+
+- [Trimming a String](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/039f5bb7a5486554542e200d0d7d4578da994846/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Trimming%20a%20string/TrimmingAString.cs)
