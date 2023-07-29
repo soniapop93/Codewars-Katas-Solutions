@@ -114,3 +114,5 @@ My solutions for Codewars Kata Challenges
 - [Vowel Count](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/039f5bb7a5486554542e200d0d7d4578da994846/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Vowel%20Count/VowelCount.cs)
 
 - [Trimming a String](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/039f5bb7a5486554542e200d0d7d4578da994846/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Trimming%20a%20string/TrimmingAString.cs)
+
+- [CamelCase Method](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a48170a6f83a438123715caae68f7fdc9e8a038f/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Camel%20Case%20Method/CamelCaseMethod.cs)
