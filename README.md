@@ -116,3 +116,5 @@ My solutions for Codewars Kata Challenges
 - [Trimming a String](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/039f5bb7a5486554542e200d0d7d4578da994846/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Trimming%20a%20string/TrimmingAString.cs)
 
 - [CamelCase Method](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a48170a6f83a438123715caae68f7fdc9e8a038f/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Camel%20Case%20Method/CamelCaseMethod.cs)
+
+- [New Cashier Does Not Know About Space or Shift](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/86d28f0f0017010c4ae892ba24758ac7ced09a66/C%23/CodewarsKatas/CodewarsKatas/6-kyu/New%20Cashier%20Does%20Not%20Know%20About%20Space%20or%20Shift/NewCashierDoesNotKnowAboutSpaceOrShift.cs)
