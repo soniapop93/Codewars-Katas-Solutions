@@ -118,3 +118,5 @@ My solutions for Codewars Kata Challenges
 - [CamelCase Method](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a48170a6f83a438123715caae68f7fdc9e8a038f/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Camel%20Case%20Method/CamelCaseMethod.cs)
 
 - [New Cashier Does Not Know About Space or Shift](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/86d28f0f0017010c4ae892ba24758ac7ced09a66/C%23/CodewarsKatas/CodewarsKatas/6-kyu/New%20Cashier%20Does%20Not%20Know%20About%20Space%20or%20Shift/NewCashierDoesNotKnowAboutSpaceOrShift.cs)
+
+- [Count the smiley faces](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e59a8d7ef5947e6abcbdc363cf494f3b08bab148/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Count%20the%20smiley%20faces/CountTheSmileyFaces.cs)
