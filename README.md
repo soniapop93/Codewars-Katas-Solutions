@@ -120,3 +120,5 @@ My solutions for Codewars Kata Challenges
 - [New Cashier Does Not Know About Space or Shift](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/86d28f0f0017010c4ae892ba24758ac7ced09a66/C%23/CodewarsKatas/CodewarsKatas/6-kyu/New%20Cashier%20Does%20Not%20Know%20About%20Space%20or%20Shift/NewCashierDoesNotKnowAboutSpaceOrShift.cs)
 
 - [Count the smiley faces](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e59a8d7ef5947e6abcbdc363cf494f3b08bab148/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Count%20the%20smiley%20faces/CountTheSmileyFaces.cs)
+
+- [Playing with passphrases](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/dd004e5c54c017f5a4c04bbed913cc45b3f60cf4/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Playing%20with%20passphrases/PlayingWithPassphrases.cs)
