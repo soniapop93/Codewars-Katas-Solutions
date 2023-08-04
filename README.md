@@ -126,3 +126,5 @@ My solutions for Codewars Kata Challenges
 - [Format words into a sentence](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7254666101fb696fc046269ec6e7e4a0ecddbc3d/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Format%20words%20into%20a%20sentence/FormatWordsIntoASentence.cs)
 
 - [Find the unique number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/784a86762e10b30c52338626214cddd7cc97bfb1/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Find%20the%20unique%20number/FindTheUniqueNumber.cs)
+
+- [Mexican Wave](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a860c393acf5a8b9bf64319b6f0d22d28e61bbc0/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Mexican%20Wave/MexicanWaveKata.cs)
