@@ -128,3 +128,5 @@ My solutions for Codewars Kata Challenges
 - [Find the unique number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/784a86762e10b30c52338626214cddd7cc97bfb1/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Find%20the%20unique%20number/FindTheUniqueNumber.cs)
 
 - [Mexican Wave](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a860c393acf5a8b9bf64319b6f0d22d28e61bbc0/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Mexican%20Wave/MexicanWaveKata.cs)
+
+- [Unique In Order](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fe381ea3705bb0221923f39b069e5adc50bb175d/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Unique%20In%20Order/UniqueInOrder.cs)
