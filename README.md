@@ -130,3 +130,5 @@ My solutions for Codewars Kata Challenges
 - [Mexican Wave](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a860c393acf5a8b9bf64319b6f0d22d28e61bbc0/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Mexican%20Wave/MexicanWaveKata.cs)
 
 - [Unique In Order](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fe381ea3705bb0221923f39b069e5adc50bb175d/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Unique%20In%20Order/UniqueInOrder.cs)
+
+- [Sort Numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f439d06816221a2836e090e47509191bbf4a7b85/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Sort%20Numbers/SortNumbersKata.cs)
