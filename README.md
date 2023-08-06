@@ -132,3 +132,5 @@ My solutions for Codewars Kata Challenges
 - [Unique In Order](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fe381ea3705bb0221923f39b069e5adc50bb175d/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Unique%20In%20Order/UniqueInOrder.cs)
 
 - [Sort Numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f439d06816221a2836e090e47509191bbf4a7b85/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Sort%20Numbers/SortNumbersKata.cs)
+
+- [Digits explosion](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/0f2ac95d566e1a4a15ff1cf9848f49637759b56e/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Digits%20explosion/DigitsExplosion.cs)
