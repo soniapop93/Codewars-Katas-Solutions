@@ -134,3 +134,5 @@ My solutions for Codewars Kata Challenges
 - [Sort Numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f439d06816221a2836e090e47509191bbf4a7b85/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Sort%20Numbers/SortNumbersKata.cs)
 
 - [Digits explosion](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/0f2ac95d566e1a4a15ff1cf9848f49637759b56e/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Digits%20explosion/DigitsExplosion.cs)
+
+- [Highest and Lowest](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/6bd43fe35b302115dc47c2ae9e4a838306b9f605/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Highest%20and%20Lowest/HighestAndLowest.cs)
