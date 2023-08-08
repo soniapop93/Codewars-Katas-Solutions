@@ -136,3 +136,7 @@ My solutions for Codewars Kata Challenges
 - [Digits explosion](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/0f2ac95d566e1a4a15ff1cf9848f49637759b56e/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Digits%20explosion/DigitsExplosion.cs)
 
 - [Highest and Lowest](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/6bd43fe35b302115dc47c2ae9e4a838306b9f605/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Highest%20and%20Lowest/HighestAndLowest.cs)
+
+- [Remove the minimum](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8397d2aaaa6be40135494b4fc30f6445f8db1eae/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Remove%20the%20minimum/RemoveTheMinimum.cs)
+
+- [Reverse Words](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8397d2aaaa6be40135494b4fc30f6445f8db1eae/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Reverse%20Words/ReverseWordsKata.cs)
