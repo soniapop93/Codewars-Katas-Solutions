@@ -140,3 +140,5 @@ My solutions for Codewars Kata Challenges
 - [Remove the minimum](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8397d2aaaa6be40135494b4fc30f6445f8db1eae/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Remove%20the%20minimum/RemoveTheMinimum.cs)
 
 - [Reverse Words](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8397d2aaaa6be40135494b4fc30f6445f8db1eae/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Reverse%20Words/ReverseWordsKata.cs)
+
+- [Anagram Detection]()
