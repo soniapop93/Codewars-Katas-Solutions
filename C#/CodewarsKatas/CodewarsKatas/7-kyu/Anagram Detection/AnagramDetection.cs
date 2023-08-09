@@ -19,7 +19,6 @@ namespace CodewarsKatas._7_kyu.Anagram_Detection
 
             if (test.Length == original.Length)
             {
-                
                 for (int i = 0; i < original.Length; i++)
                 {
                     int count = 0;
@@ -31,10 +30,10 @@ namespace CodewarsKatas._7_kyu.Anagram_Detection
                             count++;
                         }
                     }
+
                     if (count > 0)
                     {
                         anagram = true;
-                        continue;
                     }
                     else
                     {
@@ -42,10 +41,6 @@ namespace CodewarsKatas._7_kyu.Anagram_Detection
                         break;
                     }
                 }
-            }
-            else
-            {
-                return anagram;
             }
 
             return anagram;
