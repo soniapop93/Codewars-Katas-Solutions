@@ -145,4 +145,4 @@ My solutions for Codewars Kata Challenges
 
 - [Array Diff](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2001d151498a122df83a7a104d00723fff1626a7/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Array%20Diff/ArrayDiffKata.cs)
 
-- [Create Phone Number]()
+- [Create Phone Number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/36c49e07e5066ac990cc761212b28709d05c8963/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Create%20Phone%20Number/CreatePhoneNumberKata.cs)
