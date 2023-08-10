@@ -142,3 +142,7 @@ My solutions for Codewars Kata Challenges
 - [Reverse Words](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8397d2aaaa6be40135494b4fc30f6445f8db1eae/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Reverse%20Words/ReverseWordsKata.cs)
 
 - [Anagram Detection](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/0dd9c0f29b2705f640ea9e970ef7420400a9e5f0/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Anagram%20Detection/AnagramDetection.cs)
+
+- [Array Diff](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2001d151498a122df83a7a104d00723fff1626a7/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Array%20Diff/ArrayDiffKata.cs)
+
+- [Create Phone Number]()
