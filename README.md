@@ -149,4 +149,6 @@ My solutions for Codewars Kata Challenges
 
 - [Categorize New Member](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/042323d827ed00810dbe31bb26c1b991dfcc7368/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Categorize%20New%20Member/CategorizeNewMember.cs)
 
-- [Adding Big Numbers]()
+- [Adding Big Numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c5a1e1050fcb8e9a10816336d42f21bd71f809f8/C%23/CodewarsKatas/CodewarsKatas/4-kyu/Adding%20Big%20Numbers/AddingBigNumbers.cs)
+
+-

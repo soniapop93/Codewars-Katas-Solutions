@@ -18,7 +18,7 @@ using System.Numerics;
 
 namespace CodewarsKatas._4_kyu.Sum_Strings_as_Numbers
 {
-    public class SumStringsAsNumbers
+    public class AddingBigNumbers
     {
         public static string Add(string a, string b)
         {
