@@ -151,4 +151,4 @@ My solutions for Codewars Kata Challenges
 
 - [Adding Big Numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c5a1e1050fcb8e9a10816336d42f21bd71f809f8/C%23/CodewarsKatas/CodewarsKatas/4-kyu/Adding%20Big%20Numbers/AddingBigNumbers.cs)
 
--
+- [Isograms](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2daa76d2f3c4445c526f70c3704bbd3f06f85b2c/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Isograms/Isograms.cs)
