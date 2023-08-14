@@ -156,3 +156,5 @@ My solutions for Codewars Kata Challenges
 - [String Ends With](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/044aca68c1b40c80740da9442d179f494d56b1bf/C%23/CodewarsKatas/CodewarsKatas/7-kyu/String%20Ends%20With/StringEndsWith.cs)
 
 - [Counting Duplicates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/aa81113590fe95ce849ce66f6693d700138d7b8e/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Counting%20Duplicates/CountingDuplicates.cs)
+
+- [Duplicate Encoder](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d55bc998544a811f1c1779017cb46daf3eb4a82d/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Duplicate%20Encoder/DuplicateEncoder.cs)
