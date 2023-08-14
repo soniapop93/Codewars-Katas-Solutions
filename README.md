@@ -154,3 +154,5 @@ My solutions for Codewars Kata Challenges
 - [Isograms](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2daa76d2f3c4445c526f70c3704bbd3f06f85b2c/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Isograms/Isograms.cs)
 
 - [String Ends With](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/044aca68c1b40c80740da9442d179f494d56b1bf/C%23/CodewarsKatas/CodewarsKatas/7-kyu/String%20Ends%20With/StringEndsWith.cs)
+
+- [Counting Duplicates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/aa81113590fe95ce849ce66f6693d700138d7b8e/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Counting%20Duplicates/CountingDuplicates.cs)
