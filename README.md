@@ -160,3 +160,5 @@ My solutions for Codewars Kata Challenges
 - [Duplicate Encoder](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d55bc998544a811f1c1779017cb46daf3eb4a82d/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Duplicate%20Encoder/DuplicateEncoder.cs)
 
 - [Split Strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/314b60db109c75dc5e30303b400d1797a83636f8/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Split%20Strings/SplitStrings.cs)
+
+- [Find the missing letter](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/85130188fe9c361993f7fb757a34ba4729ce1078/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Find%20the%20missing%20letter/FindTheMissingLetter.cs)
