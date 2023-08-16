@@ -164,3 +164,5 @@ My solutions for Codewars Kata Challenges
 - [Find the missing letter](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/85130188fe9c361993f7fb757a34ba4729ce1078/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Find%20the%20missing%20letter/FindTheMissingLetter.cs)
 
 - [Count characters in your string](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3a26ecce443d15a87aaf1e481c01f80854e2c36d/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Count%20characters%20in%20your%20string/CountCharactersInYourString.cs)
+
+- [Give me a diamond](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/967807442bd4276f1f3fa851be5ef1b52ab3607f/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Give%20me%20a%20Diamond/GiveMeADiamond.cs)
