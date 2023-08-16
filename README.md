@@ -162,3 +162,5 @@ My solutions for Codewars Kata Challenges
 - [Split Strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/314b60db109c75dc5e30303b400d1797a83636f8/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Split%20Strings/SplitStrings.cs)
 
 - [Find the missing letter](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/85130188fe9c361993f7fb757a34ba4729ce1078/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Find%20the%20missing%20letter/FindTheMissingLetter.cs)
+
+- [Count characters in your string](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3a26ecce443d15a87aaf1e481c01f80854e2c36d/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Count%20characters%20in%20your%20string/CountCharactersInYourString.cs)
