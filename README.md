@@ -166,3 +166,5 @@ My solutions for Codewars Kata Challenges
 - [Count characters in your string](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3a26ecce443d15a87aaf1e481c01f80854e2c36d/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Count%20characters%20in%20your%20string/CountCharactersInYourString.cs)
 
 - [Give me a diamond](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/967807442bd4276f1f3fa851be5ef1b52ab3607f/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Give%20me%20a%20Diamond/GiveMeADiamond.cs)
+
+- [Extract the file name](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3e7ddae17d0a5f675363783627bdbf4be77b885b/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Extract%20the%20file%20name/ExtractTheFileName.cs)
