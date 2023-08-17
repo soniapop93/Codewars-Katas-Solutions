@@ -168,3 +168,5 @@ My solutions for Codewars Kata Challenges
 - [Give me a diamond](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/967807442bd4276f1f3fa851be5ef1b52ab3607f/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Give%20me%20a%20Diamond/GiveMeADiamond.cs)
 
 - [Extract the file name](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3e7ddae17d0a5f675363783627bdbf4be77b885b/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Extract%20the%20file%20name/ExtractTheFileName.cs)
+
+- [Grouped by commas](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d97b2d06966e3b6d912914a42d51cce7b4b52578/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Grouped%20by%20commas/GroupedByCommas.cs)
