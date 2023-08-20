@@ -174,3 +174,5 @@ My solutions for Codewars Kata Challenges
 - [Highest Scoring Word](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/916aa9574c8d06bc40aa0a2e129e14fd19807bcc/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Highest%20Scoring%20Word/HighestScoringWord.cs)
 
 - [Sort array by string length](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2dda20e8de701096ceb29d6bac90d75909625669/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Sort%20array%20by%20string%20length/SortrrayByStringLength.cs)
+
+- [Build Tower](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/304b64af6534d53c600b5a777f7cf9c7fa656707/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Build%20Tower/BuildTower.cs)
