@@ -55,7 +55,7 @@ namespace CodewarsKatas._6_kyu.Give_me_a_Diamond
 
                     string spacesStars = addSpaces(n - stars.Length);
 
-                    rows.Add(spacesStars + stars);
+                    rows.Add(spacesStars + stars + spacesStars);
                 }
 
                 for (int i = 0; i < rows.Count; i++)
