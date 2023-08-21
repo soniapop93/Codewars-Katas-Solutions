@@ -176,3 +176,5 @@ My solutions for Codewars Kata Challenges
 - [Sort array by string length](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2dda20e8de701096ceb29d6bac90d75909625669/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Sort%20array%20by%20string%20length/SortrrayByStringLength.cs)
 
 - [Build Tower](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/304b64af6534d53c600b5a777f7cf9c7fa656707/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Build%20Tower/BuildTower.cs)
+
+- [Alphabet symmetry](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fa625b2c72e06ad6baa1b296dc1f52604b17d3e8/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Alphabet%20symmetry/AlphabetSymmetry.cs)
