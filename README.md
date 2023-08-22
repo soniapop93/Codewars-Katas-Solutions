@@ -178,3 +178,5 @@ My solutions for Codewars Kata Challenges
 - [Build Tower](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/304b64af6534d53c600b5a777f7cf9c7fa656707/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Build%20Tower/BuildTower.cs)
 
 - [Alphabet symmetry](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fa625b2c72e06ad6baa1b296dc1f52604b17d3e8/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Alphabet%20symmetry/AlphabetSymmetry.cs)
+
+- [Find the capitals](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d1de46726e0d884af6736f9ef8a1204a05e577f5/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Find%20the%20capitals/FindTheCapitals.cs)
