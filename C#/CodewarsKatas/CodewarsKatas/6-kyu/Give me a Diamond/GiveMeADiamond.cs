@@ -31,8 +31,6 @@
  * 
  */
 
-using System.Diagnostics;
-
 namespace CodewarsKatas._6_kyu.Give_me_a_Diamond
 {
     public class GiveMeADiamond
