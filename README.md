@@ -180,3 +180,5 @@ My solutions for Codewars Kata Challenges
 - [Alphabet symmetry](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fa625b2c72e06ad6baa1b296dc1f52604b17d3e8/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Alphabet%20symmetry/AlphabetSymmetry.cs)
 
 - [Find the capitals](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d1de46726e0d884af6736f9ef8a1204a05e577f5/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Find%20the%20capitals/FindTheCapitals.cs)
+
+- [Maximum Length Difference](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8666335899d65f4290d91b5c123639f8ceb0cb06/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Maximum%20Length%20Difference/MaximumLengthDifference.cs)
