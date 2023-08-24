@@ -182,3 +182,5 @@ My solutions for Codewars Kata Challenges
 - [Find the capitals](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d1de46726e0d884af6736f9ef8a1204a05e577f5/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Find%20the%20capitals/FindTheCapitals.cs)
 
 - [Maximum Length Difference](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8666335899d65f4290d91b5c123639f8ceb0cb06/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Maximum%20Length%20Difference/MaximumLengthDifference.cs)
+
+- [Indexed capitalization](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/08babfe3fe3838e2659078c5dd1e751cd81fe135/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Indexed%20capitalization/IndexedCapitalization.cs)
