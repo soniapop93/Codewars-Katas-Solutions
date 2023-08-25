@@ -184,3 +184,5 @@ My solutions for Codewars Kata Challenges
 - [Maximum Length Difference](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8666335899d65f4290d91b5c123639f8ceb0cb06/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Maximum%20Length%20Difference/MaximumLengthDifference.cs)
 
 - [Indexed capitalization](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/08babfe3fe3838e2659078c5dd1e751cd81fe135/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Indexed%20capitalization/IndexedCapitalization.cs)
+
+- [[Odd-Even String Sort](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d20ef8198e8de826e861143e4a2d23708c68afa4/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Odd%20Even%20String%20Sort/OddEvenStringSort.cs)
