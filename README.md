@@ -185,4 +185,6 @@ My solutions for Codewars Kata Challenges
 
 - [Indexed capitalization](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/08babfe3fe3838e2659078c5dd1e751cd81fe135/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Indexed%20capitalization/IndexedCapitalization.cs)
 
-- [[Odd-Even String Sort](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d20ef8198e8de826e861143e4a2d23708c68afa4/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Odd%20Even%20String%20Sort/OddEvenStringSort.cs)
+- [Odd-Even String Sort](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d20ef8198e8de826e861143e4a2d23708c68afa4/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Odd%20Even%20String%20Sort/OddEvenStringSort.cs)
+
+- [Sum of integers in string](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/627b523876012d5b54260dbf718c6ebbab0b71bf/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Sum%20of%20integers%20in%20string/SumOfIntegersInStringKata.cs)
