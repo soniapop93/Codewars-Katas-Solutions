@@ -44,7 +44,6 @@ namespace CodewarsKatas._7_kyu.Sum_of_integers_in_string
                     number = "";
                     foundLetter = false;
                 }
-                
             }
 
             return result;
