@@ -191,4 +191,4 @@ My solutions for Codewars Kata Challenges
 
 - [Sort by last char](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/393042f9146689bc617c8f6cf03d19b3d2bbb13b/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Sort%20By%20Last%20Char/SortByLastChar.cs)
 
-- [Last Survivor]()
+- [Last Survivor](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ee0be0f8fe219650d5f9b84b01b25bcf9196b186/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Last%20Survivor/LastSurvivorKata.cs)
