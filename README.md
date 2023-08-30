@@ -194,3 +194,5 @@ My solutions for Codewars Kata Challenges
 - [Last Survivor](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ee0be0f8fe219650d5f9b84b01b25bcf9196b186/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Last%20Survivor/LastSurvivorKata.cs)
 
 - [Sort the columns of a csv file](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/19f0a74cc31fa05a51a983ded622834dca96ce16/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Sort%20the%20columns%20of%20a%20csv%20file/SortTheColumnsOfACsvFile.cs)
+
+- [Backspaces in String](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2826170e043a7fc1eab5c96df68c6133d7252fdb/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Backspaces%20in%20string/BackspacesInString.cs)
