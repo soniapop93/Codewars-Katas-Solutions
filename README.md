@@ -196,3 +196,5 @@ My solutions for Codewars Kata Challenges
 - [Sort the columns of a csv file](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/19f0a74cc31fa05a51a983ded622834dca96ce16/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Sort%20the%20columns%20of%20a%20csv%20file/SortTheColumnsOfACsvFile.cs)
 
 - [Backspaces in String](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2826170e043a7fc1eab5c96df68c6133d7252fdb/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Backspaces%20in%20string/BackspacesInString.cs)
+
+- [All unique](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/55d250a9af7e21be609aaddc557426e18aeff789/C%23/CodewarsKatas/CodewarsKatas/7-kyu/All%20Unique/AllUnique.cs)
