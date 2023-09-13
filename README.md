@@ -198,3 +198,5 @@ My solutions for Codewars Kata Challenges
 - [Backspaces in String](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2826170e043a7fc1eab5c96df68c6133d7252fdb/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Backspaces%20in%20string/BackspacesInString.cs)
 
 - [All unique](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/55d250a9af7e21be609aaddc557426e18aeff789/C%23/CodewarsKatas/CodewarsKatas/7-kyu/All%20Unique/AllUnique.cs)
+
+- [Calculate String Rotation](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d4dafda12b1b0a980a96e4429bda4c51d43b8e92/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Calculate%20String%20Rotation/CalculateStringRotation.cs)
