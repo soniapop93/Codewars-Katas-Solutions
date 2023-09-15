@@ -204,3 +204,5 @@ My solutions for Codewars Kata Challenges
 - [String Breakers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/222d8186a61c86ea8d74a5842aef8a871371e3be/C%23/CodewarsKatas/CodewarsKatas/6-kyu/String%20Breakers/StringBreakersKata.cs)
 
 - [Weird String Case](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/222d8186a61c86ea8d74a5842aef8a871371e3be/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Weird%20String%20Case/WeirdStringCase.cs)
+
+- [Return Substring Instance Count](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fd2885d0308b421a529764d5532ef3ad72ccc20e/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Return%20Substring%20Instance%20Count/ReturnSubstringInstanceCount.cs)
