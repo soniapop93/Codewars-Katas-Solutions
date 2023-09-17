@@ -208,3 +208,5 @@ My solutions for Codewars Kata Challenges
 - [Return Substring Instance Count](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fd2885d0308b421a529764d5532ef3ad72ccc20e/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Return%20Substring%20Instance%20Count/ReturnSubstringInstanceCount.cs)
 
 - [Covfefe](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/830e969817dbc9aa17b50795334b1d7fea3d39b9/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Covfefe/CovfefeKata.cs)
+
+- [Numbers in strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/882da47b308aa8e7eb58002ba6b199dc61c88e88/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Number%20is%20strings/NumbersInStrings.cs)
