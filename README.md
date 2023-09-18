@@ -210,3 +210,5 @@ My solutions for Codewars Kata Challenges
 - [Covfefe](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/830e969817dbc9aa17b50795334b1d7fea3d39b9/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Covfefe/CovfefeKata.cs)
 
 - [Numbers in strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/882da47b308aa8e7eb58002ba6b199dc61c88e88/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Number%20is%20strings/NumbersInStrings.cs)
+
+- [Compare Strings by Sum of Chars](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/77793b74e3eed86f23aecc3aad0b14d17729c8f4/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Compare%20Strings%20by%20Sum%20of%20Chars/CompareStringsBySumOfChars.cs)
