@@ -28,7 +28,6 @@ namespace CodewarsKatas._7_kyu.Compare_Strings_by_Sum_of_Chars
                 return true;
             }
 
-
             s1 = s1.ToUpper();
             s2 = s2.ToUpper();
 
