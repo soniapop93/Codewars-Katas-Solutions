@@ -32,6 +32,10 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
 
             s = calculateMultiplication(s);
 
+            s = calculateDivision(s);
+
+            Console.WriteLine(s);
+
             return 0;
         }
 
@@ -51,41 +55,65 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
         {
             if (s.Contains("*"))
             {
-                string firstNumber = "";
-                string secondNumber = "";
+                Tuple<string, string> numbers = identifyFirstSecondNumbers(s, "*");
 
-                int index = s.IndexOf("*");
+                string result = (Double.Parse(numbers.Item1) * Double.Parse(numbers.Item2)).ToString();
 
-                for (int i = index; i < s.Length; i++)
-                {
-                    if (s[i] >= 48 && s[i] <= 57)
-                    {
-                        firstNumber += s[i].ToString();
-                    }
-                    else if (i != index)
-                    {
-                        break;
-                    }
-                }
-                // 4+3*5
-
-                for (int i = index; i >= 0; i--)
-                {
-                    if (s[i] >= 48 && s[i] <= 57)
-                    {
-                        secondNumber += s[i].ToString();
-                    }
-                    else if (i != index)
-                    {
-                        break;
-                    }
-                }
-                Console.WriteLine("");
+                s = s.Replace(numbers.Item1 + "*" + numbers.Item2, result);
             }
-            return "";
 
+            return s;
         }
 
+        private static string calculateDivision(string s)
+        {
+            if (s.Contains("/"))
+            {
+                Tuple<string, string> numbers = identifyFirstSecondNumbers(s, "/");
+
+                string result = (Double.Parse(numbers.Item1) / Double.Parse(numbers.Item2)).ToString();
+
+                s = s.Replace(numbers.Item1 + "/" + numbers.Item2, result);
+            }
+
+            return s;
+        }
+
+
+        private static Tuple<string, string> identifyFirstSecondNumbers(string s, string sign)
+        {
+            string firstNumber = "";
+            string secondNumber = "";
+
+            int index = s.IndexOf(sign);
+
+            for (int i = index; i >= 0; i--)
+            {
+                if ((s[i] >= 48 && s[i] <= 57) || s[i] == 46)
+                {
+                    firstNumber = s[i].ToString() + firstNumber;
+                }
+                else if (i != index)
+                {
+                    break;
+                }
+            }
+
+
+            for (int i = index; i < s.Length; i++)
+            {
+                if ((s[i] >= 48 && s[i] <= 57) || s[i] == 46)
+                {
+                    secondNumber += s[i].ToString();
+                }
+                else if (i != index)
+                {
+                    break;
+                }
+            }
+
+            return new Tuple<string, string>(firstNumber, secondNumber); 
+        }
 
     }
 }
