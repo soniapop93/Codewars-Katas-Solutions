@@ -22,6 +22,9 @@
  */
 
 
+using CodewarsKatas._8_kyu.Calculate_average;
+using System.Net.Http.Headers;
+
 namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
 {
     public class MyBedmasApprovedCalculator
@@ -74,6 +77,45 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
                 string result = (Double.Parse(numbers.Item1) / Double.Parse(numbers.Item2)).ToString();
 
                 s = s.Replace(numbers.Item1 + "/" + numbers.Item2, result);
+            }
+
+            return s;
+        }
+
+        private static string calculatePower(string s)
+        {
+            if (s.Contains("^"))
+            {
+                Tuple<string, string> numbers = identifyFirstSecondNumbers(s, "^");
+
+
+            }
+        }
+
+
+        private static string calculateAddition(string s)
+        {
+            if (s.Contains("+"))
+            {
+                Tuple<string, string> numbers = identifyFirstSecondNumbers(s, "+");
+
+                string result = (Double.Parse(numbers.Item1) + Double.Parse(numbers.Item2)).ToString();
+
+                s = s.Replace(numbers.Item1 + "+" + numbers.Item2, result);
+            }
+
+            return s;
+        }
+
+        private static string calculateSubtraction(string s)
+        {
+            if (s.Contains("-"))
+            {
+                Tuple<string, string> numbers = identifyFirstSecondNumbers(s, "-");
+
+                string result = (Double.Parse(numbers.Item1) - Double.Parse(numbers.Item2)).ToString();
+
+                s = s.Replace(numbers.Item1 + "-" + numbers.Item2, result);
             }
 
             return s;
