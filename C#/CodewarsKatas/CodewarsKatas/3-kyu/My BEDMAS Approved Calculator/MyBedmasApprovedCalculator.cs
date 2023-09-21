@@ -22,8 +22,6 @@
  */
 
 
-using CodewarsKatas._8_kyu.Calculate_average;
-using System.Net.Http.Headers;
 
 namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
 {
@@ -33,9 +31,15 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
         {
             s = removeSpaces(s);
 
+            s = calculatePower(s);
+
             s = calculateMultiplication(s);
 
             s = calculateDivision(s);
+
+            s = calculateAddition(s);
+
+            s = calculateSubtraction(s);
 
             Console.WriteLine(s);
 
@@ -52,7 +56,6 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
 
             return s;
         }
-
 
         private static string calculateMultiplication(string s)
         {
@@ -88,10 +91,13 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
             {
                 Tuple<string, string> numbers = identifyFirstSecondNumbers(s, "^");
 
+                string result = (Math.Pow(Double.Parse(numbers.Item1), Double.Parse(numbers.Item2))).ToString();
 
+                s = s.Replace(numbers.Item1 + "^" + numbers.Item2, result);
             }
-        }
 
+            return s;
+        }
 
         private static string calculateAddition(string s)
         {
@@ -120,7 +126,6 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
 
             return s;
         }
-
 
         private static Tuple<string, string> identifyFirstSecondNumbers(string s, string sign)
         {
