@@ -31,19 +31,14 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
         {
             s = removeSpaces(s);
 
-            s = calculatePower(s);
+            while (s.Contains("(") && s.Contains(")"))
+            {
+                s = calculateOperationInBrackets(s);
+            }
 
-            s = calculateMultiplication(s);
+            s = calculateOperation(s);
 
-            s = calculateDivision(s);
-
-            s = calculateAddition(s);
-
-            s = calculateSubtraction(s);
-
-            Console.WriteLine(s);
-
-            return 0;
+            return Double.Parse(s);
         }
 
         private static string removeSpaces(string s)
@@ -155,8 +150,10 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
             return new Tuple<int, int>(indexOfFirstBracket, indexOfSecondBracket);
         }
 
-        private static string calculateOperationInBrackets(string s, Tuple<int, int> indexesOfBrackets)
+        private static string calculateOperationInBrackets(string s)
         {
+            Tuple<int, int> indexesOfBrackets = identifyBrackets(s);
+
             if (indexesOfBrackets.Item1 != -1 && indexesOfBrackets.Item2 != -1)
             {
                 string newStr = "";
@@ -166,10 +163,62 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
                     newStr += s[i];
                 }
 
+                if (!newStr.Equals(""))
+                {
+                    newStr = calculateOperation(newStr);
 
-
+                    s = s.Substring(0, indexesOfBrackets.Item1) + newStr + s.Substring(indexesOfBrackets.Item2 + 1, s.Length - indexesOfBrackets.Item2 - 1);
+                }
             }
+
+            return s;
         }
+
+        private static string calculateOperation(string s)
+        {
+            while (s.Contains("^"))
+            {
+                s = calculatePower(s);
+            }
+
+            int index = 0;
+
+            while (index < s.Length)
+            {
+                if (s[index] == 42) // 42 -> *
+                {
+                    s = calculateMultiplication(s);
+                    index = 0;
+                }
+                else if (s[index] == 47) // 47 -> /
+                {
+                    s = calculateDivision(s);
+                    index = 0;
+                }
+                index++;
+            }
+
+            index = 0;
+
+            while (index < s.Length)
+            {
+                if (s[index] == 43) // 43 -> +
+                {
+                    s = calculateAddition(s);
+                    index = 0;
+                }
+                else if (s[index] == 45) // 47 -> -
+                {
+                    s = calculateSubtraction(s);
+                    index = 0;
+                }
+                index++;
+            }
+
+            return s;
+
+        }
+            
 
         private static Tuple<string, string> identifyFirstSecondNumbers(string s, string sign)
         {
