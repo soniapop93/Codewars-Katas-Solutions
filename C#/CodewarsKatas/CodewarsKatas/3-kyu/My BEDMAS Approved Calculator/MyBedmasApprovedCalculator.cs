@@ -22,7 +22,6 @@
  */
 
 
-
 namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
 {
     public class MyBedmasApprovedCalculator
@@ -218,7 +217,6 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
             return s;
 
         }
-            
 
         private static Tuple<string, string> identifyFirstSecondNumbers(string s, string sign)
         {
@@ -254,8 +252,5 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
 
             return new Tuple<string, string>(firstNumber, secondNumber); 
         }
-
     }
 }
-
-//intai caut ultima paranteza (, si din punctul in care o gasesc, o caut pe prima inchisa )
