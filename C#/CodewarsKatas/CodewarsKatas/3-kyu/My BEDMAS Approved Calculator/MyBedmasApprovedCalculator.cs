@@ -127,6 +127,50 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
             return s;
         }
 
+        private static Tuple<int, int> identifyBrackets(string s)
+        {
+            int indexOfFirstBracket = -1;
+            int indexOfSecondBracket = -1;
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (s[i] == 40) // 40 -> ( 
+                {
+                    indexOfFirstBracket = i;
+                }
+            }
+
+            if (indexOfFirstBracket != -1 && (s.Contains("(") && s.Contains(")")))
+            {
+                for (int i = indexOfFirstBracket; i < s.Length; i++)
+                {
+                    if (s[i] == 41) // 41 -> )
+                    {
+                        indexOfSecondBracket = i;
+                        break;
+                    }
+                }
+            }
+
+            return new Tuple<int, int>(indexOfFirstBracket, indexOfSecondBracket);
+        }
+
+        private static string calculateOperationInBrackets(string s, Tuple<int, int> indexesOfBrackets)
+        {
+            if (indexesOfBrackets.Item1 != -1 && indexesOfBrackets.Item2 != -1)
+            {
+                string newStr = "";
+
+                for (int i = indexesOfBrackets.Item1 + 1; i < indexesOfBrackets.Item2; i++)
+                {
+                    newStr += s[i];
+                }
+
+
+
+            }
+        }
+
         private static Tuple<string, string> identifyFirstSecondNumbers(string s, string sign)
         {
             string firstNumber = "";
@@ -164,3 +208,5 @@ namespace CodewarsKatas._3_kyu.My_BEDMAS_Approved_Calculator
 
     }
 }
+
+//intai caut ultima paranteza (, si din punctul in care o gasesc, o caut pe prima inchisa )
