@@ -214,3 +214,5 @@ My solutions for Codewars Kata Challenges
 - [Compare Strings by Sum of Chars](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/77793b74e3eed86f23aecc3aad0b14d17729c8f4/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Compare%20Strings%20by%20Sum%20of%20Chars/CompareStringsBySumOfChars.cs)
 
 - [Replace All](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/598d745bbe3de5b2a558c02091629fae0b1cbc96/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Replace%20All/ReplaceAll.cs)
+
+- [My BEDMAS Approved Calculator](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/42197717893977c21dd924eaccce6a83339eaad3/C%23/CodewarsKatas/CodewarsKatas/3-kyu/My%20BEDMAS%20Approved%20Calculator/MyBedmasApprovedCalculator.cs)
