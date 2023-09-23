@@ -216,3 +216,5 @@ My solutions for Codewars Kata Challenges
 - [Replace All](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/598d745bbe3de5b2a558c02091629fae0b1cbc96/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Replace%20All/ReplaceAll.cs)
 
 - [My BEDMAS Approved Calculator](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3ad94094417cc840593359d8ff19d117fa94b244/C%23/CodewarsKatas/CodewarsKatas/3-kyu/My%20BEDMAS%20Approved%20Calculator/MyBedmasApprovedCalculator.cs)
+
+- [ROT13](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/dcc3b44bf96c3417424532eb26e0d9bdf20038d5/C%23/CodewarsKatas/CodewarsKatas/5-kyu/ROT13/Rot13.cs)
