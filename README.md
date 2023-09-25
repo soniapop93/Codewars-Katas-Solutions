@@ -220,3 +220,5 @@ My solutions for Codewars Kata Challenges
 - [ROT13](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/dcc3b44bf96c3417424532eb26e0d9bdf20038d5/C%23/CodewarsKatas/CodewarsKatas/5-kyu/ROT13/Rot13.cs)
 
 - [Two Sum](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1593aa806e45c13d4462eb9dab807440ebea37b7/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Two%20Sum/TwoSum.cs)
+
+- [Longest Vowel Chain](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/b45fdd411f8c5449897238d6fd9141e7f8c65876/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Longest%20vowel%20chain/LongestVowelChain.cs)
