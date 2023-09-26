@@ -222,3 +222,5 @@ My solutions for Codewars Kata Challenges
 - [Two Sum](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1593aa806e45c13d4462eb9dab807440ebea37b7/C%23/CodewarsKatas/CodewarsKatas/6-kyu/Two%20Sum/TwoSum.cs)
 
 - [Longest Vowel Chain](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/b45fdd411f8c5449897238d6fd9141e7f8c65876/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Longest%20vowel%20chain/LongestVowelChain.cs)
+
+- [Find Fibonacci last digit](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e0e61fa80464e2100a5764f908eb9721c955394b/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Find%20Fibonacci%20last%20digit/FindFibonacciLastDigit.cs)
