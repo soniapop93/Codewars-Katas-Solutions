@@ -226,3 +226,5 @@ My solutions for Codewars Kata Challenges
 - [Find Fibonacci last digit](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e0e61fa80464e2100a5764f908eb9721c955394b/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Find%20Fibonacci%20last%20digit/FindFibonacciLastDigit.cs)
 
 - [The old switcheroo 2](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/42296d5b863364257ae3c1c01f0a5e613ba9e5a5/C%23/CodewarsKatas/CodewarsKatas/7-kyu/The%20old%20switcheroo%202/TheOldSwitcheroo2.cs)
+
+- [Max-min arrays](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4dddc191490de81ffcbb0923a066b50ecdecdcdf/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Max-min%20arrays/MaxMinArrays.cs)
