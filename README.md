@@ -230,3 +230,5 @@ My solutions for Codewars Kata Challenges
 - [Max-min arrays](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4dddc191490de81ffcbb0923a066b50ecdecdcdf/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Max-min%20arrays/MaxMinArrays.cs)
 
 - [Log without dates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9d440d52c60779a16631c28b82bcde5244802c46/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Log%20without%20dates/LogWithoutDates.cs)
+
+- [Simple string reversal](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ff61a4ee617e1f53b02a9abb606fc5f1b49b5457/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Simple%20string%20reversal/SimpleStringReversal.cs)

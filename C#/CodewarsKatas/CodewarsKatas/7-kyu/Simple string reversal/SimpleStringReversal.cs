@@ -53,10 +53,10 @@ namespace CodewarsKatas._7_kyu.Simple_string_reversal
 
                     result += " ";
 
-                    spaceIndex = spaceIndexes[j];
+                    spaceIndex = spaceIndexes[j] + 1;
                 }
 
-                result += s.Substring(spaceIndex, s.Length);
+                result += s.Substring(index, s.Length - index);
             }
             else
             {
