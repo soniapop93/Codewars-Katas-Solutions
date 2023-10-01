@@ -232,3 +232,5 @@ My solutions for Codewars Kata Challenges
 - [Log without dates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9d440d52c60779a16631c28b82bcde5244802c46/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Log%20without%20dates/LogWithoutDates.cs)
 
 - [Simple string reversal](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ff61a4ee617e1f53b02a9abb606fc5f1b49b5457/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Simple%20string%20reversal/SimpleStringReversal.cs)
+
+- [Convert PascalCase string into snake_case](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3a7f0cbe356ecd8d9bb9c610cd1db3ff9ac6bb4c/C%23/CodewarsKatas/CodewarsKatas/5-kyu/Convert%20PascalCase%20string%20into%20snake_case/ConvertPascalCaseStringIntoSnake_case.cs)
