@@ -38,7 +38,7 @@ namespace CodewarsKatas._5_kyu.Domain_name_validator
 {
     public class DomainNameValidator
     {
-        public bool validate(string domain)
+        public static bool validate(string domain)
         {
             if (String.IsNullOrEmpty(domain) || !domain.Contains("."))
             {
@@ -61,13 +61,19 @@ namespace CodewarsKatas._5_kyu.Domain_name_validator
 
             for (int i = 0; i < lastItem.Length; i++)
             {
-                if (!(lastItem[i] >= 65 && lastItem[i] <= 90) || !(lastItem[i] >= 97 && lastItem[i] <= 122))
+                if (!((lastItem[i] >= 65 && lastItem[i] <= 90) || (lastItem[i] >= 97 && lastItem[i] <= 122)))
                 {
                     return false;
                 }
             }
 
             string firstItem = splittedStr[0];
+            
+            if (String.IsNullOrEmpty(firstItem))
+            {
+                return false;
+            }
+
             int countDigits = -1;
 
             for (int i = 0; i < firstItem.Length; i++)
@@ -78,12 +84,33 @@ namespace CodewarsKatas._5_kyu.Domain_name_validator
                 }
             }
 
-            if (countDigits == firstItem.Length)
+            if ((countDigits == firstItem.Length))
             {
                 return false;
             }
 
-            return false;
+
+            for (int i = 0; i < splittedStr.Length - 1; i++)
+            {
+                for (int j = 0; j < splittedStr[i].Length; j++)
+                {
+                    if ((splittedStr[i][0] == 45) || (splittedStr[i][splittedStr[i].Length - 1] == 45))
+                    {
+                        return false;
+                    }
+
+                    if (!((splittedStr[i][j] >= 65 && splittedStr[i][j] <= 90) ||
+                        (splittedStr[i][j] >= 97 && splittedStr[i][j] <= 122) ||
+                        (splittedStr[i][j] >= 48 && splittedStr[i][j] <= 57) ||
+                        (splittedStr[i][j] == 45)))
+                    {
+                        return false;
+                    }
+                    
+                }
+            }
+
+            return true;
         }
     }
 }
