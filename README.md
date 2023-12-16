@@ -11,7 +11,7 @@ My solutions for Codewars Kata Challenges
 
 ## Java
 
-- [Your Order, please](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/527e8ca4f8d5872b926ee00483c22a41227979c4/Java/CodewarsKatas/src/main/java/kyu_6/Your_order_please/YourOrderPlease.java)
+- [Your Order, please](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4bde165bca895021051aa3e267746dcf6f36cc94/Java/CodewarsKatas/src/main/java/kyu_6/Your_order_please/YourOrderPlease.java)
 
 
 ## C#
