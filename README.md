@@ -9,6 +9,11 @@ My solutions for Codewars Kata Challenges
 
 ## 🔗 Links
 
+## Java
+
+- [Your Order, please](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/527e8ca4f8d5872b926ee00483c22a41227979c4/Java/CodewarsKatas/src/main/java/kyu_6/Your_order_please/YourOrderPlease.java)
+
+
 ## C#
 
 - [Jaden Casing Strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/863e570c07cde661f69dc1eb9205a470d4135ac0/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Jaden%20Casing%20Strings/JadenCasingStrings.cs)
