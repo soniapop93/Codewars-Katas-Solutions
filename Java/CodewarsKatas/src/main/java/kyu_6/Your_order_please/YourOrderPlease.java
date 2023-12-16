@@ -30,6 +30,7 @@ public class YourOrderPlease {
             for (int j = 0; j < splittedWords.length; j++) {
                 if (splittedWords[j].contains(String.valueOf(i))) {
                     result += splittedWords[j] + " ";
+                    break;
                 }
             }
         }
