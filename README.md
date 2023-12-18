@@ -12,6 +12,7 @@ My solutions for Codewars Kata Challenges
 ## Java
 
 - [Your Order, please](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4bde165bca895021051aa3e267746dcf6f36cc94/Java/CodewarsKatas/src/main/java/kyu_6/Your_order_please/YourOrderPlease.java)
+- [Missing Alphabet](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3553f1b7d5395733da7ff461e40f8e4f6acac8d8/Java/CodewarsKatas/src/main/java/kyu_6/Missing_Alphabet/MissingAlphabet.java)
 
 
 ## C#

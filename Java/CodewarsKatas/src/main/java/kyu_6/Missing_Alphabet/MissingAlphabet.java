@@ -29,18 +29,27 @@ package kyu_6.Missing_Alphabet;
 public class MissingAlphabet {
     public static String insertMissingLetters(String str) {
         String result = "";
+        String processedLetters = "";
 
         for (int i = 0; i < str.length(); i++) {
-        //TODO: finish it
+            String generatedLetters = generateLetters(str.charAt(i));
+            String checkedLetters = checkLetters(generatedLetters, str);
+
+            result += str.charAt(i);
+
+            if (!processedLetters.contains(String.valueOf(str.charAt(i)))) {
+                result += checkedLetters;
+                processedLetters += String.valueOf(str.charAt(i));
+            }
         }
 
         return result;
     }
 
-    private static String generateLetters(String letter) {
+    private static String generateLetters(char letter) {
         String result = "";
 
-        for (int i = (letter.charAt(0) - 33); i <= 90; i++) {
+        for (int i = (letter - 31); i <= 90; i++) {
             result += (char)i;
         }
 
@@ -51,8 +60,8 @@ public class MissingAlphabet {
         String result = "";
 
         for (int i = 0; i < generatedLetters.length(); i++) {
-            if (!str.contains(String.valueOf((char)i))) {
-                result += (char)i;
+            if (!str.toUpperCase().contains(String.valueOf(generatedLetters.charAt(i)))) {
+                result += generatedLetters.charAt(i);
             }
         }
 
