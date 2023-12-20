@@ -13,6 +13,7 @@ My solutions for Codewars Kata Challenges
 
 - [Your Order, please](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4bde165bca895021051aa3e267746dcf6f36cc94/Java/CodewarsKatas/src/main/java/kyu_6/Your_order_please/YourOrderPlease.java)
 - [Missing Alphabet](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/16f44236c8f1a1ebf76203653d37caa340c941fc/Java/CodewarsKatas/src/main/java/kyu_6/Missing_Alphabet/MissingAlphabet.java)
+- [String Array Duplicates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e1882ed4cbac715c6be8db37f647bc4038c35697/Java/CodewarsKatas/src/main/java/kyu_6/String_array_duplicates/StringArrayDuplicates.java)
 
 
 ## C#
