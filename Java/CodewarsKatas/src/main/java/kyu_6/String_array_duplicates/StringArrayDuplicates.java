@@ -19,30 +19,29 @@ import java.util.ArrayList;
 
 public class StringArrayDuplicates {
     public static String[] dup(String[] arr){
-        String[] result = {};
+        ArrayList<String> result = new ArrayList<String>();
 
         for (int i = 0; i < arr.length; i++) {
-            String currentString = arr[i];
+            String newWord = "";
 
             for (int j = 0; j < arr[i].length(); j++) {
-                int countLetter = countOccurences(currentString, arr[i].charAt(j));
-
-                //todo: finish it
+                if ((j + 1) < arr[i].length()) {
+                    if (arr[i].charAt(j) != arr[i].charAt(j + 1)) {
+                        newWord += arr[i].charAt(j);
+                    }
+                } else {
+                    newWord += arr[i].charAt(j);
+                }
             }
+            result.add(newWord);
         }
 
-        return result;
-    }
+        String[] arrResult = new String[result.size()];
 
-    private static int countOccurences(String word, char letter) {
-        int count = 0;
-
-        for (int i = 0; i < word.length(); i++) {
-            if (word.equals(String.valueOf(letter))) {
-                count++;
-            }
+        for (int i = 0; i < result.size(); i++) {
+            arrResult[i] = result.get(i);
         }
 
-        return count;
+        return arrResult;
     }
 }
