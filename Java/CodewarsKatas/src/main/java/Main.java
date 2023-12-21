@@ -7,10 +7,7 @@ public class Main {
 
         //System.out.println(YourOrderPlease.order("is2 Thi1s T4est 3a"));
         //System.out.println(MissingAlphabet.insertMissingLetters("hello"));
-        String[] test = StringArrayDuplicates.dup(new String[] {"kelless","keenness"});
+        //String[] test = StringArrayDuplicates.dup(new String[] {"kelless","keenness"});
 
-        for (String t : test) {
-            System.out.println(t);
-        }
     }
 }
