@@ -15,6 +15,7 @@ My solutions for Codewars Kata Challenges
 - [Missing Alphabet](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/16f44236c8f1a1ebf76203653d37caa340c941fc/Java/CodewarsKatas/src/main/java/kyu_6/Missing_Alphabet/MissingAlphabet.java)
 - [String Array Duplicates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e1882ed4cbac715c6be8db37f647bc4038c35697/Java/CodewarsKatas/src/main/java/kyu_6/String_array_duplicates/StringArrayDuplicates.java)
 - [Ordered count of characters](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1dd5e21b952106caa92778a7b6251407ad9af9f1/Java/CodewarsKatas/src/main/java/kyu_7/Ordered_count_of_characters/OrderCountOfCharacters.java)
+- [Reverse Letter](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/45ff32dec630a530797a42aeaeba3cbc1cdd75a4/Java/CodewarsKatas/src/main/java/kyu_7/Reverse_letter/ReverseLetter.java)
 
 
 ## C#
