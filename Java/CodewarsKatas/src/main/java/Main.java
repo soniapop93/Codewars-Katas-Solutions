@@ -11,7 +11,7 @@ public class Main {
         //System.out.println(MissingAlphabet.insertMissingLetters("hello"));
         //String[] test = StringArrayDuplicates.dup(new String[] {"kelless","keenness"});
         //System.out.println(ReverseLetter.reverseLetter("krish21an"));
-        System.out.println(CharacterCounter.validateWord("abcabc"));
+        System.out.println(CharacterCounter.validateWord("abc123"));
 
     }
 }
