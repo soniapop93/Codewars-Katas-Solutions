@@ -18,6 +18,7 @@ My solutions for Codewars Kata Challenges
 - [Reverse Letter](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/45ff32dec630a530797a42aeaeba3cbc1cdd75a4/Java/CodewarsKatas/src/main/java/kyu_7/Reverse_letter/ReverseLetter.java)
 - [Character Counter](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1c84c35f13f8cac1e8d4f9f153a2170e158857ba/Java/CodewarsKatas/src/main/java/kyu_7/Character_counter/CharacterCounter.java)
 - [Square every digit](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/5730402d7538cfe3d2505c48eaafdf75429667a1/Java/CodewarsKatas/src/main/java/kyu_7/Square_Every_Digit/SquareEveryDigit.java)
+- [Alternate Capitalization](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/53578021599253c647e314fb3bec7ceb3ba7dda2/Java/CodewarsKatas/src/main/java/kyu_7/Alternate_capitalization/AlternateCapitalization.java)
 
 ## C#
 
