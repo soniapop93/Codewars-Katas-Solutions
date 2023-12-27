@@ -19,6 +19,7 @@ My solutions for Codewars Kata Challenges
 - [Character Counter](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1c84c35f13f8cac1e8d4f9f153a2170e158857ba/Java/CodewarsKatas/src/main/java/kyu_7/Character_counter/CharacterCounter.java)
 - [Square every digit](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/5730402d7538cfe3d2505c48eaafdf75429667a1/Java/CodewarsKatas/src/main/java/kyu_7/Square_Every_Digit/SquareEveryDigit.java)
 - [Alternate Capitalization](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/53578021599253c647e314fb3bec7ceb3ba7dda2/Java/CodewarsKatas/src/main/java/kyu_7/Alternate_capitalization/AlternateCapitalization.java)
+- [Round up to the next multiple of 5](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ac1bfb4c913fd988b4a813652e42b80d1d41a269/Java/CodewarsKatas/src/main/java/kyu_7/Round_up_to_the_next_multiple_of_5/RoundUpToTheNextMultipleOf5.java)
 
 ## C#
 
