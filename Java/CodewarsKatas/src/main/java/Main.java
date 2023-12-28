@@ -1,3 +1,4 @@
+import kyu_6.Data_reverse.DataReverse;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
 import kyu_6.String_array_duplicates.StringArrayDuplicates;
 import kyu_6.Your_order_please.YourOrderPlease;
@@ -16,6 +17,8 @@ public class Main {
         //System.out.println(CharacterCounter.validateWord("abc123"));
         //System.out.println(AlternateCapitalization.capitalize("abcdef"));
         System.out.println(RoundUpToTheNextMultipleOf5.roundToNext5(0));
+
+        DataReverse.dataReverse(new int[]{1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1,0,1,0});
 
     }
 }
