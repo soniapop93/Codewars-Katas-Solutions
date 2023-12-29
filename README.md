@@ -12,14 +12,25 @@ My solutions for Codewars Kata Challenges
 ## Java
 
 - [Your Order, please](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4bde165bca895021051aa3e267746dcf6f36cc94/Java/CodewarsKatas/src/main/java/kyu_6/Your_order_please/YourOrderPlease.java)
+
 - [Missing Alphabet](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/16f44236c8f1a1ebf76203653d37caa340c941fc/Java/CodewarsKatas/src/main/java/kyu_6/Missing_Alphabet/MissingAlphabet.java)
+
 - [String Array Duplicates](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e1882ed4cbac715c6be8db37f647bc4038c35697/Java/CodewarsKatas/src/main/java/kyu_6/String_array_duplicates/StringArrayDuplicates.java)
+
 - [Ordered count of characters](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1dd5e21b952106caa92778a7b6251407ad9af9f1/Java/CodewarsKatas/src/main/java/kyu_7/Ordered_count_of_characters/OrderCountOfCharacters.java)
+
 - [Reverse Letter](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/45ff32dec630a530797a42aeaeba3cbc1cdd75a4/Java/CodewarsKatas/src/main/java/kyu_7/Reverse_letter/ReverseLetter.java)
+
 - [Character Counter](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1c84c35f13f8cac1e8d4f9f153a2170e158857ba/Java/CodewarsKatas/src/main/java/kyu_7/Character_counter/CharacterCounter.java)
+
 - [Square every digit](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/5730402d7538cfe3d2505c48eaafdf75429667a1/Java/CodewarsKatas/src/main/java/kyu_7/Square_Every_Digit/SquareEveryDigit.java)
+
 - [Alternate Capitalization](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/53578021599253c647e314fb3bec7ceb3ba7dda2/Java/CodewarsKatas/src/main/java/kyu_7/Alternate_capitalization/AlternateCapitalization.java)
+
 - [Round up to the next multiple of 5](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ac1bfb4c913fd988b4a813652e42b80d1d41a269/Java/CodewarsKatas/src/main/java/kyu_7/Round_up_to_the_next_multiple_of_5/RoundUpToTheNextMultipleOf5.java)
+
+- [Data reverse](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a249a3b50546c7ff6781c3cfd1106eaa2f373875/Java/CodewarsKatas/src/main/java/kyu_6/Data_reverse/DataReverse.java)
+
 
 ## C#
 
