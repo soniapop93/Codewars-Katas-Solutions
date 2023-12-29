@@ -26,23 +26,34 @@ import java.util.ArrayList;
 public class DataReverse {
     public static int[] dataReverse(int[] data) {
         ArrayList<Integer> result = new ArrayList<>();
+        ArrayList<String> itemList = new ArrayList<>();
 
         int count = 0;
-        ArrayList<Integer> item = new ArrayList<>();
+        String bitItem = "";
 
         for (int i = 0; i < data.length; i++) {
-            if (count == 8) {
-                for (int j = 0; j < item.size(); j++) {
-                    result.add(item.get(j));
+            if (count == 8 || i == data.length - 1) {
+                if (i == data.length - 1) {
+                    bitItem += data[data.length - 1];
                 }
+                itemList.add(bitItem);
                 count = 0;
-                item.clear();
+                bitItem = "";
             }
 
-            //todo: finish it
-
-            item.add(data[i]);
+            bitItem += data[i];
             count++;
+        }
+        ArrayList<String> reversedRes = new ArrayList<>();
+
+        for (int i = itemList.size() - 1; i >= 0; i--) {
+            reversedRes.add(itemList.get(i));
+        }
+
+        for (int i = 0; i < reversedRes.size(); i++) {
+            for (int j = 0; j < reversedRes.get(i).length(); j++) {
+                result.add(Integer.parseInt(String.valueOf(reversedRes.get(i).charAt(j))));
+            }
         }
 
         int[] res = new int[result.size()];
