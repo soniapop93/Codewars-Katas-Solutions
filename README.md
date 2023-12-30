@@ -31,6 +31,8 @@ My solutions for Codewars Kata Challenges
 
 - [Data reverse](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a249a3b50546c7ff6781c3cfd1106eaa2f373875/Java/CodewarsKatas/src/main/java/kyu_6/Data_reverse/DataReverse.java)
 
+- [Credit Card Mask](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/56fffbc082ef9e9abbf8548c9ae606753f1b9f3d/Java/CodewarsKatas/src/main/java/kyu_7/Credit_card_mask/CreditCardMask.java)
+
 
 ## C#
 
