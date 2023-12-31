@@ -33,6 +33,8 @@ My solutions for Codewars Kata Challenges
 
 - [Credit Card Mask](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/56fffbc082ef9e9abbf8548c9ae606753f1b9f3d/Java/CodewarsKatas/src/main/java/kyu_7/Credit_card_mask/CreditCardMask.java)
 
+- [Remove duplicate words](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f55319762d79c15df9e8b59964f7eda9fc9cce39/Java/CodewarsKatas/src/main/java/kyu_7/RemoveDuplicateWords/RemoveDuplicateWords.java)
+
 
 ## C#
 
