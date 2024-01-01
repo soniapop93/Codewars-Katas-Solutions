@@ -21,7 +21,7 @@ public class Main {
         //System.out.println(RoundUpToTheNextMultipleOf5.roundToNext5(0));
         //DataReverse.dataReverse(new int[]{1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1,0,1,0});
         //System.out.println(CreditCardMask.maskify(""));
-        System.out.println(RemoveDuplicateWords.removeDuplicateWords("alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta"));
+        //System.out.println(RemoveDuplicateWords.removeDuplicateWords("alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta"));
 
     }
 }
