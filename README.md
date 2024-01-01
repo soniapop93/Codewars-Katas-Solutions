@@ -35,6 +35,8 @@ My solutions for Codewars Kata Challenges
 
 - [Remove duplicate words](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f55319762d79c15df9e8b59964f7eda9fc9cce39/Java/CodewarsKatas/src/main/java/kyu_7/RemoveDuplicateWords/RemoveDuplicateWords.java)
 
+- [Simple Beads Count](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/175a8dcf26dd53733c1973bf27938dab9bd0e9da/Java/CodewarsKatas/src/main/java/kyu_7/Simple_beads_count/SimpleBeadsCount.java)
+
 
 ## C#
 
