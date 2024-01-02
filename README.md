@@ -37,6 +37,9 @@ My solutions for Codewars Kata Challenges
 
 - [Simple Beads Count](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/175a8dcf26dd53733c1973bf27938dab9bd0e9da/Java/CodewarsKatas/src/main/java/kyu_7/Simple_beads_count/SimpleBeadsCount.java)
 
+- [Don't give me five!](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c9bf279baa58d5793d4ad364f35e6bd1d18431fd/Java/CodewarsKatas/src/main/java/kyu_7/Dont_give_me_five/DontGiveMeFive.java)
+
+
 
 ## C#
 
