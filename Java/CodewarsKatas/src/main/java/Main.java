@@ -2,6 +2,7 @@ import kyu_6.Data_reverse.DataReverse;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
 import kyu_6.String_array_duplicates.StringArrayDuplicates;
 import kyu_6.Your_order_please.YourOrderPlease;
+import kyu_7.Alphabet_war.AlphabetWar;
 import kyu_7.Alternate_capitalization.AlternateCapitalization;
 import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Credit_card_mask.CreditCardMask;
@@ -23,7 +24,7 @@ public class Main {
         //DataReverse.dataReverse(new int[]{1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1,0,1,0});
         //System.out.println(CreditCardMask.maskify(""));
         //System.out.println(RemoveDuplicateWords.removeDuplicateWords("alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta"));
-        System.out.println(DontGiveMeFive.dontGiveMeFive(-39,28));
-
+        //System.out.println(DontGiveMeFive.dontGiveMeFive(-39,28));
+        System.out.println(AlphabetWar.alphabetWar("z"));
     }
 }
