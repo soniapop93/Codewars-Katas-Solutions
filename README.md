@@ -39,6 +39,7 @@ My solutions for Codewars Kata Challenges
 
 - [Don't give me five!](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c9bf279baa58d5793d4ad364f35e6bd1d18431fd/Java/CodewarsKatas/src/main/java/kyu_7/Dont_give_me_five/DontGiveMeFive.java)
 
+- [Alphabet War](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4bb8e1880feb9e859768226a9b4628ba1070a1f2/Java/CodewarsKatas/src/main/java/kyu_7/Alphabet_war/AlphabetWar.java)
 
 
 ## C#
