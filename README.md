@@ -41,6 +41,7 @@ My solutions for Codewars Kata Challenges
 
 - [Alphabet War](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4bb8e1880feb9e859768226a9b4628ba1070a1f2/Java/CodewarsKatas/src/main/java/kyu_7/Alphabet_war/AlphabetWar.java)
 
+- [Multiple of 3 and 5](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f8e63ee12b3b07d1225bc6f5e5a095a658ca3332/Java/CodewarsKatas/src/main/java/kyu_6/Multiples_of_3_or_5/MultiplesOf3Or5.java)
 
 ## C#
 
