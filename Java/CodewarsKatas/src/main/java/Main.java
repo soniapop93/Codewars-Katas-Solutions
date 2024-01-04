@@ -1,5 +1,6 @@
 import kyu_6.Data_reverse.DataReverse;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
+import kyu_6.Multiples_of_3_or_5.MultiplesOf3Or5;
 import kyu_6.String_array_duplicates.StringArrayDuplicates;
 import kyu_6.Your_order_please.YourOrderPlease;
 import kyu_7.Alphabet_war.AlphabetWar;
@@ -25,6 +26,7 @@ public class Main {
         //System.out.println(CreditCardMask.maskify(""));
         //System.out.println(RemoveDuplicateWords.removeDuplicateWords("alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta"));
         //System.out.println(DontGiveMeFive.dontGiveMeFive(-39,28));
-        System.out.println(AlphabetWar.alphabetWar("z"));
+        //System.out.println(AlphabetWar.alphabetWar("z"));
+        System.out.println(MultiplesOf3Or5.solution(10));
     }
 }
