@@ -1,3 +1,4 @@
+import kyu_6.Bit_counting.BitCounting;
 import kyu_6.Data_reverse.DataReverse;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
 import kyu_6.Multiples_of_3_or_5.MultiplesOf3Or5;
@@ -27,6 +28,7 @@ public class Main {
         //System.out.println(RemoveDuplicateWords.removeDuplicateWords("alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta"));
         //System.out.println(DontGiveMeFive.dontGiveMeFive(-39,28));
         //System.out.println(AlphabetWar.alphabetWar("z"));
-        System.out.println(MultiplesOf3Or5.solution(10));
+        //System.out.println(MultiplesOf3Or5.solution(10));
+        System.out.println(BitCounting.countBits(1234));
     }
 }
