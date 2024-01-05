@@ -43,6 +43,10 @@ My solutions for Codewars Kata Challenges
 
 - [Multiple of 3 and 5](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/f8e63ee12b3b07d1225bc6f5e5a095a658ca3332/Java/CodewarsKatas/src/main/java/kyu_6/Multiples_of_3_or_5/MultiplesOf3Or5.java)
 
+- [Bit Counting](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/019f9aeb6d37753e82cd277ee4d46b3ac85fc9a2/Java/CodewarsKatas/src/main/java/kyu_6/Bit_counting/BitCounting.java)
+
+
+
 ## C#
 
 - [Jaden Casing Strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/863e570c07cde661f69dc1eb9205a470d4135ac0/C%23/CodewarsKatas/CodewarsKatas/7-kyu/Jaden%20Casing%20Strings/JadenCasingStrings.cs)
