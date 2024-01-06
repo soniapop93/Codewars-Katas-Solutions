@@ -45,6 +45,8 @@ My solutions for Codewars Kata Challenges
 
 - [Bit Counting](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/019f9aeb6d37753e82cd277ee4d46b3ac85fc9a2/Java/CodewarsKatas/src/main/java/kyu_6/Bit_counting/BitCounting.java)
 
+- [Are the numbers in order?](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9e36099c4e110a52f06603996bf7067d7c7108db/Java/CodewarsKatas/src/main/java/kyu_7/Are_the_numbers_in_order/AreTheNumbersInOrder.java)
+
 
 
 ## C#
