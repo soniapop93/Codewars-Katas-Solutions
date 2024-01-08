@@ -1,3 +1,4 @@
+import kyu_6.Are_they_the_same.AreTheyTheSame;
 import kyu_6.Bit_counting.BitCounting;
 import kyu_6.Data_reverse.DataReverse;
 import kyu_6.Is_a_number_prime.IsANumberPrime;
@@ -31,6 +32,8 @@ public class Main {
         //System.out.println(AlphabetWar.alphabetWar("z"));
         //System.out.println(MultiplesOf3Or5.solution(10));
         //System.out.println(BitCounting.countBits(1234));
-        System.out.println(IsANumberPrime.isPrime(34));
+        //System.out.println(IsANumberPrime.isPrime(34));
+        System.out.println(AreTheyTheSame.comp(new int[]{2,2,3}, new int[]{4,9,9}));
+
     }
 }
