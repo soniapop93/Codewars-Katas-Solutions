@@ -47,7 +47,9 @@ My solutions for Codewars Kata Challenges
 
 - [Are the numbers in order?](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9e36099c4e110a52f06603996bf7067d7c7108db/Java/CodewarsKatas/src/main/java/kyu_7/Are_the_numbers_in_order/AreTheNumbersInOrder.java)
 
--[Is a number prime?](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d5d92a580e546a4e6ab07901facf5065c03e281e/Java/CodewarsKatas/src/main/java/kyu_6/Is_a_number_prime/IsANumberPrime.java)
+- [Is a number prime?](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d5d92a580e546a4e6ab07901facf5065c03e281e/Java/CodewarsKatas/src/main/java/kyu_6/Is_a_number_prime/IsANumberPrime.java)
+
+- [Are they the "same"?](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4c06bcd139c4b1c288503b72da44558c39e4bd5f/Java/CodewarsKatas/src/main/java/kyu_6/Are_they_the_same/AreTheyTheSame.java)
 
 
 ## C#
