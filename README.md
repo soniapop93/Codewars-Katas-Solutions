@@ -51,6 +51,8 @@ My solutions for Codewars Kata Challenges
 
 - [Are they the "same"?](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4c06bcd139c4b1c288503b72da44558c39e4bd5f/Java/CodewarsKatas/src/main/java/kyu_6/Are_they_the_same/AreTheyTheSame.java)
 
+- [Make the Deadfish swim](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/07697d73d9bc1a838b4801d876fb4998fe24724a/Java/CodewarsKatas/src/main/java/kyu_6/Make_the_Deadfish_Swim/MakeTheDeadfishSwim.java)
+
 
 ## C#
 
