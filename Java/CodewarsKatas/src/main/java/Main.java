@@ -6,6 +6,7 @@ import kyu_6.Make_the_Deadfish_Swim.MakeTheDeadfishSwim;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
 import kyu_6.Multiples_of_3_or_5.MultiplesOf3Or5;
 import kyu_6.String_array_duplicates.StringArrayDuplicates;
+import kyu_6.Validate_Credit_Card_Number.ValidateCreditCardNumber;
 import kyu_6.Your_order_please.YourOrderPlease;
 import kyu_7.Alphabet_war.AlphabetWar;
 import kyu_7.Alternate_capitalization.AlternateCapitalization;
@@ -35,7 +36,9 @@ public class Main {
         //System.out.println(BitCounting.countBits(1234));
         //System.out.println(IsANumberPrime.isPrime(34));
         //System.out.println(AreTheyTheSame.comp(new int[]{2,2,3}, new int[]{4,9,9}));
-        System.out.println(MakeTheDeadfishSwim.parse("iiisdoso"));
-
+        //System.out.println(MakeTheDeadfishSwim.parse("iiisdoso"));
+        System.out.println(ValidateCreditCardNumber.validate("1230"));
+        System.out.println(ValidateCreditCardNumber.validate("891"));
+        System.out.println(ValidateCreditCardNumber.validate("123"));
     }
 }
