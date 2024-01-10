@@ -53,6 +53,8 @@ My solutions for Codewars Kata Challenges
 
 - [Make the Deadfish swim](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/07697d73d9bc1a838b4801d876fb4998fe24724a/Java/CodewarsKatas/src/main/java/kyu_6/Make_the_Deadfish_Swim/MakeTheDeadfishSwim.java)
 
+- [Validate Validate Credit Card Number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/76143140bf6dfd28c2803aceab24741853bc1eec/Java/CodewarsKatas/src/main/java/kyu_6/Validate_Credit_Card_Number/ValidateCreditCardNumber.java)
+
 
 ## C#
 
