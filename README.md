@@ -57,6 +57,8 @@ My solutions for Codewars Kata Challenges
 
 - [Valid Phone Number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/03a666c6531bfa6659cf943071b6e49fe0fbbe1b/Java/CodewarsKatas/src/main/java/kyu_6/Valid_Phone_Number/ValidPhoneNumber.java)
 
+- [Averages of numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1fdf3cbf9e9f93bb4ee3bc1c8f74c35640bcd317/Java/CodewarsKatas/src/main/java/kyu_7/Averages_of_Numbers/AveragesOfNumbers.java)
+
 
 ## C#
 
