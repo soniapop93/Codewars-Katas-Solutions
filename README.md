@@ -59,6 +59,8 @@ My solutions for Codewars Kata Challenges
 
 - [Averages of numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1fdf3cbf9e9f93bb4ee3bc1c8f74c35640bcd317/Java/CodewarsKatas/src/main/java/kyu_7/Averages_of_Numbers/AveragesOfNumbers.java)
 
+- [Reverse a Number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2127abca8a51b95c1d861085570729577408a414/Java/CodewarsKatas/src/main/java/kyu_7/Reverse_a_number/ReverseANumber.java)
+
 
 ## C#
 
