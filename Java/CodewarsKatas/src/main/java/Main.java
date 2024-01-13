@@ -15,6 +15,7 @@ import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Credit_card_mask.CreditCardMask;
 import kyu_7.Dont_give_me_five.DontGiveMeFive;
 import kyu_7.RemoveDuplicateWords.RemoveDuplicateWords;
+import kyu_7.Reverse_a_number.ReverseANumber;
 import kyu_7.Reverse_letter.ReverseLetter;
 import kyu_7.Round_up_to_the_next_multiple_of_5.RoundUpToTheNextMultipleOf5;
 
@@ -44,6 +45,7 @@ public class Main {
         //System.out.println(ValidateCreditCardNumber.validate("891"));
         //System.out.println(ValidateCreditCardNumber.validate("123"));
         //System.out.println(ValidPhoneNumber.validPhoneNumber("(1111)555 2345"));
-        System.out.println(AveragesOfNumbers.averages(new int[] { 2, -2, 2, -2, 2 }));
+        //System.out.println(AveragesOfNumbers.averages(new int[] { 2, -2, 2, -2, 2 }));
+        System.out.println(ReverseANumber.reverse( -123));
     }
 }
