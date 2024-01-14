@@ -61,6 +61,8 @@ My solutions for Codewars Kata Challenges
 
 - [Reverse a Number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2127abca8a51b95c1d861085570729577408a414/Java/CodewarsKatas/src/main/java/kyu_7/Reverse_a_number/ReverseANumber.java)
 
+- [Move 10](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ff657bdd79a4281711391cb77aad81c26d7dc8bd/Java/CodewarsKatas/src/main/java/kyu_7/Move_10/Move10.java)
+
 
 ## C#
 
