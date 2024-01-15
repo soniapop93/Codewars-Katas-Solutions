@@ -14,6 +14,7 @@ import kyu_7.Averages_of_Numbers.AveragesOfNumbers;
 import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Credit_card_mask.CreditCardMask;
 import kyu_7.Dont_give_me_five.DontGiveMeFive;
+import kyu_7.Maximum_Product.MaximumProduct;
 import kyu_7.Move_10.Move10;
 import kyu_7.RemoveDuplicateWords.RemoveDuplicateWords;
 import kyu_7.Reverse_a_number.ReverseANumber;
@@ -48,7 +49,8 @@ public class Main {
         //System.out.println(ValidPhoneNumber.validPhoneNumber("(1111)555 2345"));
         //System.out.println(AveragesOfNumbers.averages(new int[] { 2, -2, 2, -2, 2 }));
         //System.out.println(ReverseANumber.reverse( -123));
-        System.out.println(Move10.moveTen("testcase"));
+        //System.out.println(Move10.moveTen("testcase"));
+        System.out.println(MaximumProduct.adjacentElementsProduct(new int[] {1, 2, 3}));
 
     }
 }
