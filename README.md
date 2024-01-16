@@ -65,6 +65,7 @@ My solutions for Codewars Kata Challenges
 
 - [Maximum Product](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c97b290d2bae590b7a5799fa619f2422ecb03e3f/Java/CodewarsKatas/src/main/java/kyu_7/Maximum_Product/MaximumProduct.java)
 
+- [Digitize](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/5d12ae32076a79964027ff5ec6f7b643ec867003/Java/CodewarsKatas/src/main/java/kyu_7/Digitize/DigitizeKata.java)
 
 
 ## C#
