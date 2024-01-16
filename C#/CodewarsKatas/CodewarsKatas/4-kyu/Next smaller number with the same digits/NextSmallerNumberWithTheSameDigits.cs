@@ -8,7 +8,8 @@
  * nextSmaller(21) == 12
  * nextSmaller(531) == 513
  * nextSmaller(2071) == 2017
- * Return -1 (for Haskell: return Nothing, for Rust: return None), when there is no smaller number that contains the same digits. Also return -1 when the next smaller number with the same digits would require the leading digit to be zero.
+ * Return -1 (for Haskell: return Nothing, for Rust: return None), when there is no smaller number that contains the same digits. 
+ * Also return -1 when the next smaller number with the same digits would require the leading digit to be zero.
  * 
  * nextSmaller(9) == -1
  * nextSmaller(111) == -1
@@ -49,6 +50,11 @@ namespace CodewarsKatas._4_kyu.Next_smaller_number_with_the_same_digits
                 while (currentNumber > 0)
                 {
                     long digit = currentNumber % 10;
+
+                    if (!digits.Contains(digit))
+                    {
+                        break;
+                    }
                     currentNumber = currentNumber / 10;
                     nextDigits.Add(digit);
                 }

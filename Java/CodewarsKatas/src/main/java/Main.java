@@ -13,6 +13,7 @@ import kyu_7.Alternate_capitalization.AlternateCapitalization;
 import kyu_7.Averages_of_Numbers.AveragesOfNumbers;
 import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Credit_card_mask.CreditCardMask;
+import kyu_7.Digitize.DigitizeKata;
 import kyu_7.Dont_give_me_five.DontGiveMeFive;
 import kyu_7.Maximum_Product.MaximumProduct;
 import kyu_7.Move_10.Move10;
@@ -50,7 +51,7 @@ public class Main {
         //System.out.println(AveragesOfNumbers.averages(new int[] { 2, -2, 2, -2, 2 }));
         //System.out.println(ReverseANumber.reverse( -123));
         //System.out.println(Move10.moveTen("testcase"));
-        System.out.println(MaximumProduct.adjacentElementsProduct(new int[] {1, 2, 3}));
-
+        //System.out.println(MaximumProduct.adjacentElementsProduct(new int[] {1, 2, 3}));
+        System.out.println(DigitizeKata.digitize(0));
     }
 }
