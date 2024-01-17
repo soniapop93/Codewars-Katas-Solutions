@@ -67,6 +67,8 @@ My solutions for Codewars Kata Challenges
 
 - [Digitize](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/5d12ae32076a79964027ff5ec6f7b643ec867003/Java/CodewarsKatas/src/main/java/kyu_7/Digitize/DigitizeKata.java)
 
+- [Sum without highest and lowest number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/cce561e63dcb71553e2d19c3d09164595c8fcf62/Java/CodewarsKatas/src/main/java/kyu_8/Sum_without_highest_and_lowest_number/SumWithoutHighestAndLowestNumber.java)
+
 
 ## C#
 
