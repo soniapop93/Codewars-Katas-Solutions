@@ -69,6 +69,8 @@ My solutions for Codewars Kata Challenges
 
 - [Sum without highest and lowest number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/cce561e63dcb71553e2d19c3d09164595c8fcf62/Java/CodewarsKatas/src/main/java/kyu_8/Sum_without_highest_and_lowest_number/SumWithoutHighestAndLowestNumber.java)
 
+- [Convert number to reversed array of digits](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c76524e1f7e3cd172bf5d2048195e196f7ebd198/Java/CodewarsKatas/src/main/java/kyu_8/Convert_number_to_reversed_array_of_digits/ConvertNumberToReversedArrayOfDigits.java)
+
 
 ## C#
 
