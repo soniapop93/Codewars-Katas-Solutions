@@ -22,6 +22,7 @@ import kyu_7.Reverse_a_number.ReverseANumber;
 import kyu_7.Reverse_letter.ReverseLetter;
 import kyu_7.Round_up_to_the_next_multiple_of_5.RoundUpToTheNextMultipleOf5;
 import kyu_8.Convert_number_to_reversed_array_of_digits.ConvertNumberToReversedArrayOfDigits;
+import kyu_8.Merging_sorted_integer_arrays.MergingSortedIntegerArrays;
 import kyu_8.Sum_without_highest_and_lowest_number.SumWithoutHighestAndLowestNumber;
 
 import java.math.BigInteger;
@@ -56,6 +57,8 @@ public class Main {
         //System.out.println(MaximumProduct.adjacentElementsProduct(new int[] {1, 2, 3}));
         //System.out.println(DigitizeKata.digitize(0));
         //System.out.println(SumWithoutHighestAndLowestNumber.sum(new int[] { 6, 2, 1, 8, 10}));
-        System.out.println(ConvertNumberToReversedArrayOfDigits.digitize(35231));
+        //System.out.println(ConvertNumberToReversedArrayOfDigits.digitize(35231));
+        System.out.println(MergingSortedIntegerArrays.mergeArrays(new int[] { 1, 3, 5 }, new int[] { 2, 4, 6 }));
+
     }
 }
