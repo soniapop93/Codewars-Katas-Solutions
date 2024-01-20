@@ -71,7 +71,9 @@ My solutions for Codewars Kata Challenges
 
 - [Convert number to reversed array of digits](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c76524e1f7e3cd172bf5d2048195e196f7ebd198/Java/CodewarsKatas/src/main/java/kyu_8/Convert_number_to_reversed_array_of_digits/ConvertNumberToReversedArrayOfDigits.java)
 
--[Stringy Strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ff1b95789426b3bdcdf3d2bb2a1947d21ebd5d20/Java/CodewarsKatas/src/main/java/kyu_8/Stringy_Strings/kyu_8/StringyStrings.java)
+- [Stringy Strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ff1b95789426b3bdcdf3d2bb2a1947d21ebd5d20/Java/CodewarsKatas/src/main/java/kyu_8/Stringy_Strings/kyu_8/StringyStrings.java)
+
+- [Merging sorted integer arrays (without duplicates)](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/6eb61ad15589db1c0153eed1904fd7f0f7ac12e5/Java/CodewarsKatas/src/main/java/kyu_8/Merging_sorted_integer_arrays/MergingSortedIntegerArrays.java)
 
 
 ## C#
