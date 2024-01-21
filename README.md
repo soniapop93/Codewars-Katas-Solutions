@@ -75,6 +75,8 @@ My solutions for Codewars Kata Challenges
 
 - [Merging sorted integer arrays (without duplicates)](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/6eb61ad15589db1c0153eed1904fd7f0f7ac12e5/Java/CodewarsKatas/src/main/java/kyu_8/Merging_sorted_integer_arrays/MergingSortedIntegerArrays.java)
 
+- [Double Char](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c565e23c256fb5af5ef2fcf01ae79dee114f3ab1/Java/CodewarsKatas/src/main/java/kyu_8/Double_Char/DoubleChar.java)
+
 
 ## C#
 
