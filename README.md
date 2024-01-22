@@ -77,6 +77,9 @@ My solutions for Codewars Kata Challenges
 
 - [Double Char](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c565e23c256fb5af5ef2fcf01ae79dee114f3ab1/Java/CodewarsKatas/src/main/java/kyu_8/Double_Char/DoubleChar.java)
 
+- [Removing Elements](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7224eb5c14cb7a5638ea5f6409172122bba0435b/Java/CodewarsKatas/src/main/java/kyu_8/Removing_Elements/RemovingElements.java)
+
+
 
 ## C#
 
