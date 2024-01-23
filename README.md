@@ -79,6 +79,7 @@ My solutions for Codewars Kata Challenges
 
 - [Removing Elements](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7224eb5c14cb7a5638ea5f6409172122bba0435b/Java/CodewarsKatas/src/main/java/kyu_8/Removing_Elements/RemovingElements.java)
 
+- [Detect Pangram](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/6db6259d741492134453958347982399b6c75680/Java/CodewarsKatas/src/main/java/kyu_6/Detect_Pangram/DetectPangram.java)
 
 
 ## C#
