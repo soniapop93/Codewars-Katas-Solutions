@@ -1,6 +1,7 @@
 import kyu_6.Are_they_the_same.AreTheyTheSame;
 import kyu_6.Bit_counting.BitCounting;
 import kyu_6.Data_reverse.DataReverse;
+import kyu_6.Detect_Pangram.DetectPangram;
 import kyu_6.Is_a_number_prime.IsANumberPrime;
 import kyu_6.Make_the_Deadfish_Swim.MakeTheDeadfishSwim;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
@@ -58,7 +59,7 @@ public class Main {
         //System.out.println(DigitizeKata.digitize(0));
         //System.out.println(SumWithoutHighestAndLowestNumber.sum(new int[] { 6, 2, 1, 8, 10}));
         //System.out.println(ConvertNumberToReversedArrayOfDigits.digitize(35231));
-        System.out.println(MergingSortedIntegerArrays.mergeArrays(new int[] { 1, 3, 5 }, new int[] { 2, 4, 6 }));
-
+        //System.out.println(MergingSortedIntegerArrays.mergeArrays(new int[] { 1, 3, 5 }, new int[] { 2, 4, 6 }));
+        System.out.println(DetectPangram.check("The quick brown fox jus over the lazy dog."));
     }
 }
