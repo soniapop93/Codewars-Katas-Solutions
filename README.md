@@ -81,6 +81,8 @@ My solutions for Codewars Kata Challenges
 
 - [Detect Pangram](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/6db6259d741492134453958347982399b6c75680/Java/CodewarsKatas/src/main/java/kyu_6/Detect_Pangram/DetectPangram.java)
 
+- [Plus - minus - plus - plus - ... - Count](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/476978e77f2dde113e58463271240700d2fdaf74/Java/CodewarsKatas/src/main/java/kyu_7/Plus_minus_Count/PlusMinusCount.java)
+
 
 ## C#
 
