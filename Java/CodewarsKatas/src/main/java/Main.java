@@ -18,6 +18,7 @@ import kyu_7.Digitize.DigitizeKata;
 import kyu_7.Dont_give_me_five.DontGiveMeFive;
 import kyu_7.Maximum_Product.MaximumProduct;
 import kyu_7.Move_10.Move10;
+import kyu_7.Plus_minus_Count.PlusMinusCount;
 import kyu_7.RemoveDuplicateWords.RemoveDuplicateWords;
 import kyu_7.Reverse_a_number.ReverseANumber;
 import kyu_7.Reverse_letter.ReverseLetter;
@@ -60,6 +61,8 @@ public class Main {
         //System.out.println(SumWithoutHighestAndLowestNumber.sum(new int[] { 6, 2, 1, 8, 10}));
         //System.out.println(ConvertNumberToReversedArrayOfDigits.digitize(35231));
         //System.out.println(MergingSortedIntegerArrays.mergeArrays(new int[] { 1, 3, 5 }, new int[] { 2, 4, 6 }));
-        System.out.println(DetectPangram.check("The quick brown fox jus over the lazy dog."));
+        //System.out.println(DetectPangram.check("The quick brown fox jus over the lazy dog."));
+        System.out.println(PlusMinusCount.signChange(new int[] {}));
+
     }
 }
