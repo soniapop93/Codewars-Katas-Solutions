@@ -12,6 +12,7 @@ import kyu_6.Your_order_please.YourOrderPlease;
 import kyu_7.Alphabet_war.AlphabetWar;
 import kyu_7.Alternate_capitalization.AlternateCapitalization;
 import kyu_7.Averages_of_Numbers.AveragesOfNumbers;
+import kyu_7.Bit_manipulation.BitManipulation;
 import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Credit_card_mask.CreditCardMask;
 import kyu_7.Digitize.DigitizeKata;
@@ -62,7 +63,7 @@ public class Main {
         //System.out.println(ConvertNumberToReversedArrayOfDigits.digitize(35231));
         //System.out.println(MergingSortedIntegerArrays.mergeArrays(new int[] { 1, 3, 5 }, new int[] { 2, 4, 6 }));
         //System.out.println(DetectPangram.check("The quick brown fox jus over the lazy dog."));
-        System.out.println(PlusMinusCount.signChange(new int[] {}));
-
+        //System.out.println(PlusMinusCount.signChange(new int[] {}));
+        System.out.println(BitManipulation.eliminateUnsetBits("111"));
     }
 }
