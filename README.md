@@ -83,6 +83,8 @@ My solutions for Codewars Kata Challenges
 
 - [Plus - minus - plus - plus - ... - Count](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/476978e77f2dde113e58463271240700d2fdaf74/Java/CodewarsKatas/src/main/java/kyu_7/Plus_minus_Count/PlusMinusCount.java)
 
+- [Eliminate the intruders! Bit manipulation](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7825cab0d05f61d7011856fba36df9c73a80bb5a/Java/CodewarsKatas/src/main/java/kyu_7/Bit_manipulation/BitManipulation.java)
+
 
 ## C#
 
