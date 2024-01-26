@@ -17,6 +17,7 @@ import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Credit_card_mask.CreditCardMask;
 import kyu_7.Digitize.DigitizeKata;
 import kyu_7.Dont_give_me_five.DontGiveMeFive;
+import kyu_7.From_A_to_Z.FromAtoZ;
 import kyu_7.Maximum_Product.MaximumProduct;
 import kyu_7.Move_10.Move10;
 import kyu_7.Plus_minus_Count.PlusMinusCount;
@@ -64,6 +65,8 @@ public class Main {
         //System.out.println(MergingSortedIntegerArrays.mergeArrays(new int[] { 1, 3, 5 }, new int[] { 2, 4, 6 }));
         //System.out.println(DetectPangram.check("The quick brown fox jus over the lazy dog."));
         //System.out.println(PlusMinusCount.signChange(new int[] {}));
-        System.out.println(BitManipulation.eliminateUnsetBits("111"));
+        //System.out.println(BitManipulation.eliminateUnsetBits("111"));
+        System.out.println(FromAtoZ.gimmeTheLetters("Q-Z"));
+
     }
 }
