@@ -85,6 +85,8 @@ My solutions for Codewars Kata Challenges
 
 - [Eliminate the intruders! Bit manipulation](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7825cab0d05f61d7011856fba36df9c73a80bb5a/Java/CodewarsKatas/src/main/java/kyu_7/Bit_manipulation/BitManipulation.java)
 
+- [From A to Z](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3d9c6d33ae7449c0bfbfde0349367ab838ee9c91/Java/CodewarsKatas/src/main/java/kyu_7/From_A_to_Z/FromAtoZ.java)
+
 
 ## C#
 
