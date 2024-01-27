@@ -87,6 +87,8 @@ My solutions for Codewars Kata Challenges
 
 - [From A to Z](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3d9c6d33ae7449c0bfbfde0349367ab838ee9c91/Java/CodewarsKatas/src/main/java/kyu_7/From_A_to_Z/FromAtoZ.java)
 
+- [Sum Arrays](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/17d16228e8c5b6b00c24a243f75dcba65933544b/Java/CodewarsKatas/src/main/java/kyu_8/Sum_Arrays/SumArrays.java)
+
 
 ## C#
 
