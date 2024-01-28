@@ -89,6 +89,8 @@ My solutions for Codewars Kata Challenges
 
 - [Sum Arrays](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/17d16228e8c5b6b00c24a243f75dcba65933544b/Java/CodewarsKatas/src/main/java/kyu_8/Sum_Arrays/SumArrays.java)
 
+- [Count of positives/Sum of negatives](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/daf631836fc877956e7b132841781dab21fa514f/Java/CodewarsKatas/src/main/java/kyu_8/Count_of_positives_sum_of_negatives/CountOfPositivesSumOfNegatives.java)
+
 
 ## C#
 
