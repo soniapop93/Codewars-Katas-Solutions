@@ -91,6 +91,8 @@ My solutions for Codewars Kata Challenges
 
 - [Count of positives/Sum of negatives](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/daf631836fc877956e7b132841781dab21fa514f/Java/CodewarsKatas/src/main/java/kyu_8/Count_of_positives_sum_of_negatives/CountOfPositivesSumOfNegatives.java)
 
+- [Double Sort](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/07ca4163c52c54ce5f220d87ab3511e04461f456/Java/CodewarsKatas/src/main/java/kyu_7/Double_Sort/DoubleSort.java)
+
 
 ## C#
 
