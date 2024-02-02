@@ -93,6 +93,8 @@ My solutions for Codewars Kata Challenges
 
 - [Double Sort](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/07ca4163c52c54ce5f220d87ab3511e04461f456/Java/CodewarsKatas/src/main/java/kyu_7/Double_Sort/DoubleSort.java)
 
+- [Alphabetical Addition](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e3acdef400bd71d04d1b76fa7aa39f1c95f34d39/Java/CodewarsKatas/src/main/java/kyu_7/Alphabetical_Addition/AlphabeticalAddition.java)
+
 
 ## C#
 
