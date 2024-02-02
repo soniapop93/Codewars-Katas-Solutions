@@ -10,6 +10,7 @@ import kyu_6.String_array_duplicates.StringArrayDuplicates;
 import kyu_6.Valid_Phone_Number.ValidPhoneNumber;
 import kyu_6.Your_order_please.YourOrderPlease;
 import kyu_7.Alphabet_war.AlphabetWar;
+import kyu_7.Alphabetical_Addition.AlphabeticalAddition;
 import kyu_7.Alternate_capitalization.AlternateCapitalization;
 import kyu_7.Averages_of_Numbers.AveragesOfNumbers;
 import kyu_7.Bit_manipulation.BitManipulation;
@@ -66,7 +67,7 @@ public class Main {
         //System.out.println(DetectPangram.check("The quick brown fox jus over the lazy dog."));
         //System.out.println(PlusMinusCount.signChange(new int[] {}));
         //System.out.println(BitManipulation.eliminateUnsetBits("111"));
-        System.out.println(FromAtoZ.gimmeTheLetters("Q-Z"));
-
+        //System.out.println(FromAtoZ.gimmeTheLetters("Q-Z"));
+        System.out.println(AlphabeticalAddition.addLetters("a", "b", "c"));
     }
 }
