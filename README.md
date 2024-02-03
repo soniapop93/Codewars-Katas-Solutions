@@ -95,6 +95,8 @@ My solutions for Codewars Kata Challenges
 
 - [Alphabetical Addition](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e3acdef400bd71d04d1b76fa7aa39f1c95f34d39/Java/CodewarsKatas/src/main/java/kyu_7/Alphabetical_Addition/AlphabeticalAddition.java)
 
+- [Fibonacci](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/6b90b843ab6e8c849bc2343da354672511b2dd72/Java/CodewarsKatas/src/main/java/kyu_7/Fibonacci_Kata/Fibonacci.java)
+
 
 ## C#
 
