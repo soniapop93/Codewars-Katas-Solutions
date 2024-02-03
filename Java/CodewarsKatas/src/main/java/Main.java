@@ -18,6 +18,7 @@ import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Credit_card_mask.CreditCardMask;
 import kyu_7.Digitize.DigitizeKata;
 import kyu_7.Dont_give_me_five.DontGiveMeFive;
+import kyu_7.Fibonacci_Kata.Fibonacci;
 import kyu_7.From_A_to_Z.FromAtoZ;
 import kyu_7.Maximum_Product.MaximumProduct;
 import kyu_7.Move_10.Move10;
@@ -68,6 +69,8 @@ public class Main {
         //System.out.println(PlusMinusCount.signChange(new int[] {}));
         //System.out.println(BitManipulation.eliminateUnsetBits("111"));
         //System.out.println(FromAtoZ.gimmeTheLetters("Q-Z"));
-        System.out.println(AlphabeticalAddition.addLetters("a", "b", "c"));
+        //System.out.println(AlphabeticalAddition.addLetters("a", "b", "c"));
+        System.out.println(Fibonacci.fib(5));
+
     }
 }
