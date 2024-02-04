@@ -97,6 +97,8 @@ My solutions for Codewars Kata Challenges
 
 - [Fibonacci](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/6b90b843ab6e8c849bc2343da354672511b2dd72/Java/CodewarsKatas/src/main/java/kyu_7/Fibonacci_Kata/Fibonacci.java)
 
+- [Split in Parts](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/15c81bfd7eab9f3ea289a1f3a4406e0b78d853eb/Java/CodewarsKatas/src/main/java/kyu_7/Split_In_Parts/SplitInParts.java)
+
 
 ## C#
 
