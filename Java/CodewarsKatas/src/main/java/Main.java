@@ -27,6 +27,7 @@ import kyu_7.RemoveDuplicateWords.RemoveDuplicateWords;
 import kyu_7.Reverse_a_number.ReverseANumber;
 import kyu_7.Reverse_letter.ReverseLetter;
 import kyu_7.Round_up_to_the_next_multiple_of_5.RoundUpToTheNextMultipleOf5;
+import kyu_7.Split_In_Parts.SplitInParts;
 import kyu_8.Convert_number_to_reversed_array_of_digits.ConvertNumberToReversedArrayOfDigits;
 import kyu_8.Merging_sorted_integer_arrays.MergingSortedIntegerArrays;
 import kyu_8.Sum_without_highest_and_lowest_number.SumWithoutHighestAndLowestNumber;
@@ -70,7 +71,8 @@ public class Main {
         //System.out.println(BitManipulation.eliminateUnsetBits("111"));
         //System.out.println(FromAtoZ.gimmeTheLetters("Q-Z"));
         //System.out.println(AlphabeticalAddition.addLetters("a", "b", "c"));
-        System.out.println(Fibonacci.fib(5));
+        //System.out.println(Fibonacci.fib(5));
+        System.out.println(SplitInParts.splitInParts("HelloKata", 1));
 
     }
 }
