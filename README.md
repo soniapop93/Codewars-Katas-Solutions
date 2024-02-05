@@ -99,6 +99,8 @@ My solutions for Codewars Kata Challenges
 
 - [Split in Parts](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/15c81bfd7eab9f3ea289a1f3a4406e0b78d853eb/Java/CodewarsKatas/src/main/java/kyu_7/Split_In_Parts/SplitInParts.java)
 
+- [More Zeros Than Ones](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4b6df2753c50bac4d906d93b0cc413553d256705/Java/CodewarsKatas/src/main/java/kyu_6/More_Zeros_Than_Ones/MoreZerosThanOnes.java)
+
 
 ## C#
 
