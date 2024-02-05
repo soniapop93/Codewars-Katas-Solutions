@@ -5,6 +5,7 @@ import kyu_6.Detect_Pangram.DetectPangram;
 import kyu_6.Is_a_number_prime.IsANumberPrime;
 import kyu_6.Make_the_Deadfish_Swim.MakeTheDeadfishSwim;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
+import kyu_6.More_Zeros_Than_Ones.MoreZerosThanOnes;
 import kyu_6.Multiples_of_3_or_5.MultiplesOf3Or5;
 import kyu_6.String_array_duplicates.StringArrayDuplicates;
 import kyu_6.Valid_Phone_Number.ValidPhoneNumber;
@@ -72,7 +73,7 @@ public class Main {
         //System.out.println(FromAtoZ.gimmeTheLetters("Q-Z"));
         //System.out.println(AlphabeticalAddition.addLetters("a", "b", "c"));
         //System.out.println(Fibonacci.fib(5));
-        System.out.println(SplitInParts.splitInParts("HelloKata", 1));
-
+        //System.out.println(SplitInParts.splitInParts("HelloKata", 1));
+        System.out.println(MoreZerosThanOnes.moreZeros("thequickbrownfoxjumpsoverthelazydog"));
     }
 }
