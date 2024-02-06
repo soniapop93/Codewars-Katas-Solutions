@@ -101,6 +101,8 @@ My solutions for Codewars Kata Challenges
 
 - [More Zeros Than Ones](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4b6df2753c50bac4d906d93b0cc413553d256705/Java/CodewarsKatas/src/main/java/kyu_6/More_Zeros_Than_Ones/MoreZerosThanOnes.java)
 
+- [Fruit Machine](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/53c5a1d71dfc0f1edc2ecfe992d20170fe573885/Java/CodewarsKatas/src/main/java/kyu_6/Fruit_Machine/FruitMachine.java)
+
 
 ## C#
 
