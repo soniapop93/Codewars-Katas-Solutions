@@ -2,6 +2,7 @@ import kyu_6.Are_they_the_same.AreTheyTheSame;
 import kyu_6.Bit_counting.BitCounting;
 import kyu_6.Data_reverse.DataReverse;
 import kyu_6.Detect_Pangram.DetectPangram;
+import kyu_6.Fruit_Machine.FruitMachine;
 import kyu_6.Is_a_number_prime.IsANumberPrime;
 import kyu_6.Make_the_Deadfish_Swim.MakeTheDeadfishSwim;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
@@ -74,6 +75,14 @@ public class Main {
         //System.out.println(AlphabeticalAddition.addLetters("a", "b", "c"));
         //System.out.println(Fibonacci.fib(5));
         //System.out.println(SplitInParts.splitInParts("HelloKata", 1));
-        System.out.println(MoreZerosThanOnes.moreZeros("thequickbrownfoxjumpsoverthelazydog"));
+        //System.out.println(MoreZerosThanOnes.moreZeros("thequickbrownfoxjumpsoverthelazydog"));
+        System.out.println(FruitMachine.fruit(new String[][]{new String[]{"Wild", "Star", "Bell", "Shell", "Seven",
+                        "Cherry", "Bar", "King", "Queen", "Jack"},
+                        new String[]{"Wild", "Star", "Bell", "Shell", "Seven",
+                                "Cherry", "Bar", "King", "Queen", "Jack"},
+                        new String[]{"Wild", "Star", "Bell", "Shell", "Seven",
+                                "Cherry", "Bar", "King", "Queen", "Jack"}},
+                new int[]{0, 0, 0}));
+
     }
 }
