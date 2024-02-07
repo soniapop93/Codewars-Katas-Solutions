@@ -103,6 +103,8 @@ My solutions for Codewars Kata Challenges
 
 - [Fruit Machine](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/53c5a1d71dfc0f1edc2ecfe992d20170fe573885/Java/CodewarsKatas/src/main/java/kyu_6/Fruit_Machine/FruitMachine.java)
 
+- [Sum of array singles](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c4add567c8cf1e1291a53f773b43a8c1701c9274/Java/CodewarsKatas/src/main/java/kyu_7/Sum_of_array_singles/SumOfArraySingles.java)
+
 
 ## C#
 
