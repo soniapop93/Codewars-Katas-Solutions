@@ -76,13 +76,6 @@ public class Main {
         //System.out.println(Fibonacci.fib(5));
         //System.out.println(SplitInParts.splitInParts("HelloKata", 1));
         //System.out.println(MoreZerosThanOnes.moreZeros("thequickbrownfoxjumpsoverthelazydog"));
-        System.out.println(FruitMachine.fruit(new String[][]{new String[]{"Wild", "Star", "Bell", "Shell", "Seven",
-                        "Cherry", "Bar", "King", "Queen", "Jack"},
-                        new String[]{"Wild", "Star", "Bell", "Shell", "Seven",
-                                "Cherry", "Bar", "King", "Queen", "Jack"},
-                        new String[]{"Wild", "Star", "Bell", "Shell", "Seven",
-                                "Cherry", "Bar", "King", "Queen", "Jack"}},
-                new int[]{0, 0, 0}));
 
     }
 }
