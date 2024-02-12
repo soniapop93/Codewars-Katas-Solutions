@@ -105,6 +105,8 @@ My solutions for Codewars Kata Challenges
 
 - [Sum of array singles](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c4add567c8cf1e1291a53f773b43a8c1701c9274/Java/CodewarsKatas/src/main/java/kyu_7/Sum_of_array_singles/SumOfArraySingles.java)
 
+- [Simple string characters](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9a69c770f9c949bf233a22a47087d7507b699a2a/Java/CodewarsKatas/src/main/java/kyu_7/Simple_string_characters/SimpleStringCharacters.java)
+
 
 ## C#
 
