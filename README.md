@@ -107,6 +107,8 @@ My solutions for Codewars Kata Challenges
 
 - [Simple string characters](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9a69c770f9c949bf233a22a47087d7507b699a2a/Java/CodewarsKatas/src/main/java/kyu_7/Simple_string_characters/SimpleStringCharacters.java)
 
+- [Filter the number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/cb561ccd04f6e6b8b6fc6a4773210303412cea05/Java/CodewarsKatas/src/main/java/kyu_7/Filter_the_number/FilterTheNumber.java)
+
 
 ## C#
 
