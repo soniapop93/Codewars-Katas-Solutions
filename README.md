@@ -109,6 +109,8 @@ My solutions for Codewars Kata Challenges
 
 - [Filter the number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/cb561ccd04f6e6b8b6fc6a4773210303412cea05/Java/CodewarsKatas/src/main/java/kyu_7/Filter_the_number/FilterTheNumber.java)
 
+- [Numbers with this digit inside](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/18e406271c58e89b4b9200986d5ba65f912533a4/Java/CodewarsKatas/src/main/java/kyu_7/Numbers_with_this_digit_inside/NumbersWithThisDigitInside.java)
+
 
 ## C#
 
