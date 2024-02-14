@@ -24,6 +24,7 @@ import kyu_7.Fibonacci_Kata.Fibonacci;
 import kyu_7.From_A_to_Z.FromAtoZ;
 import kyu_7.Maximum_Product.MaximumProduct;
 import kyu_7.Move_10.Move10;
+import kyu_7.Numbers_with_this_digit_inside.NumbersWithThisDigitInside;
 import kyu_7.Plus_minus_Count.PlusMinusCount;
 import kyu_7.RemoveDuplicateWords.RemoveDuplicateWords;
 import kyu_7.Reverse_a_number.ReverseANumber;
@@ -76,6 +77,6 @@ public class Main {
         //System.out.println(Fibonacci.fib(5));
         //System.out.println(SplitInParts.splitInParts("HelloKata", 1));
         //System.out.println(MoreZerosThanOnes.moreZeros("thequickbrownfoxjumpsoverthelazydog"));
-
+        System.out.println(NumbersWithThisDigitInside.numbersWithDigitInside(0, 0));
     }
 }
