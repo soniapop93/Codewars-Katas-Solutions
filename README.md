@@ -111,6 +111,8 @@ My solutions for Codewars Kata Challenges
 
 - [Numbers with this digit inside](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/18e406271c58e89b4b9200986d5ba65f912533a4/Java/CodewarsKatas/src/main/java/kyu_7/Numbers_with_this_digit_inside/NumbersWithThisDigitInside.java)
 
+- [Word values](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8c9682ebe711b4e6531764698a07e241e0d02ff4/Java/CodewarsKatas/src/main/java/kyu_7/Word_values/WordValues.java)
+
 
 ## C#
 
