@@ -113,6 +113,8 @@ My solutions for Codewars Kata Challenges
 
 - [Word values](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8c9682ebe711b4e6531764698a07e241e0d02ff4/Java/CodewarsKatas/src/main/java/kyu_7/Word_values/WordValues.java)
 
+- [Inspiring Strings]
+
 
 ## C#
 

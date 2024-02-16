@@ -22,6 +22,7 @@ import kyu_7.Digitize.DigitizeKata;
 import kyu_7.Dont_give_me_five.DontGiveMeFive;
 import kyu_7.Fibonacci_Kata.Fibonacci;
 import kyu_7.From_A_to_Z.FromAtoZ;
+import kyu_7.Inspiring_Strings.InspiringStrings;
 import kyu_7.Maximum_Product.MaximumProduct;
 import kyu_7.Move_10.Move10;
 import kyu_7.Numbers_with_this_digit_inside.NumbersWithThisDigitInside;
@@ -79,6 +80,8 @@ public class Main {
         //System.out.println(SplitInParts.splitInParts("HelloKata", 1));
         //System.out.println(MoreZerosThanOnes.moreZeros("thequickbrownfoxjumpsoverthelazydog"));
         //System.out.println(NumbersWithThisDigitInside.numbersWithDigitInside(0, 0));
-        System.out.println(WordValues.nameValue(new String[]{"abcdefghijklmnopqrstuvwxyz","stamford bridge","haskellers"}));
+        //System.out.println(WordValues.nameValue(new String[]{"abcdefghijklmnopqrstuvwxyz","stamford bridge","haskellers"}));
+        System.out.println(InspiringStrings.longestWord("red blue gold"));
+
     }
 }
