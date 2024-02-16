@@ -113,7 +113,7 @@ My solutions for Codewars Kata Challenges
 
 - [Word values](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8c9682ebe711b4e6531764698a07e241e0d02ff4/Java/CodewarsKatas/src/main/java/kyu_7/Word_values/WordValues.java)
 
-- [Inspiring Strings]
+- [Inspiring Strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2f707301164425271c3def9ddc22b60b2c9d9222/Java/CodewarsKatas/src/main/java/kyu_7/Inspiring_Strings/InspiringStrings.java)
 
 
 ## C#
