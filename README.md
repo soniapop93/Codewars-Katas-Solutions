@@ -115,6 +115,8 @@ My solutions for Codewars Kata Challenges
 
 - [Inspiring Strings](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2f707301164425271c3def9ddc22b60b2c9d9222/Java/CodewarsKatas/src/main/java/kyu_7/Inspiring_Strings/InspiringStrings.java)
 
+- [Lost number in number sequence](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c3a1a06152e2181957dc230401d629e06c05afd2/Java/CodewarsKatas/src/main/java/kyu_7/Lost_number_in_number_sequence/LostNumberInNumberSequence.java)
+
 
 ## C#
 
