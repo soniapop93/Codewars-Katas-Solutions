@@ -23,6 +23,7 @@ import kyu_7.Dont_give_me_five.DontGiveMeFive;
 import kyu_7.Fibonacci_Kata.Fibonacci;
 import kyu_7.From_A_to_Z.FromAtoZ;
 import kyu_7.Inspiring_Strings.InspiringStrings;
+import kyu_7.Lost_number_in_number_sequence.LostNumberInNumberSequence;
 import kyu_7.Maximum_Product.MaximumProduct;
 import kyu_7.Move_10.Move10;
 import kyu_7.Numbers_with_this_digit_inside.NumbersWithThisDigitInside;
@@ -81,7 +82,8 @@ public class Main {
         //System.out.println(MoreZerosThanOnes.moreZeros("thequickbrownfoxjumpsoverthelazydog"));
         //System.out.println(NumbersWithThisDigitInside.numbersWithDigitInside(0, 0));
         //System.out.println(WordValues.nameValue(new String[]{"abcdefghijklmnopqrstuvwxyz","stamford bridge","haskellers"}));
-        System.out.println(InspiringStrings.longestWord("red blue gold"));
+        //System.out.println(InspiringStrings.longestWord("red blue gold"));
+        System.out.println(LostNumberInNumberSequence.findDeletedNumber(new int[]{1,2,3,4,5,6,7,8,9}, new int[]{5,7,6,9,4,8,1,2,3}));
 
     }
 }
