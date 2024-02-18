@@ -117,6 +117,9 @@ My solutions for Codewars Kata Challenges
 
 - [Lost number in number sequence](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c3a1a06152e2181957dc230401d629e06c05afd2/Java/CodewarsKatas/src/main/java/kyu_7/Lost_number_in_number_sequence/LostNumberInNumberSequence.java)
 
+- [Sum of cubes](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/090a1d6e9b11918e3e4cb52e1e82d9b216365ba9/Java/CodewarsKatas/src/main/java/kyu_7/Sum_of_Cubes/SumOfCubes.java)
+
+
 
 ## C#
 
