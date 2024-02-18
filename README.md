@@ -119,6 +119,7 @@ My solutions for Codewars Kata Challenges
 
 - [Sum of cubes](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/090a1d6e9b11918e3e4cb52e1e82d9b216365ba9/Java/CodewarsKatas/src/main/java/kyu_7/Sum_of_Cubes/SumOfCubes.java)
 
+- [Four/Seven](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d6171766fb9ab9beabbc988408e3b11321929b6d/Java/CodewarsKatas/src/main/java/kyu_7/Four_Seven/FourSeven.java)
 
 
 ## C#
