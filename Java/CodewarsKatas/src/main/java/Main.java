@@ -3,6 +3,7 @@ import kyu_6.Bit_counting.BitCounting;
 import kyu_6.Data_reverse.DataReverse;
 import kyu_6.Detect_Pangram.DetectPangram;
 import kyu_6.Fruit_Machine.FruitMachine;
+import kyu_6.How_many_pages_in_a_book.HowManyPagesInABook;
 import kyu_6.Is_a_number_prime.IsANumberPrime;
 import kyu_6.Make_the_Deadfish_Swim.MakeTheDeadfishSwim;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
@@ -83,7 +84,7 @@ public class Main {
         //System.out.println(NumbersWithThisDigitInside.numbersWithDigitInside(0, 0));
         //System.out.println(WordValues.nameValue(new String[]{"abcdefghijklmnopqrstuvwxyz","stamford bridge","haskellers"}));
         //System.out.println(InspiringStrings.longestWord("red blue gold"));
-        System.out.println(LostNumberInNumberSequence.findDeletedNumber(new int[]{1,2,3,4,5,6,7,8,9}, new int[]{5,7,6,9,4,8,1,2,3}));
-
+        //System.out.println(LostNumberInNumberSequence.findDeletedNumber(new int[]{1,2,3,4,5,6,7,8,9}, new int[]{5,7,6,9,4,8,1,2,3}));
+        System.out.println(HowManyPagesInABook.amountOfPages(5));
     }
 }
