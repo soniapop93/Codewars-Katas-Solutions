@@ -34,6 +34,7 @@ import kyu_7.Reverse_a_number.ReverseANumber;
 import kyu_7.Reverse_letter.ReverseLetter;
 import kyu_7.Round_up_to_the_next_multiple_of_5.RoundUpToTheNextMultipleOf5;
 import kyu_7.Split_In_Parts.SplitInParts;
+import kyu_7.Vaporcode_Kata.Vaporcode;
 import kyu_7.Word_values.WordValues;
 import kyu_8.Convert_number_to_reversed_array_of_digits.ConvertNumberToReversedArrayOfDigits;
 import kyu_8.Merging_sorted_integer_arrays.MergingSortedIntegerArrays;
@@ -85,6 +86,7 @@ public class Main {
         //System.out.println(WordValues.nameValue(new String[]{"abcdefghijklmnopqrstuvwxyz","stamford bridge","haskellers"}));
         //System.out.println(InspiringStrings.longestWord("red blue gold"));
         //System.out.println(LostNumberInNumberSequence.findDeletedNumber(new int[]{1,2,3,4,5,6,7,8,9}, new int[]{5,7,6,9,4,8,1,2,3}));
-        System.out.println(HowManyPagesInABook.amountOfPages(5));
+        //System.out.println(HowManyPagesInABook.amountOfPages(5));
+        System.out.println(Vaporcode.vaporcode("Lets go to the movies"));
     }
 }
