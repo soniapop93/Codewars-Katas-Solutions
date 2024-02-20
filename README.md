@@ -123,6 +123,8 @@ My solutions for Codewars Kata Challenges
 
 - [How many pages in a book?](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/0792188a9c9aefdce9caa2639bc04759d749da5f/Java/CodewarsKatas/src/main/java/kyu_6/How_many_pages_in_a_book/HowManyPagesInABook.java)
 
+- [Vaporcode](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/07f578892abfd07324243dc4f02d089a4ba3d7ea/Java/CodewarsKatas/src/main/java/kyu_7/Vaporcode_Kata/Vaporcode.java)
+
 
 ## C#
 
