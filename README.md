@@ -125,6 +125,8 @@ My solutions for Codewars Kata Challenges
 
 - [Vaporcode](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/07f578892abfd07324243dc4f02d089a4ba3d7ea/Java/CodewarsKatas/src/main/java/kyu_7/Vaporcode_Kata/Vaporcode.java)
 
+- [Password maker](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/92b1cd57c0ecb5b1ac508b913a3f1be55dc2424d/Java/CodewarsKatas/src/main/java/kyu_7/Password_maker/PasswordMaker.java)
+
 
 ## C#
 
