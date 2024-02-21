@@ -28,6 +28,7 @@ import kyu_7.Lost_number_in_number_sequence.LostNumberInNumberSequence;
 import kyu_7.Maximum_Product.MaximumProduct;
 import kyu_7.Move_10.Move10;
 import kyu_7.Numbers_with_this_digit_inside.NumbersWithThisDigitInside;
+import kyu_7.Password_maker.PasswordMaker;
 import kyu_7.Plus_minus_Count.PlusMinusCount;
 import kyu_7.RemoveDuplicateWords.RemoveDuplicateWords;
 import kyu_7.Reverse_a_number.ReverseANumber;
@@ -87,6 +88,7 @@ public class Main {
         //System.out.println(InspiringStrings.longestWord("red blue gold"));
         //System.out.println(LostNumberInNumberSequence.findDeletedNumber(new int[]{1,2,3,4,5,6,7,8,9}, new int[]{5,7,6,9,4,8,1,2,3}));
         //System.out.println(HowManyPagesInABook.amountOfPages(5));
-        System.out.println(Vaporcode.vaporcode("Lets go to the movies"));
+        //System.out.println(Vaporcode.vaporcode("Lets go to the movies"));
+        System.out.println(PasswordMaker.makePassword(""));
     }
 }
