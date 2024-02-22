@@ -127,6 +127,8 @@ My solutions for Codewars Kata Challenges
 
 - [Password maker](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/92b1cd57c0ecb5b1ac508b913a3f1be55dc2424d/Java/CodewarsKatas/src/main/java/kyu_7/Password_maker/PasswordMaker.java)
 
+- [Smallest value of an array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d64c01c7587d3f18e070480461ea863ebe302a05/Java/CodewarsKatas/src/main/java/kyu_7/Smallest_value_of_an_array/SmallestValueOfAnArray.java)
+
 
 ## C#
 
