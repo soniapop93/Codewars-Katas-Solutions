@@ -34,6 +34,7 @@ import kyu_7.RemoveDuplicateWords.RemoveDuplicateWords;
 import kyu_7.Reverse_a_number.ReverseANumber;
 import kyu_7.Reverse_letter.ReverseLetter;
 import kyu_7.Round_up_to_the_next_multiple_of_5.RoundUpToTheNextMultipleOf5;
+import kyu_7.Smallest_value_of_an_array.SmallestValueOfAnArray;
 import kyu_7.Split_In_Parts.SplitInParts;
 import kyu_7.Vaporcode_Kata.Vaporcode;
 import kyu_7.Word_values.WordValues;
@@ -89,6 +90,10 @@ public class Main {
         //System.out.println(LostNumberInNumberSequence.findDeletedNumber(new int[]{1,2,3,4,5,6,7,8,9}, new int[]{5,7,6,9,4,8,1,2,3}));
         //System.out.println(HowManyPagesInABook.amountOfPages(5));
         //System.out.println(Vaporcode.vaporcode("Lets go to the movies"));
-        System.out.println(PasswordMaker.makePassword(""));
+        //System.out.println(PasswordMaker.makePassword(""));
+        System.out.println(SmallestValueOfAnArray.findSmallest( new int [] {7, 12, 3, 2, 27} , "index"));
+
+
+
     }
 }
