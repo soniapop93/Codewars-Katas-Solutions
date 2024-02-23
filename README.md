@@ -129,6 +129,8 @@ My solutions for Codewars Kata Challenges
 
 - [Smallest value of an array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d64c01c7587d3f18e070480461ea863ebe302a05/Java/CodewarsKatas/src/main/java/kyu_7/Smallest_value_of_an_array/SmallestValueOfAnArray.java)
 
+- [Find Count of Most Frequent Item in an Array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2ad5390aa1cdb5f3d1de6f9f85fe783867603aaa/Java/CodewarsKatas/src/main/java/kyu_7/Find_Count_of_Most_Frequent_Item_in_an_Array/FindCountOfMostFrequentItemInAnArray.java)
+
 
 ## C#
 
