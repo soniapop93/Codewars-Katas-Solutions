@@ -22,6 +22,7 @@ import kyu_7.Credit_card_mask.CreditCardMask;
 import kyu_7.Digitize.DigitizeKata;
 import kyu_7.Dont_give_me_five.DontGiveMeFive;
 import kyu_7.Fibonacci_Kata.Fibonacci;
+import kyu_7.Find_Count_of_Most_Frequent_Item_in_an_Array.FindCountOfMostFrequentItemInAnArray;
 import kyu_7.From_A_to_Z.FromAtoZ;
 import kyu_7.Inspiring_Strings.InspiringStrings;
 import kyu_7.Lost_number_in_number_sequence.LostNumberInNumberSequence;
@@ -91,8 +92,8 @@ public class Main {
         //System.out.println(HowManyPagesInABook.amountOfPages(5));
         //System.out.println(Vaporcode.vaporcode("Lets go to the movies"));
         //System.out.println(PasswordMaker.makePassword(""));
-        System.out.println(SmallestValueOfAnArray.findSmallest( new int [] {7, 12, 3, 2, 27} , "index"));
-
+        //System.out.println(SmallestValueOfAnArray.findSmallest( new int [] {7, 12, 3, 2, 27} , "index"));
+        System.out.println(FindCountOfMostFrequentItemInAnArray.mostFrequentItemCount(new int[] {3, -1, -1}));
 
 
     }
