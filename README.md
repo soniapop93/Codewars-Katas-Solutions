@@ -131,6 +131,8 @@ My solutions for Codewars Kata Challenges
 
 - [Find Count of Most Frequent Item in an Array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2ad5390aa1cdb5f3d1de6f9f85fe783867603aaa/Java/CodewarsKatas/src/main/java/kyu_7/Find_Count_of_Most_Frequent_Item_in_an_Array/FindCountOfMostFrequentItemInAnArray.java)
 
+- [Simple consecutive pairs](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c9a92b3bf54d16edae07dcfc2029c4cf600ef744/Java/CodewarsKatas/src/main/java/kyu_7/Simple_consecutive_pairs/SimpleConsecutivePairs.java)
+
 
 ## C#
 
