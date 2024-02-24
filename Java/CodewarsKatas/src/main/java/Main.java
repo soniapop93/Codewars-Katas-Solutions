@@ -35,6 +35,7 @@ import kyu_7.RemoveDuplicateWords.RemoveDuplicateWords;
 import kyu_7.Reverse_a_number.ReverseANumber;
 import kyu_7.Reverse_letter.ReverseLetter;
 import kyu_7.Round_up_to_the_next_multiple_of_5.RoundUpToTheNextMultipleOf5;
+import kyu_7.Simple_consecutive_pairs.SimpleConsecutivePairs;
 import kyu_7.Smallest_value_of_an_array.SmallestValueOfAnArray;
 import kyu_7.Split_In_Parts.SplitInParts;
 import kyu_7.Vaporcode_Kata.Vaporcode;
@@ -93,8 +94,8 @@ public class Main {
         //System.out.println(Vaporcode.vaporcode("Lets go to the movies"));
         //System.out.println(PasswordMaker.makePassword(""));
         //System.out.println(SmallestValueOfAnArray.findSmallest( new int [] {7, 12, 3, 2, 27} , "index"));
-        System.out.println(FindCountOfMostFrequentItemInAnArray.mostFrequentItemCount(new int[] {3, -1, -1}));
-
+        //System.out.println(FindCountOfMostFrequentItemInAnArray.mostFrequentItemCount(new int[] {3, -1, -1}));
+        System.out.println(SimpleConsecutivePairs.solve(new int[]{1,2,5,8,-4,-3,7,6,5}));
 
     }
 }
