@@ -133,6 +133,9 @@ My solutions for Codewars Kata Challenges
 
 - [Simple consecutive pairs](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c9a92b3bf54d16edae07dcfc2029c4cf600ef744/Java/CodewarsKatas/src/main/java/kyu_7/Simple_consecutive_pairs/SimpleConsecutivePairs.java)
 
+- [Closest to Zero](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/508905dddb88ef9047e228fca44e7e7a8813721d/Java/CodewarsKatas/src/main/java/kyu_7/Closest_to_Zero/ClosestToZero.java)
+
+
 
 ## C#
 
