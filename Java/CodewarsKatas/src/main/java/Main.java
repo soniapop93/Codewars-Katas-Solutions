@@ -19,6 +19,7 @@ import kyu_7.Averages_of_Numbers.AveragesOfNumbers;
 import kyu_7.Bit_manipulation.BitManipulation;
 import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Closest_to_Zero.ClosestToZero;
+import kyu_7.Count_the_Digit.CountTheDigit;
 import kyu_7.Credit_card_mask.CreditCardMask;
 import kyu_7.Digitize.DigitizeKata;
 import kyu_7.Dont_give_me_five.DontGiveMeFive;
@@ -97,10 +98,12 @@ public class Main {
         //System.out.println(SmallestValueOfAnArray.findSmallest( new int [] {7, 12, 3, 2, 27} , "index"));
         //System.out.println(FindCountOfMostFrequentItemInAnArray.mostFrequentItemCount(new int[] {3, -1, -1}));
         //System.out.println(SimpleConsecutivePairs.solve(new int[]{1,2,5,8,-4,-3,7,6,5}));
-        System.out.println(ClosestToZero.find(new int[] { 10, 3, 9, 1 }));
-        System.out.println(ClosestToZero.find(new int[] { 2, 4, -1, -3 }));
-        System.out.println(ClosestToZero.find(new int[] { 13, 0, -6 }));
-        System.out.println(ClosestToZero.find(new int[] { 5, 2, 2 }));
+        //System.out.println(ClosestToZero.find(new int[] { 10, 3, 9, 1 }));
+        //System.out.println(ClosestToZero.find(new int[] { 2, 4, -1, -3 }));
+        //System.out.println(ClosestToZero.find(new int[] { 13, 0, -6 }));
+        //System.out.println(ClosestToZero.find(new int[] { 5, 2, 2 }));
+        System.out.println(CountTheDigit.nbDig(11549, 1));
+
     }
 
 }
