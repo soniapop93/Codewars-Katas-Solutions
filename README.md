@@ -135,6 +135,8 @@ My solutions for Codewars Kata Challenges
 
 - [Closest to Zero](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/508905dddb88ef9047e228fca44e7e7a8813721d/Java/CodewarsKatas/src/main/java/kyu_7/Closest_to_Zero/ClosestToZero.java)
 
+- [Count the digit](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/156a96ede2e7e5bde75f4221564bb99f7df9746f/Java/CodewarsKatas/src/main/java/kyu_7/Count_the_Digit/CountTheDigit.java)
+
 
 
 ## C#
