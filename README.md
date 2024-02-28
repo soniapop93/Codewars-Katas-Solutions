@@ -139,6 +139,8 @@ My solutions for Codewars Kata Challenges
 
 - [Exes and Ohs](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/bec93d474eff6c602e236be03a92725936d102c2/Java/CodewarsKatas/src/main/java/kyu_7/Exes_and_Ohs/ExesAndOhs.java)
 
+- [String prefix and suffix](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/652ea947247c4056106ade761987143a4c080d2a/Java/CodewarsKatas/src/main/java/kyu_7/String_prefix_and_suffix/StringPrefixAndSuffix.java)
+
 
 ## C#
 
