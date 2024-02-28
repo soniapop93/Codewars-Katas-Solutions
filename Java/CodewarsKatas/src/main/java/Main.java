@@ -40,6 +40,7 @@ import kyu_7.Round_up_to_the_next_multiple_of_5.RoundUpToTheNextMultipleOf5;
 import kyu_7.Simple_consecutive_pairs.SimpleConsecutivePairs;
 import kyu_7.Smallest_value_of_an_array.SmallestValueOfAnArray;
 import kyu_7.Split_In_Parts.SplitInParts;
+import kyu_7.String_prefix_and_suffix.StringPrefixAndSuffix;
 import kyu_7.Vaporcode_Kata.Vaporcode;
 import kyu_7.Word_values.WordValues;
 import kyu_8.Convert_number_to_reversed_array_of_digits.ConvertNumberToReversedArrayOfDigits;
@@ -102,7 +103,8 @@ public class Main {
         //System.out.println(ClosestToZero.find(new int[] { 2, 4, -1, -3 }));
         //System.out.println(ClosestToZero.find(new int[] { 13, 0, -6 }));
         //System.out.println(ClosestToZero.find(new int[] { 5, 2, 2 }));
-        System.out.println(CountTheDigit.nbDig(11549, 1));
+        //System.out.println(CountTheDigit.nbDig(11549, 1));
+        System.out.println(StringPrefixAndSuffix.solve("aaaa"));
 
     }
 
