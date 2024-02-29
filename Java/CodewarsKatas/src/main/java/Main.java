@@ -38,6 +38,7 @@ import kyu_7.Reverse_a_number.ReverseANumber;
 import kyu_7.Reverse_letter.ReverseLetter;
 import kyu_7.Round_up_to_the_next_multiple_of_5.RoundUpToTheNextMultipleOf5;
 import kyu_7.Simple_consecutive_pairs.SimpleConsecutivePairs;
+import kyu_7.Simple_equation_reversal.SimpleEquationReversal;
 import kyu_7.Smallest_value_of_an_array.SmallestValueOfAnArray;
 import kyu_7.Split_In_Parts.SplitInParts;
 import kyu_7.String_prefix_and_suffix.StringPrefixAndSuffix;
@@ -104,8 +105,9 @@ public class Main {
         //System.out.println(ClosestToZero.find(new int[] { 13, 0, -6 }));
         //System.out.println(ClosestToZero.find(new int[] { 5, 2, 2 }));
         //System.out.println(CountTheDigit.nbDig(11549, 1));
-        System.out.println(StringPrefixAndSuffix.solve("aaaa"));
-
+        //System.out.println(StringPrefixAndSuffix.solve("aaaa"));
+        System.out.println(SimpleEquationReversal.solve("100*b/y"));
+        System.out.println(SimpleEquationReversal.solve("a+b-c/d*30"));
     }
 
 }
