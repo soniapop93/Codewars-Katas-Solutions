@@ -141,6 +141,8 @@ My solutions for Codewars Kata Challenges
 
 - [String prefix and suffix](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/652ea947247c4056106ade761987143a4c080d2a/Java/CodewarsKatas/src/main/java/kyu_7/String_prefix_and_suffix/StringPrefixAndSuffix.java)
 
+- [Simple equation reversal](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/24f8d2adaa2b1cddfa605f1d8a42ffea8790b139/Java/CodewarsKatas/src/main/java/kyu_7/Simple_equation_reversal/SimpleEquationReversal.java)
+
 
 ## C#
 
