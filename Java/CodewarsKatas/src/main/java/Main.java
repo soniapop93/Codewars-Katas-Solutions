@@ -18,6 +18,7 @@ import kyu_7.Alternate_capitalization.AlternateCapitalization;
 import kyu_7.Averages_of_Numbers.AveragesOfNumbers;
 import kyu_7.Bit_manipulation.BitManipulation;
 import kyu_7.Character_counter.CharacterCounter;
+import kyu_7.Check_three_and_two.CheckThreeAndTwo;
 import kyu_7.Closest_to_Zero.ClosestToZero;
 import kyu_7.Count_the_Digit.CountTheDigit;
 import kyu_7.Credit_card_mask.CreditCardMask;
@@ -106,8 +107,9 @@ public class Main {
         //System.out.println(ClosestToZero.find(new int[] { 5, 2, 2 }));
         //System.out.println(CountTheDigit.nbDig(11549, 1));
         //System.out.println(StringPrefixAndSuffix.solve("aaaa"));
-        System.out.println(SimpleEquationReversal.solve("100*b/y"));
-        System.out.println(SimpleEquationReversal.solve("a+b-c/d*30"));
+        //System.out.println(SimpleEquationReversal.solve("100*b/y"));
+        //System.out.println(SimpleEquationReversal.solve("a+b-c/d*30"));
+        System.out.println(CheckThreeAndTwo.checkThreeAndTwo(new char[] { 'a', 'a', 'a', 'a', 'a' }));
     }
 
 }
