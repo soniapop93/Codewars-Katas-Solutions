@@ -143,6 +143,8 @@ My solutions for Codewars Kata Challenges
 
 - [Simple equation reversal](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/24f8d2adaa2b1cddfa605f1d8a42ffea8790b139/Java/CodewarsKatas/src/main/java/kyu_7/Simple_equation_reversal/SimpleEquationReversal.java)
 
+- [Check three and two](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3942b4cf97b8350f6cec1bb0c08b09eff9a9f661/Java/CodewarsKatas/src/main/java/kyu_7/Check_three_and_two/CheckThreeAndTwo.java)
+
 
 ## C#
 
