@@ -145,6 +145,8 @@ My solutions for Codewars Kata Challenges
 
 - [Check three and two](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/3942b4cf97b8350f6cec1bb0c08b09eff9a9f661/Java/CodewarsKatas/src/main/java/kyu_7/Check_three_and_two/CheckThreeAndTwo.java)
 
+- [Sum of Odd Numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a5b073e37611b478742bbeffb922b23f8d2b2f5b/Java/CodewarsKatas/src/main/java/kyu_7/Sum_of_odd_numbers/SumOfOddNumbers.java)
+
 
 ## C#
 
