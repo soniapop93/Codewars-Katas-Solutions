@@ -43,6 +43,7 @@ import kyu_7.Simple_equation_reversal.SimpleEquationReversal;
 import kyu_7.Smallest_value_of_an_array.SmallestValueOfAnArray;
 import kyu_7.Split_In_Parts.SplitInParts;
 import kyu_7.String_prefix_and_suffix.StringPrefixAndSuffix;
+import kyu_7.Sum_of_odd_numbers.SumOfOddNumbers;
 import kyu_7.Vaporcode_Kata.Vaporcode;
 import kyu_7.Word_values.WordValues;
 import kyu_8.Convert_number_to_reversed_array_of_digits.ConvertNumberToReversedArrayOfDigits;
@@ -109,7 +110,9 @@ public class Main {
         //System.out.println(StringPrefixAndSuffix.solve("aaaa"));
         //System.out.println(SimpleEquationReversal.solve("100*b/y"));
         //System.out.println(SimpleEquationReversal.solve("a+b-c/d*30"));
-        System.out.println(CheckThreeAndTwo.checkThreeAndTwo(new char[] { 'a', 'a', 'a', 'a', 'a' }));
+        //System.out.println(CheckThreeAndTwo.checkThreeAndTwo(new char[] { 'a', 'a', 'a', 'a', 'a' }));
+        System.out.println(SumOfOddNumbers.rowSumOddNumbers(1));
+
     }
 
 }
