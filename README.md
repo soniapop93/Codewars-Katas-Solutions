@@ -147,6 +147,8 @@ My solutions for Codewars Kata Challenges
 
 - [Sum of Odd Numbers](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/a5b073e37611b478742bbeffb922b23f8d2b2f5b/Java/CodewarsKatas/src/main/java/kyu_7/Sum_of_odd_numbers/SumOfOddNumbers.java)
 
+- [Factorial](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/65cf0eb9be763b84647f0f81fc4fa218eecb468c/Java/CodewarsKatas/src/main/java/kyu_7/Factorial_Kata/Factorial.java)
+
 
 ## C#
 
