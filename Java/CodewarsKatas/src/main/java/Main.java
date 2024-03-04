@@ -17,6 +17,7 @@ import kyu_7.Alphabetical_Addition.AlphabeticalAddition;
 import kyu_7.Alternate_capitalization.AlternateCapitalization;
 import kyu_7.Averages_of_Numbers.AveragesOfNumbers;
 import kyu_7.Bit_manipulation.BitManipulation;
+import kyu_7.Calculate_mean_and_concatenate_string.CalculateMeanAndConcatenateString;
 import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Check_three_and_two.CheckThreeAndTwo;
 import kyu_7.Closest_to_Zero.ClosestToZero;
@@ -111,8 +112,8 @@ public class Main {
         //System.out.println(SimpleEquationReversal.solve("100*b/y"));
         //System.out.println(SimpleEquationReversal.solve("a+b-c/d*30"));
         //System.out.println(CheckThreeAndTwo.checkThreeAndTwo(new char[] { 'a', 'a', 'a', 'a', 'a' }));
-        System.out.println(SumOfOddNumbers.rowSumOddNumbers(1));
-
+        //System.out.println(SumOfOddNumbers.rowSumOddNumbers(1));
+        System.out.println(CalculateMeanAndConcatenateString.mean(new char[] {'0', 'u', 'a', 'y', '0', 'a', '9', 'q', '3', 'v', 'g', '7', '6', '4', 'y', 'd', '8', '6', '0', 'd'}));
     }
 
 }
