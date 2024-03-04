@@ -149,6 +149,9 @@ My solutions for Codewars Kata Challenges
 
 - [Factorial](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/65cf0eb9be763b84647f0f81fc4fa218eecb468c/Java/CodewarsKatas/src/main/java/kyu_7/Factorial_Kata/Factorial.java)
 
+- [Calculate mean and concatenate string](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/969790737c8b5f759c9a208313e8385a9a15b5d7/Java/CodewarsKatas/src/main/java/kyu_7/Calculate_mean_and_concatenate_string/CalculateMeanAndConcatenateString.java)
+
+
 
 ## C#
 
