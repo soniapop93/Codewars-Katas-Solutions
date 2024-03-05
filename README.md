@@ -151,6 +151,8 @@ My solutions for Codewars Kata Challenges
 
 - [Calculate mean and concatenate string](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/969790737c8b5f759c9a208313e8385a9a15b5d7/Java/CodewarsKatas/src/main/java/kyu_7/Calculate_mean_and_concatenate_string/CalculateMeanAndConcatenateString.java)
 
+- [Count the divisiors of a number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1ecd1f177ac96c5e978c92828dcd49a4d7271886/Java/CodewarsKatas/src/main/java/kyu_7/Count_the_divisors_of_a_number/CountTheDivisorsOfANumber.java)
+
 
 
 ## C#
