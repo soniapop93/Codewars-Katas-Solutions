@@ -22,6 +22,7 @@ import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Check_three_and_two.CheckThreeAndTwo;
 import kyu_7.Closest_to_Zero.ClosestToZero;
 import kyu_7.Count_the_Digit.CountTheDigit;
+import kyu_7.Count_the_divisors_of_a_number.CountTheDivisorsOfANumber;
 import kyu_7.Credit_card_mask.CreditCardMask;
 import kyu_7.Digitize.DigitizeKata;
 import kyu_7.Dont_give_me_five.DontGiveMeFive;
@@ -113,7 +114,9 @@ public class Main {
         //System.out.println(SimpleEquationReversal.solve("a+b-c/d*30"));
         //System.out.println(CheckThreeAndTwo.checkThreeAndTwo(new char[] { 'a', 'a', 'a', 'a', 'a' }));
         //System.out.println(SumOfOddNumbers.rowSumOddNumbers(1));
-        System.out.println(CalculateMeanAndConcatenateString.mean(new char[] {'0', 'u', 'a', 'y', '0', 'a', '9', 'q', '3', 'v', 'g', '7', '6', '4', 'y', 'd', '8', '6', '0', 'd'}));
+        //System.out.println(CalculateMeanAndConcatenateString.mean(new char[] {'0', 'u', 'a', 'y', '0', 'a', '9', 'q', '3', 'v', 'g', '7', '6', '4', 'y', 'd', '8', '6', '0', 'd'}));
+        System.out.println(CountTheDivisorsOfANumber.numberOfDivisors(30));
+
     }
 
 }
