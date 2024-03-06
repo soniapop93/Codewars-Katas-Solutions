@@ -153,6 +153,8 @@ My solutions for Codewars Kata Challenges
 
 - [Count the divisiors of a number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1ecd1f177ac96c5e978c92828dcd49a4d7271886/Java/CodewarsKatas/src/main/java/kyu_7/Count_the_divisors_of_a_number/CountTheDivisorsOfANumber.java)
 
+- [Shorter concat reverse longer](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2f54b7f0c43c604a58f14f13deed48e77d32ebf3/Java/CodewarsKatas/src/main/java/kyu_7/Shorter_concat_reverse_longer/ShorterConcatReverseLonger.java)
+
 
 
 ## C#
