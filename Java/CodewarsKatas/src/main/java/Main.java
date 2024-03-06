@@ -40,6 +40,7 @@ import kyu_7.RemoveDuplicateWords.RemoveDuplicateWords;
 import kyu_7.Reverse_a_number.ReverseANumber;
 import kyu_7.Reverse_letter.ReverseLetter;
 import kyu_7.Round_up_to_the_next_multiple_of_5.RoundUpToTheNextMultipleOf5;
+import kyu_7.Shorter_concat_reverse_longer.ShorterConcatReverseLonger;
 import kyu_7.Simple_consecutive_pairs.SimpleConsecutivePairs;
 import kyu_7.Simple_equation_reversal.SimpleEquationReversal;
 import kyu_7.Smallest_value_of_an_array.SmallestValueOfAnArray;
@@ -115,7 +116,8 @@ public class Main {
         //System.out.println(CheckThreeAndTwo.checkThreeAndTwo(new char[] { 'a', 'a', 'a', 'a', 'a' }));
         //System.out.println(SumOfOddNumbers.rowSumOddNumbers(1));
         //System.out.println(CalculateMeanAndConcatenateString.mean(new char[] {'0', 'u', 'a', 'y', '0', 'a', '9', 'q', '3', 'v', 'g', '7', '6', '4', 'y', 'd', '8', '6', '0', 'd'}));
-        System.out.println(CountTheDivisorsOfANumber.numberOfDivisors(30));
+        //System.out.println(CountTheDivisorsOfANumber.numberOfDivisors(30));
+        System.out.println(ShorterConcatReverseLonger.shorterReverseLonger("hello", "bau"));
 
     }
 
