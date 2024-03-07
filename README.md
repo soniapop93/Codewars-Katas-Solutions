@@ -155,6 +155,8 @@ My solutions for Codewars Kata Challenges
 
 - [Shorter concat reverse longer](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/2f54b7f0c43c604a58f14f13deed48e77d32ebf3/Java/CodewarsKatas/src/main/java/kyu_7/Shorter_concat_reverse_longer/ShorterConcatReverseLonger.java)
 
+- [Total amount of points](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c16a3587eb084a8d211b4a1a4ae90f377a4e2b1b/Java/CodewarsKatas/src/main/java/kyu_8/Total_amount_of_points/TotalAmountOfPoints.java)
+
 
 
 ## C#
