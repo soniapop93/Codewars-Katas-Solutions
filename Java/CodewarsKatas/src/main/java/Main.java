@@ -49,6 +49,7 @@ import kyu_7.String_prefix_and_suffix.StringPrefixAndSuffix;
 import kyu_7.Sum_of_odd_numbers.SumOfOddNumbers;
 import kyu_7.Vaporcode_Kata.Vaporcode;
 import kyu_7.Word_values.WordValues;
+import kyu_8.CSV_representation_of_array.CSVRepresentationOfArray;
 import kyu_8.Convert_number_to_reversed_array_of_digits.ConvertNumberToReversedArrayOfDigits;
 import kyu_8.Merging_sorted_integer_arrays.MergingSortedIntegerArrays;
 import kyu_8.Sum_without_highest_and_lowest_number.SumWithoutHighestAndLowestNumber;
@@ -117,8 +118,12 @@ public class Main {
         //System.out.println(SumOfOddNumbers.rowSumOddNumbers(1));
         //System.out.println(CalculateMeanAndConcatenateString.mean(new char[] {'0', 'u', 'a', 'y', '0', 'a', '9', 'q', '3', 'v', 'g', '7', '6', '4', 'y', 'd', '8', '6', '0', 'd'}));
         //System.out.println(CountTheDivisorsOfANumber.numberOfDivisors(30));
-        System.out.println(ShorterConcatReverseLonger.shorterReverseLonger("hello", "bau"));
-
+        //System.out.println(ShorterConcatReverseLonger.shorterReverseLonger("hello", "bau"));
+        System.out.println(CSVRepresentationOfArray.toCsvText(new int[][] {
+                { 0, 1, 2, 3, 45 },
+                { 10,11,12,13,14 },
+                { 20,21,22,23,24 },
+                { 30,31,32,33,34 } }));
     }
 
 }
