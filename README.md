@@ -157,6 +157,8 @@ My solutions for Codewars Kata Challenges
 
 - [Total amount of points](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c16a3587eb084a8d211b4a1a4ae90f377a4e2b1b/Java/CodewarsKatas/src/main/java/kyu_8/Total_amount_of_points/TotalAmountOfPoints.java)
 
+- [CSV representation of array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ffe14d756431901b8d15ab40c4c9a0d71e52c3f0/Java/CodewarsKatas/src/main/java/kyu_8/CSV_representation_of_array/CSVRepresentationOfArray.java)
+
 
 
 ## C#
