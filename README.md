@@ -159,6 +159,8 @@ My solutions for Codewars Kata Challenges
 
 - [CSV representation of array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ffe14d756431901b8d15ab40c4c9a0d71e52c3f0/Java/CodewarsKatas/src/main/java/kyu_8/CSV_representation_of_array/CSVRepresentationOfArray.java)
 
+- [Is it a number?](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c454fe0e3fa3236fb1a450adcb003d58577b73a0/Java/CodewarsKatas/src/main/java/kyu_8/Is_it_a_number/IsItANumber.java)
+
 
 
 ## C#
