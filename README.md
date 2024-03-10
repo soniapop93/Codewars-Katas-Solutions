@@ -161,6 +161,8 @@ My solutions for Codewars Kata Challenges
 
 - [Is it a number?](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c454fe0e3fa3236fb1a450adcb003d58577b73a0/Java/CodewarsKatas/src/main/java/kyu_8/Is_it_a_number/IsItANumber.java)
 
+- [Sum of Multiples](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/baf9434d07cf84b89ad38199eb1a18ca1ab8bf84/Java/CodewarsKatas/src/main/java/kyu_8/Sum_of_Multiples/SumOfMultiples.java)
+
 
 
 ## C#
