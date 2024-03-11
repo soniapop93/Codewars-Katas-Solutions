@@ -163,6 +163,8 @@ My solutions for Codewars Kata Challenges
 
 - [Sum of Multiples](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/baf9434d07cf84b89ad38199eb1a18ca1ab8bf84/Java/CodewarsKatas/src/main/java/kyu_8/Sum_of_Multiples/SumOfMultiples.java)
 
+- [Sum consecutives](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d3d0a6aca6acbe7128afe4af65cffcab62a31d18/Java/CodewarsKatas/src/main/java/kyu_6/Sum_consecutives/SumConsecutives.java)
+
 
 
 ## C#
