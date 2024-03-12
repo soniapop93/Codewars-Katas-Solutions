@@ -165,6 +165,8 @@ My solutions for Codewars Kata Challenges
 
 - [Sum consecutives](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d3d0a6aca6acbe7128afe4af65cffcab62a31d18/Java/CodewarsKatas/src/main/java/kyu_6/Sum_consecutives/SumConsecutives.java)
 
+- [Find the smallest integer in the array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ce0c0e276ed17145616699ba398d61d21bfbc390/Java/CodewarsKatas/src/main/java/kyu_8/Find_the_smallest_integer_in_the_array/FindTheSmallestIntegerInTheArray.java)
+
 
 
 ## C#
