@@ -1,3 +1,4 @@
+import kyu_5.First_non_repeating_character.FirstNonRepeatingCharacter;
 import kyu_6.Are_they_the_same.AreTheyTheSame;
 import kyu_6.Bit_counting.BitCounting;
 import kyu_6.Data_reverse.DataReverse;
@@ -118,6 +119,8 @@ public class Main {
 //        System.out.println(CountTheDivisorsOfANumber.numberOfDivisors(30));
 //        System.out.println(ShorterConcatReverseLonger.shorterReverseLonger("hello", "bau"));
 //        System.out.println(SumOfMultiples.sumMul(4, 123));
-        System.out.println(SumConsecutives.sumConsecutives(Arrays.asList(1,4,4,4,0,4,3,3,1)));
+//        System.out.println(SumConsecutives.sumConsecutives(Arrays.asList(1,4,4,4,0,4,3,3,1)));
+        System.out.println(FirstNonRepeatingCharacter.firstNonRepeatingLetter("moonmoon"));
+
     }
 }
