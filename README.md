@@ -167,6 +167,8 @@ My solutions for Codewars Kata Challenges
 
 - [Find the smallest integer in the array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/ce0c0e276ed17145616699ba398d61d21bfbc390/Java/CodewarsKatas/src/main/java/kyu_8/Find_the_smallest_integer_in_the_array/FindTheSmallestIntegerInTheArray.java)
 
+- [First non-repeating character](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4dea35ec4f9bbfb1f5ee8811ba1f496dfc7956f8/Java/CodewarsKatas/src/main/java/kyu_5/First_non_repeating_character/FirstNonRepeatingCharacter.java)
+
 
 
 ## C#
