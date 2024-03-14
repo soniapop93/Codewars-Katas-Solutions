@@ -169,6 +169,8 @@ My solutions for Codewars Kata Challenges
 
 - [First non-repeating character](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4dea35ec4f9bbfb1f5ee8811ba1f496dfc7956f8/Java/CodewarsKatas/src/main/java/kyu_5/First_non_repeating_character/FirstNonRepeatingCharacter.java)
 
+- [Sum of differences in array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d2944de660b34b223dd8b07b25c7d83ef63f0e9d/Java/CodewarsKatas/src/main/java/kyu_8/Sum_of_differences_in_array/SumOfDifferencesInArray.java)
+
 
 
 ## C#
