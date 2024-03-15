@@ -171,6 +171,8 @@ My solutions for Codewars Kata Challenges
 
 - [Sum of differences in array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d2944de660b34b223dd8b07b25c7d83ef63f0e9d/Java/CodewarsKatas/src/main/java/kyu_8/Sum_of_differences_in_array/SumOfDifferencesInArray.java)
 
+- [Invert values](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4b4e8fef29170fdabdac18e31708ca75ca9d4418/Java/CodewarsKatas/src/main/java/kyu_8/Invert_values/InvertValues.java)
+
 
 
 ## C#
