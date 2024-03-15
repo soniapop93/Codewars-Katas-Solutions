@@ -51,6 +51,7 @@ import kyu_7.Sum_of_odd_numbers.SumOfOddNumbers;
 import kyu_7.Vaporcode_Kata.Vaporcode;
 import kyu_7.Word_values.WordValues;
 import kyu_8.Convert_number_to_reversed_array_of_digits.ConvertNumberToReversedArrayOfDigits;
+import kyu_8.Invert_values.InvertValues;
 import kyu_8.Merging_sorted_integer_arrays.MergingSortedIntegerArrays;
 import kyu_8.Sum_of_Multiples.SumOfMultiples;
 import kyu_8.Sum_of_differences_in_array.SumOfDifferencesInArray;
@@ -122,6 +123,8 @@ public class Main {
 //        System.out.println(SumOfMultiples.sumMul(4, 123));
 //        System.out.println(SumConsecutives.sumConsecutives(Arrays.asList(1,4,4,4,0,4,3,3,1)));
 //        System.out.println(FirstNonRepeatingCharacter.firstNonRepeatingLetter("moonmoon"));
-        System.out.println(SumOfDifferencesInArray.sumOfDifferences(new int[]{-1}));
+//        System.out.println(SumOfDifferencesInArray.sumOfDifferences(new int[]{-1}));
+        System.out.println(InvertValues.invert(new int[] {-1,-2,-3,-4,-5}));
+
     }
 }
