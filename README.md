@@ -173,6 +173,8 @@ My solutions for Codewars Kata Challenges
 
 - [Invert values](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4b4e8fef29170fdabdac18e31708ca75ca9d4418/Java/CodewarsKatas/src/main/java/kyu_8/Invert_values/InvertValues.java)
 
+- [Cat years, Dog years](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4b8db6d7269ac207dbfb3e2aedc47ca6bba54bd3/Java/CodewarsKatas/src/main/java/kyu_8/Cat_years_Dog_years/Cat_years_Dog_years.java)
+
 
 
 ## C#
