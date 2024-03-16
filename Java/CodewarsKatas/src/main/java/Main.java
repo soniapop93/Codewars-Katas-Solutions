@@ -124,7 +124,8 @@ public class Main {
 //        System.out.println(SumConsecutives.sumConsecutives(Arrays.asList(1,4,4,4,0,4,3,3,1)));
 //        System.out.println(FirstNonRepeatingCharacter.firstNonRepeatingLetter("moonmoon"));
 //        System.out.println(SumOfDifferencesInArray.sumOfDifferences(new int[]{-1}));
-        System.out.println(InvertValues.invert(new int[] {-1,-2,-3,-4,-5}));
+//        System.out.println(InvertValues.invert(new int[] {-1,-2,-3,-4,-5}));
+
 
     }
 }
