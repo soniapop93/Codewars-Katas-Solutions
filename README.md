@@ -175,6 +175,8 @@ My solutions for Codewars Kata Challenges
 
 - [Cat years, Dog years](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/4b8db6d7269ac207dbfb3e2aedc47ca6bba54bd3/Java/CodewarsKatas/src/main/java/kyu_8/Cat_years_Dog_years/Cat_years_Dog_years.java)
 
+- [Sum mixed array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9d98e1eae64d186404b9aa4adff4eadc9ab2d68a/Java/CodewarsKatas/src/main/java/kyu_8/Sum_Mixed_Array/SumMixedArray.java)
+
 
 
 ## C#
