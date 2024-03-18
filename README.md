@@ -177,6 +177,8 @@ My solutions for Codewars Kata Challenges
 
 - [Sum mixed array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/9d98e1eae64d186404b9aa4adff4eadc9ab2d68a/Java/CodewarsKatas/src/main/java/kyu_8/Sum_Mixed_Array/SumMixedArray.java)
 
+- [Sort and star](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d2fb834086f8f7b71b2cf8215615bddc7e8d11f1/Java/CodewarsKatas/src/main/java/kyu_8/Sort_and_Star/SortAndStar.java)
+
 
 
 ## C#
