@@ -53,6 +53,7 @@ import kyu_7.Word_values.WordValues;
 import kyu_8.Convert_number_to_reversed_array_of_digits.ConvertNumberToReversedArrayOfDigits;
 import kyu_8.Invert_values.InvertValues;
 import kyu_8.Merging_sorted_integer_arrays.MergingSortedIntegerArrays;
+import kyu_8.Sort_and_Star.SortAndStar;
 import kyu_8.Sum_of_Multiples.SumOfMultiples;
 import kyu_8.Sum_of_differences_in_array.SumOfDifferencesInArray;
 import kyu_8.Sum_without_highest_and_lowest_number.SumWithoutHighestAndLowestNumber;
@@ -125,7 +126,7 @@ public class Main {
 //        System.out.println(FirstNonRepeatingCharacter.firstNonRepeatingLetter("moonmoon"));
 //        System.out.println(SumOfDifferencesInArray.sumOfDifferences(new int[]{-1}));
 //        System.out.println(InvertValues.invert(new int[] {-1,-2,-3,-4,-5}));
-
+        System.out.println(SortAndStar.twoSort(new String[] {"bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"}));
 
     }
 }
