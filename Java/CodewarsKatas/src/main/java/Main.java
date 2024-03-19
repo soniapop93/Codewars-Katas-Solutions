@@ -11,6 +11,7 @@ import kyu_6.More_Zeros_Than_Ones.MoreZerosThanOnes;
 import kyu_6.Multiples_of_3_or_5.MultiplesOf3Or5;
 import kyu_6.String_array_duplicates.StringArrayDuplicates;
 import kyu_6.Sum_consecutives.SumConsecutives;
+import kyu_6.The_lost_beginning.TheLostBeginning;
 import kyu_6.Valid_Phone_Number.ValidPhoneNumber;
 import kyu_6.Your_order_please.YourOrderPlease;
 import kyu_7.Alphabet_war.AlphabetWar;
@@ -126,7 +127,9 @@ public class Main {
 //        System.out.println(FirstNonRepeatingCharacter.firstNonRepeatingLetter("moonmoon"));
 //        System.out.println(SumOfDifferencesInArray.sumOfDifferences(new int[]{-1}));
 //        System.out.println(InvertValues.invert(new int[] {-1,-2,-3,-4,-5}));
-        System.out.println(SortAndStar.twoSort(new String[] {"bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"}));
+//        System.out.println(SortAndStar.twoSort(new String[] {"bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"}));
+        System.out.println(TheLostBeginning.beginning("99100"));
+
 
     }
 }
