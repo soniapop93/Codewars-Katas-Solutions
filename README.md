@@ -179,6 +179,8 @@ My solutions for Codewars Kata Challenges
 
 - [Sort and star](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d2fb834086f8f7b71b2cf8215615bddc7e8d11f1/Java/CodewarsKatas/src/main/java/kyu_8/Sort_and_Star/SortAndStar.java)
 
+- [The Lost Beginning](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1644f4cf1f2506db11e95ae7b61755ca2990e80a/Java/CodewarsKatas/src/main/java/kyu_6/The_lost_beginning/TheLostBeginning.java)
+
 
 
 ## C#
