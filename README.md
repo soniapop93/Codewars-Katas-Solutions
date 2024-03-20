@@ -181,6 +181,8 @@ My solutions for Codewars Kata Challenges
 
 - [The Lost Beginning](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1644f4cf1f2506db11e95ae7b61755ca2990e80a/Java/CodewarsKatas/src/main/java/kyu_6/The_lost_beginning/TheLostBeginning.java)
 
+- [Find numbers which are divisible by given number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fe8edeadcc408c1ac50558af21519e896f40d87f/Java/CodewarsKatas/src/main/java/kyu_8/Find_numbers_which_are_divisible_by_given_number/FindNumbersWhichAreDivisibleByGivenNumber.java)
+
 
 
 ## C#
