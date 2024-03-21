@@ -183,6 +183,8 @@ My solutions for Codewars Kata Challenges
 
 - [Find numbers which are divisible by given number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/fe8edeadcc408c1ac50558af21519e896f40d87f/Java/CodewarsKatas/src/main/java/kyu_8/Find_numbers_which_are_divisible_by_given_number/FindNumbersWhichAreDivisibleByGivenNumber.java)
 
+-[Running Out of Space](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e433972b51d4c2b07ab9b09addc3540c0c0e3129/Java/CodewarsKatas/src/main/java/kyu_7/Running_out_of_space/RunningOutOfSpace.java)
+
 
 
 ## C#
