@@ -185,6 +185,8 @@ My solutions for Codewars Kata Challenges
 
 -[Running Out of Space](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/e433972b51d4c2b07ab9b09addc3540c0c0e3129/Java/CodewarsKatas/src/main/java/kyu_7/Running_out_of_space/RunningOutOfSpace.java)
 
+- [The latest clock](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c9ee10f66727e1bfaf5d6349700d6ccec6fe4458/Java/CodewarsKatas/src/main/java/kyu_6/The_latest_clock/TheLatestClock.java)
+
 
 
 ## C#
