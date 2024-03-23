@@ -187,6 +187,7 @@ My solutions for Codewars Kata Challenges
 
 - [The latest clock](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c9ee10f66727e1bfaf5d6349700d6ccec6fe4458/Java/CodewarsKatas/src/main/java/kyu_6/The_latest_clock/TheLatestClock.java)
 
+-[Possibilities Array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/eaa38385dfcdbae7bcd9c1df6c0ac7c59515de5c/Java/CodewarsKatas/src/main/java/kyu_7/Possibilities_Array/PossibilitiesArray.java)
 
 
 ## C#
