@@ -39,6 +39,7 @@ import kyu_7.Move_10.Move10;
 import kyu_7.Numbers_with_this_digit_inside.NumbersWithThisDigitInside;
 import kyu_7.Password_maker.PasswordMaker;
 import kyu_7.Plus_minus_Count.PlusMinusCount;
+import kyu_7.Possibilities_Array.PossibilitiesArray;
 import kyu_7.RemoveDuplicateWords.RemoveDuplicateWords;
 import kyu_7.Reverse_a_number.ReverseANumber;
 import kyu_7.Reverse_letter.ReverseLetter;
@@ -60,8 +61,7 @@ import kyu_8.Sum_of_Multiples.SumOfMultiples;
 import kyu_8.Sum_of_differences_in_array.SumOfDifferencesInArray;
 import kyu_8.Sum_without_highest_and_lowest_number.SumWithoutHighestAndLowestNumber;
 
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -130,7 +130,8 @@ public class Main {
 //        System.out.println(InvertValues.invert(new int[] {-1,-2,-3,-4,-5}));
 //        System.out.println(SortAndStar.twoSort(new String[] {"bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"}));
 //        System.out.println(TheLostBeginning.beginning("99100"));
-        System.out.println(TheLatestClock.latestClock(2, 4, 0, 0));
+//        System.out.println(TheLatestClock.latestClock(2, 4, 0, 0));
+        System.out.println(PossibilitiesArray.isAllPossibilities(new int[] {0, 1, 2, 3}));
 
     }
 }
