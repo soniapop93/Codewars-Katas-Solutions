@@ -191,6 +191,8 @@ My solutions for Codewars Kata Challenges
 
 - [Remove exclamation marks](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7004fbb8e5d15f90645b2f4c22466542c13194fc/Java/CodewarsKatas/src/main/java/kyu_8/Remove_exclamation_marks/RemoveExclamationMarks.java)
 
+- [Get the mean of an array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/b750fd46c142f5e95bfdc1d93ac0015c686405d5/Java/CodewarsKatas/src/main/java/kyu_8/Get_the_mean_of_an_array/GetTheMeanOfAnArray.java)
+
 
 
 ## C#
