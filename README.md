@@ -193,9 +193,9 @@ My solutions for Codewars Kata Challenges
 
 - [Get the mean of an array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/b750fd46c142f5e95bfdc1d93ac0015c686405d5/Java/CodewarsKatas/src/main/java/kyu_8/Get_the_mean_of_an_array/GetTheMeanOfAnArray.java)
 
-- [Get character from ASCII Value]()
+- [Get character from ASCII Value](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/42da8d003b41a553edfbd92f2ec2817cd1546ec7/Java/CodewarsKatas/src/main/java/kyu_8/Get_character_from_ASCII_Value/GetCharacterFromASCIIValue.java)
 
-- [Is n divisible by x and y]()
+- [Is n divisible by x and y](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/42da8d003b41a553edfbd92f2ec2817cd1546ec7/Java/CodewarsKatas/src/main/java/kyu_8/Is_n_divisible_by_x_and_y/IsNDivisibleByXandY.java)
 
 
 
