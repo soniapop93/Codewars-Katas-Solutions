@@ -197,6 +197,7 @@ My solutions for Codewars Kata Challenges
 
 - [Is n divisible by x and y](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/42da8d003b41a553edfbd92f2ec2817cd1546ec7/Java/CodewarsKatas/src/main/java/kyu_8/Is_n_divisible_by_x_and_y/IsNDivisibleByXandY.java)
 
+- [Strong Number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d5c2c97ef8f5fc9eb42c293a8c0fc13e44ab2650/Java/CodewarsKatas/src/main/java/kyu_7/Strong_Number/StrongNumber.java)
 
 
 ## C#
