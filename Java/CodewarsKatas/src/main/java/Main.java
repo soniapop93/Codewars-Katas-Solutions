@@ -50,6 +50,7 @@ import kyu_7.Simple_equation_reversal.SimpleEquationReversal;
 import kyu_7.Smallest_value_of_an_array.SmallestValueOfAnArray;
 import kyu_7.Split_In_Parts.SplitInParts;
 import kyu_7.String_prefix_and_suffix.StringPrefixAndSuffix;
+import kyu_7.Strong_Number.StrongNumber;
 import kyu_7.Sum_of_odd_numbers.SumOfOddNumbers;
 import kyu_7.Vaporcode_Kata.Vaporcode;
 import kyu_7.Word_values.WordValues;
@@ -131,7 +132,7 @@ public class Main {
 //        System.out.println(SortAndStar.twoSort(new String[] {"bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"}));
 //        System.out.println(TheLostBeginning.beginning("99100"));
 //        System.out.println(TheLatestClock.latestClock(2, 4, 0, 0));
-        System.out.println(PossibilitiesArray.isAllPossibilities(new int[] {0, 1, 2, 3}));
-
+//        System.out.println(PossibilitiesArray.isAllPossibilities(new int[] {0, 1, 2, 3}));
+        System.out.println(StrongNumber.isStrongNumber(150));
     }
 }
