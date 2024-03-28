@@ -61,6 +61,7 @@ import kyu_8.Sort_and_Star.SortAndStar;
 import kyu_8.Sum_of_Multiples.SumOfMultiples;
 import kyu_8.Sum_of_differences_in_array.SumOfDifferencesInArray;
 import kyu_8.Sum_without_highest_and_lowest_number.SumWithoutHighestAndLowestNumber;
+import kyu_8.The_Feast_of_Many_Beasts.TheFeastOfManyBeasts;
 
 import java.util.*;
 
@@ -133,6 +134,8 @@ public class Main {
 //        System.out.println(TheLostBeginning.beginning("99100"));
 //        System.out.println(TheLatestClock.latestClock(2, 4, 0, 0));
 //        System.out.println(PossibilitiesArray.isAllPossibilities(new int[] {0, 1, 2, 3}));
-        System.out.println(StrongNumber.isStrongNumber(150));
+        //System.out.println(StrongNumber.isStrongNumber(150));
+        System.out.println(TheFeastOfManyBeasts.feast("great blue heron","garlic nann"));
+
     }
 }
