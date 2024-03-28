@@ -199,6 +199,8 @@ My solutions for Codewars Kata Challenges
 
 - [Strong Number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d5c2c97ef8f5fc9eb42c293a8c0fc13e44ab2650/Java/CodewarsKatas/src/main/java/kyu_7/Strong_Number/StrongNumber.java)
 
+- [The feast of many beasts](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/137ec4d5e7aa88362b5fb949c963dc16aea13e1d/Java/CodewarsKatas/src/main/java/kyu_8/The_Feast_of_Many_Beasts/TheFeastOfManyBeasts.java)
+
 
 ## C#
 
