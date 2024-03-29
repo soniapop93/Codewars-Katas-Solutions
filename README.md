@@ -201,6 +201,8 @@ My solutions for Codewars Kata Challenges
 
 - [The feast of many beasts](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/137ec4d5e7aa88362b5fb949c963dc16aea13e1d/Java/CodewarsKatas/src/main/java/kyu_8/The_Feast_of_Many_Beasts/TheFeastOfManyBeasts.java)
 
+- [My head is at the wrong end](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1372415905785887f82c1332563e368bdfd92a60/Java/CodewarsKatas/src/main/java/kyu_8/My_head_is_at_the_wrong_end/MyHeadIsAtTheWrongEnd.java)
+
 
 ## C#
 
