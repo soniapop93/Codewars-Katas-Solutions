@@ -203,6 +203,8 @@ My solutions for Codewars Kata Challenges
 
 - [My head is at the wrong end](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/1372415905785887f82c1332563e368bdfd92a60/Java/CodewarsKatas/src/main/java/kyu_8/My_head_is_at_the_wrong_end/MyHeadIsAtTheWrongEnd.java)
 
+- [Simple Fibonacci String](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/bd9eb1370b08e47af6b27f2292c29c8afee50517/Java/CodewarsKatas/src/main/java/kyu_7/Simple_fibonacci_strings/SimpleFibonacciStrings.java)
+
 
 ## C#
 
