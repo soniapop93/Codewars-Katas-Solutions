@@ -47,6 +47,7 @@ import kyu_7.Round_up_to_the_next_multiple_of_5.RoundUpToTheNextMultipleOf5;
 import kyu_7.Shorter_concat_reverse_longer.ShorterConcatReverseLonger;
 import kyu_7.Simple_consecutive_pairs.SimpleConsecutivePairs;
 import kyu_7.Simple_equation_reversal.SimpleEquationReversal;
+import kyu_7.Simple_fibonacci_strings.SimpleFibonacciStrings;
 import kyu_7.Smallest_value_of_an_array.SmallestValueOfAnArray;
 import kyu_7.Split_In_Parts.SplitInParts;
 import kyu_7.String_prefix_and_suffix.StringPrefixAndSuffix;
@@ -134,8 +135,9 @@ public class Main {
 //        System.out.println(TheLostBeginning.beginning("99100"));
 //        System.out.println(TheLatestClock.latestClock(2, 4, 0, 0));
 //        System.out.println(PossibilitiesArray.isAllPossibilities(new int[] {0, 1, 2, 3}));
-        //System.out.println(StrongNumber.isStrongNumber(150));
-        System.out.println(TheFeastOfManyBeasts.feast("great blue heron","garlic nann"));
+//        System.out.println(StrongNumber.isStrongNumber(150));
+//        System.out.println(TheFeastOfManyBeasts.feast("great blue heron","garlic nann"));
 
+        System.out.println(SimpleFibonacciStrings.solve(5));
     }
 }
