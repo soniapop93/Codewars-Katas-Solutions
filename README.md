@@ -205,6 +205,8 @@ My solutions for Codewars Kata Challenges
 
 - [Simple Fibonacci String](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/bd9eb1370b08e47af6b27f2292c29c8afee50517/Java/CodewarsKatas/src/main/java/kyu_7/Simple_fibonacci_strings/SimpleFibonacciStrings.java)
 
+- [Insert dashes](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/cc2205f1f7e52bc8b4d7823ff933ca75f631467f/Java/CodewarsKatas/src/main/java/kyu_7/Insert_dashes/InsertDashes.java)
+
 
 ## C#
 
