@@ -207,6 +207,9 @@ My solutions for Codewars Kata Challenges
 
 - [Insert dashes](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/cc2205f1f7e52bc8b4d7823ff933ca75f631467f/Java/CodewarsKatas/src/main/java/kyu_7/Insert_dashes/InsertDashes.java)
 
+- [Is n divisible by...](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/587271a9f5e0c127521c389197bcb07e1a61c080/Java/CodewarsKatas/src/main/java/kyu_7/Is_n_divisible_by/IsNDivisibleBy.java)
+
+
 
 ## C#
 
