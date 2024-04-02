@@ -9,6 +9,7 @@ import kyu_6.Make_the_Deadfish_Swim.MakeTheDeadfishSwim;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
 import kyu_6.More_Zeros_Than_Ones.MoreZerosThanOnes;
 import kyu_6.Multiples_of_3_or_5.MultiplesOf3Or5;
+import kyu_6.Pyramid_Array.PyramidArray;
 import kyu_6.String_array_duplicates.StringArrayDuplicates;
 import kyu_6.Sum_consecutives.SumConsecutives;
 import kyu_6.The_latest_clock.TheLatestClock;
@@ -139,7 +140,7 @@ public class Main {
 //        System.out.println(StrongNumber.isStrongNumber(150));
 //        System.out.println(TheFeastOfManyBeasts.feast("great blue heron","garlic nann"));
 //        System.out.println(SimpleFibonacciStrings.solve(5));
-        System.out.println(InsertDashes.insertDash(454793));
-
+//        System.out.println(InsertDashes.insertDash(454793));
+        System.out.println(PyramidArray.pyramid(3));
     }
 }
