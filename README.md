@@ -209,6 +209,8 @@ My solutions for Codewars Kata Challenges
 
 - [Is n divisible by...](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/587271a9f5e0c127521c389197bcb07e1a61c080/Java/CodewarsKatas/src/main/java/kyu_7/Is_n_divisible_by/IsNDivisibleBy.java)
 
+- [Pyramid Array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/21517d33390bb327e771206db0e3d616ba285660/Java/CodewarsKatas/src/main/java/kyu_6/Pyramid_Array/PyramidArray.java)
+
 
 
 ## C#
