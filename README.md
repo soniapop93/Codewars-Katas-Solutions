@@ -211,6 +211,8 @@ My solutions for Codewars Kata Challenges
 
 - [Pyramid Array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/21517d33390bb327e771206db0e3d616ba285660/Java/CodewarsKatas/src/main/java/kyu_6/Pyramid_Array/PyramidArray.java)
 
+- [Split and then add both sides of an array together](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/325f702d373febaf7e2fa732e79c1f0ffa331fea/Java/CodewarsKatas/src/main/java/kyu_6/Split_and_then_add_both_sides_of_an_array_together/SplitAndThenAddBothSidesOfAnArrayTogether.java)
+
 
 
 ## C#
