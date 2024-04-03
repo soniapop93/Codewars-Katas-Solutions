@@ -10,6 +10,7 @@ import kyu_6.Missing_Alphabet.MissingAlphabet;
 import kyu_6.More_Zeros_Than_Ones.MoreZerosThanOnes;
 import kyu_6.Multiples_of_3_or_5.MultiplesOf3Or5;
 import kyu_6.Pyramid_Array.PyramidArray;
+import kyu_6.Split_and_then_add_both_sides_of_an_array_together.SplitAndThenAddBothSidesOfAnArrayTogether;
 import kyu_6.String_array_duplicates.StringArrayDuplicates;
 import kyu_6.Sum_consecutives.SumConsecutives;
 import kyu_6.The_latest_clock.TheLatestClock;
@@ -141,6 +142,8 @@ public class Main {
 //        System.out.println(TheFeastOfManyBeasts.feast("great blue heron","garlic nann"));
 //        System.out.println(SimpleFibonacciStrings.solve(5));
 //        System.out.println(InsertDashes.insertDash(454793));
-        System.out.println(PyramidArray.pyramid(3));
+//        System.out.println(PyramidArray.pyramid(3));
+        System.out.println(SplitAndThenAddBothSidesOfAnArrayTogether.splitAndAdd(new int[]{4, 2, 5, 3, 2, 5, 7},2));
+
     }
 }
