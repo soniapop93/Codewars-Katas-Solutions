@@ -215,7 +215,7 @@ My solutions for Codewars Kata Challenges
 
 - [Count by X](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/794815791492354c44f635c274aadc5cc8e01cb2/Java/CodewarsKatas/src/main/java/kyu_8/Count_by_X/CountByX.java)
 
-- [Rock Paper Scissors!]()
+- [Rock Paper Scissors!](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/eff5c1e52990bea87a2403ebcd170c0513ba38d2/Java/CodewarsKatas/src/main/java/kyu_8/Rock_Paper_Scissors/RockPaperScissors.java)
 
 
 
