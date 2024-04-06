@@ -217,6 +217,9 @@ My solutions for Codewars Kata Challenges
 
 - [Rock Paper Scissors!](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/eff5c1e52990bea87a2403ebcd170c0513ba38d2/Java/CodewarsKatas/src/main/java/kyu_8/Rock_Paper_Scissors/RockPaperScissors.java)
 
+- [Change two-dimensional array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/164e082f082f82d73aebe3055e53078b822fd90e/Java/CodewarsKatas/src/main/java/kyu_7/Change_two_dimensional_array/ChangeTwoDimensionalArray.java)
+
+
 
 
 ## C#
