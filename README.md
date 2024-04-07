@@ -219,6 +219,7 @@ My solutions for Codewars Kata Challenges
 
 - [Change two-dimensional array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/164e082f082f82d73aebe3055e53078b822fd90e/Java/CodewarsKatas/src/main/java/kyu_7/Change_two_dimensional_array/ChangeTwoDimensionalArray.java)
 
+- [Printing Array elements with Comma delimiters](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c08ea7aa8e8cc3f51085583d9814244e948735d9/Java/CodewarsKatas/src/main/java/kyu_8/Printing_Array_elements_with_Comma_delimiters/PrintingArrayElementsWithCommaDelimiters.java)
 
 
 
