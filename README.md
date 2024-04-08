@@ -221,6 +221,8 @@ My solutions for Codewars Kata Challenges
 
 - [Printing Array elements with Comma delimiters](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/c08ea7aa8e8cc3f51085583d9814244e948735d9/Java/CodewarsKatas/src/main/java/kyu_8/Printing_Array_elements_with_Comma_delimiters/PrintingArrayElementsWithCommaDelimiters.java)
 
+- [Halving sum](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/5184eb4164190456161976c2916d9645433e52da/Java/CodewarsKatas/src/main/java/kyu_7/Halving_Sum/HalvingSum.java)
+
 
 
 ## C#
