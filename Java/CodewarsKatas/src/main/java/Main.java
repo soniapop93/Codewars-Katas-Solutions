@@ -34,6 +34,7 @@ import kyu_7.Dont_give_me_five.DontGiveMeFive;
 import kyu_7.Fibonacci_Kata.Fibonacci;
 import kyu_7.Find_Count_of_Most_Frequent_Item_in_an_Array.FindCountOfMostFrequentItemInAnArray;
 import kyu_7.From_A_to_Z.FromAtoZ;
+import kyu_7.Halving_Sum.HalvingSum;
 import kyu_7.Insert_dashes.InsertDashes;
 import kyu_7.Inspiring_Strings.InspiringStrings;
 import kyu_7.Lost_number_in_number_sequence.LostNumberInNumberSequence;
@@ -143,7 +144,7 @@ public class Main {
 //        System.out.println(SimpleFibonacciStrings.solve(5));
 //        System.out.println(InsertDashes.insertDash(454793));
 //        System.out.println(PyramidArray.pyramid(3));
-        System.out.println(SplitAndThenAddBothSidesOfAnArrayTogether.splitAndAdd(new int[]{4, 2, 5, 3, 2, 5, 7},2));
-
+//        System.out.println(SplitAndThenAddBothSidesOfAnArrayTogether.splitAndAdd(new int[]{4, 2, 5, 3, 2, 5, 7},2));
+        System.out.println(HalvingSum.halvingSum(25));
     }
 }
