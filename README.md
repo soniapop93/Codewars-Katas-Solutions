@@ -223,6 +223,9 @@ My solutions for Codewars Kata Challenges
 
 - [Halving sum](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/5184eb4164190456161976c2916d9645433e52da/Java/CodewarsKatas/src/main/java/kyu_7/Halving_Sum/HalvingSum.java)
 
+- [Length of Missing Array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8c152986370c73fc4fa9720e9b1182c52725fe52/Java/CodewarsKatas/src/main/java/kyu_6/Length_of_missing_array/LengthOfMissingArray.java)
+
+
 
 
 ## C#
