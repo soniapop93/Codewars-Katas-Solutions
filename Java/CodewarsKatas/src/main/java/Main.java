@@ -5,6 +5,7 @@ import kyu_6.Data_reverse.DataReverse;
 import kyu_6.Detect_Pangram.DetectPangram;
 import kyu_6.How_many_pages_in_a_book.HowManyPagesInABook;
 import kyu_6.Is_a_number_prime.IsANumberPrime;
+import kyu_6.Length_of_missing_array.LengthOfMissingArray;
 import kyu_6.Make_the_Deadfish_Swim.MakeTheDeadfishSwim;
 import kyu_6.Missing_Alphabet.MissingAlphabet;
 import kyu_6.More_Zeros_Than_Ones.MoreZerosThanOnes;
@@ -145,6 +146,8 @@ public class Main {
 //        System.out.println(InsertDashes.insertDash(454793));
 //        System.out.println(PyramidArray.pyramid(3));
 //        System.out.println(SplitAndThenAddBothSidesOfAnArrayTogether.splitAndAdd(new int[]{4, 2, 5, 3, 2, 5, 7},2));
-        System.out.println(HalvingSum.halvingSum(25));
+//        System.out.println(HalvingSum.halvingSum(25));
+        System.out.println(LengthOfMissingArray.getLengthOfMissingArray(new Object[][] { new Object[] { 0,2,0,0,0,4 }, new Object[] { 4, 0, 2, 3, 3 }, new Object[] { }, new Object[] { 4, 2, 1}, new Object[] {0,0,1,1}, new Object[] {1,2}}));
+
     }
 }
