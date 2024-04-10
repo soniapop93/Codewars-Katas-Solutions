@@ -225,6 +225,7 @@ My solutions for Codewars Kata Challenges
 
 - [Length of Missing Array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8c152986370c73fc4fa9720e9b1182c52725fe52/Java/CodewarsKatas/src/main/java/kyu_6/Length_of_missing_array/LengthOfMissingArray.java)
 
+- [Disagreeable ascii](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/0dbc8e4d0e74aac9660c317d1435356f581a6748/Java/CodewarsKatas/src/main/java/kyu_7/Disagreeable_ascii/DisagreeableAscii.java)
 
 
 
