@@ -227,6 +227,8 @@ My solutions for Codewars Kata Challenges
 
 - [Disagreeable ascii](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/0dbc8e4d0e74aac9660c317d1435356f581a6748/Java/CodewarsKatas/src/main/java/kyu_7/Disagreeable_ascii/DisagreeableAscii.java)
 
+- [Alphabetical Sequence](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7d26b0f945c813120971b5b393f57f355efe741d/Java/CodewarsKatas/src/main/java/kyu_7/Alphabetical_Sequence/AlphabeticalSequence.java)
+
 
 
 ## C#
