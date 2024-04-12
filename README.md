@@ -229,6 +229,8 @@ My solutions for Codewars Kata Challenges
 
 - [Alphabetical Sequence](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7d26b0f945c813120971b5b393f57f355efe741d/Java/CodewarsKatas/src/main/java/kyu_7/Alphabetical_Sequence/AlphabeticalSequence.java)
 
+- [Build a square](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7c6db9319d85284f1eb43acf12f2d4c8259d2b11/Java/CodewarsKatas/src/main/java/kyu_7/Build_a_square/BuildASquare.java)
+
 
 
 ## C#
