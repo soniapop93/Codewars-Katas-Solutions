@@ -23,6 +23,7 @@ import kyu_7.Alphabetical_Addition.AlphabeticalAddition;
 import kyu_7.Alternate_capitalization.AlternateCapitalization;
 import kyu_7.Averages_of_Numbers.AveragesOfNumbers;
 import kyu_7.Bit_manipulation.BitManipulation;
+import kyu_7.Build_a_square.BuildASquare;
 import kyu_7.Calculate_mean_and_concatenate_string.CalculateMeanAndConcatenateString;
 import kyu_7.Character_counter.CharacterCounter;
 import kyu_7.Check_three_and_two.CheckThreeAndTwo;
@@ -147,7 +148,7 @@ public class Main {
 //        System.out.println(PyramidArray.pyramid(3));
 //        System.out.println(SplitAndThenAddBothSidesOfAnArrayTogether.splitAndAdd(new int[]{4, 2, 5, 3, 2, 5, 7},2));
 //        System.out.println(HalvingSum.halvingSum(25));
-        System.out.println(LengthOfMissingArray.getLengthOfMissingArray(new Object[][] { new Object[] { 0,2,0,0,0,4 }, new Object[] { 4, 0, 2, 3, 3 }, new Object[] { }, new Object[] { 4, 2, 1}, new Object[] {0,0,1,1}, new Object[] {1,2}}));
-
+//        System.out.println(LengthOfMissingArray.getLengthOfMissingArray(new Object[][] { new Object[] { 0,2,0,0,0,4 }, new Object[] { 4, 0, 2, 3, 3 }, new Object[] { }, new Object[] { 4, 2, 1}, new Object[] {0,0,1,1}, new Object[] {1,2}}));
+        System.out.println(BuildASquare.generateShape(3));
     }
 }
