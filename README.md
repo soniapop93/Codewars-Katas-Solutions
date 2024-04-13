@@ -231,6 +231,8 @@ My solutions for Codewars Kata Challenges
 
 - [Build a square](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7c6db9319d85284f1eb43acf12f2d4c8259d2b11/Java/CodewarsKatas/src/main/java/kyu_7/Build_a_square/BuildASquare.java)
 
+- [Switcheroo](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/769166226f30399ea30b5ff8e2e15988e6ce3684/Java/CodewarsKatas/src/main/java/kyu_7/Switcheroo/Switcheroo.java)
+
 
 
 ## C#
