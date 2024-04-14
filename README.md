@@ -233,6 +233,8 @@ My solutions for Codewars Kata Challenges
 
 - [Switcheroo](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/769166226f30399ea30b5ff8e2e15988e6ce3684/Java/CodewarsKatas/src/main/java/kyu_7/Switcheroo/Switcheroo.java)
 
+- [Find min and max](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d82832a6449c0149510277703a0a4ae2d3dad60d/Java/CodewarsKatas/src/main/java/kyu_7/Find_min_and_max/FindMinAndMax.java)
+
 
 
 ## C#
