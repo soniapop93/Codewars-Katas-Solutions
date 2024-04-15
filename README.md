@@ -235,6 +235,7 @@ My solutions for Codewars Kata Challenges
 
 - [Find min and max](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/d82832a6449c0149510277703a0a4ae2d3dad60d/Java/CodewarsKatas/src/main/java/kyu_7/Find_min_and_max/FindMinAndMax.java)
 
+- [Simple Prime Streaming](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/09e41cc9509846c70c859cd928961036d9a87be0/Java/CodewarsKatas/src/main/java/kyu_6/Simple_prime_streaming/SimplePrimeStreaming.java)
 
 
 ## C#
