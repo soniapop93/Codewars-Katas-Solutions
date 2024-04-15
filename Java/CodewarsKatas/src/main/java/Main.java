@@ -11,6 +11,7 @@ import kyu_6.Missing_Alphabet.MissingAlphabet;
 import kyu_6.More_Zeros_Than_Ones.MoreZerosThanOnes;
 import kyu_6.Multiples_of_3_or_5.MultiplesOf3Or5;
 import kyu_6.Pyramid_Array.PyramidArray;
+import kyu_6.Simple_prime_streaming.SimplePrimeStreaming;
 import kyu_6.Split_and_then_add_both_sides_of_an_array_together.SplitAndThenAddBothSidesOfAnArrayTogether;
 import kyu_6.String_array_duplicates.StringArrayDuplicates;
 import kyu_6.Sum_consecutives.SumConsecutives;
@@ -151,7 +152,7 @@ public class Main {
 //        System.out.println(HalvingSum.halvingSum(25));
 //        System.out.println(LengthOfMissingArray.getLengthOfMissingArray(new Object[][] { new Object[] { 0,2,0,0,0,4 }, new Object[] { 4, 0, 2, 3, 3 }, new Object[] { }, new Object[] { 4, 2, 1}, new Object[] {0,0,1,1}, new Object[] {1,2}}));
 //        System.out.println(BuildASquare.generateShape(3));
-        System.out.println(FindMinAndMax.getMinMax(Arrays.asList(1,2)));
-
+//        System.out.println(FindMinAndMax.getMinMax(Arrays.asList(1,2)));
+        System.out.println(SimplePrimeStreaming.solve(50,6));
     }
 }
