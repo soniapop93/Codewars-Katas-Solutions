@@ -237,6 +237,9 @@ My solutions for Codewars Kata Challenges
 
 - [Simple Prime Streaming](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/09e41cc9509846c70c859cd928961036d9a87be0/Java/CodewarsKatas/src/main/java/kyu_6/Simple_prime_streaming/SimplePrimeStreaming.java)
 
+- [Find the stray number](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/389bf6a4f256af8b8d7dbb77419b5eba542eec47/Java/CodewarsKatas/src/main/java/kyu_7/Find_the_stray_number/FindTheStrayNumber.java)
+
+
 
 ## C#
 
