@@ -241,6 +241,8 @@ My solutions for Codewars Kata Challenges
 
 - [Form the minimum](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/57b774eddac3237196c36b54f0b16d573198a3da/Java/CodewarsKatas/src/main/java/kyu_7/Form_The_Minimum/FormTheMinimum.java)
 
+- [Flatten and sort an array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7511e583cda39f97213f810f1994e4f7e64147c1/Java/CodewarsKatas/src/main/java/kyu_7/Flatten_and_sort_an_array/FlattenAndSortAnArray.java)
+
 
 ## C#
 
