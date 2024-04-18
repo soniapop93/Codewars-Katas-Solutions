@@ -37,6 +37,7 @@ import kyu_7.Dont_give_me_five.DontGiveMeFive;
 import kyu_7.Fibonacci_Kata.Fibonacci;
 import kyu_7.Find_Count_of_Most_Frequent_Item_in_an_Array.FindCountOfMostFrequentItemInAnArray;
 import kyu_7.Find_min_and_max.FindMinAndMax;
+import kyu_7.Flatten_and_sort_an_array.FlattenAndSortAnArray;
 import kyu_7.From_A_to_Z.FromAtoZ;
 import kyu_7.Halving_Sum.HalvingSum;
 import kyu_7.Insert_dashes.InsertDashes;
@@ -153,6 +154,8 @@ public class Main {
 //        System.out.println(LengthOfMissingArray.getLengthOfMissingArray(new Object[][] { new Object[] { 0,2,0,0,0,4 }, new Object[] { 4, 0, 2, 3, 3 }, new Object[] { }, new Object[] { 4, 2, 1}, new Object[] {0,0,1,1}, new Object[] {1,2}}));
 //        System.out.println(BuildASquare.generateShape(3));
 //        System.out.println(FindMinAndMax.getMinMax(Arrays.asList(1,2)));
-        System.out.println(SimplePrimeStreaming.solve(50,6));
+//        System.out.println(SimplePrimeStreaming.solve(50,6));
+        System.out.println(FlattenAndSortAnArray.flattenAndSort(new int[][]{{3, 2, 1}, {7, 9, 8}, {6, 4, 5}}));
+
     }
 }
