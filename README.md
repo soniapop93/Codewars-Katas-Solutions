@@ -243,6 +243,8 @@ My solutions for Codewars Kata Challenges
 
 - [Flatten and sort an array](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/7511e583cda39f97213f810f1994e4f7e64147c1/Java/CodewarsKatas/src/main/java/kyu_7/Flatten_and_sort_an_array/FlattenAndSortAnArray.java)
 
+- [Replace every nth](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/32491ef8e31d62c31602bc4ae3f04bc73f3903b1/Java/CodewarsKatas/src/main/java/kyu_7/Replace_every_nth/ReplaceEveryNth.java)
+
 
 ## C#
 
