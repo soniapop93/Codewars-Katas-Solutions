@@ -245,6 +245,8 @@ My solutions for Codewars Kata Challenges
 
 - [Replace every nth](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/32491ef8e31d62c31602bc4ae3f04bc73f3903b1/Java/CodewarsKatas/src/main/java/kyu_7/Replace_every_nth/ReplaceEveryNth.java)
 
+- [Find sum of top left to bottom right diagonals](https://github.com/soniapop93/Codewars-Katas-Solutions/blob/8ea9117a166cc1c491e1bd9887ed2d930fb0d3bb/Java/CodewarsKatas/src/main/java/kyu_7/Find_sum_of_top_left_to_bottom_right_diagonals/FindSumOfTopLeftToBottomRightDiagonals.java)
+
 
 ## C#
 
