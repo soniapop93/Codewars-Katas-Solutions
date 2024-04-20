@@ -37,6 +37,7 @@ import kyu_7.Dont_give_me_five.DontGiveMeFive;
 import kyu_7.Fibonacci_Kata.Fibonacci;
 import kyu_7.Find_Count_of_Most_Frequent_Item_in_an_Array.FindCountOfMostFrequentItemInAnArray;
 import kyu_7.Find_min_and_max.FindMinAndMax;
+import kyu_7.Find_sum_of_top_left_to_bottom_right_diagonals.FindSumOfTopLeftToBottomRightDiagonals;
 import kyu_7.Flatten_and_sort_an_array.FlattenAndSortAnArray;
 import kyu_7.From_A_to_Z.FromAtoZ;
 import kyu_7.Halving_Sum.HalvingSum;
@@ -155,7 +156,9 @@ public class Main {
 //        System.out.println(BuildASquare.generateShape(3));
 //        System.out.println(FindMinAndMax.getMinMax(Arrays.asList(1,2)));
 //        System.out.println(SimplePrimeStreaming.solve(50,6));
-        System.out.println(FlattenAndSortAnArray.flattenAndSort(new int[][]{{3, 2, 1}, {7, 9, 8}, {6, 4, 5}}));
+//        System.out.println(FlattenAndSortAnArray.flattenAndSort(new int[][]{{3, 2, 1}, {7, 9, 8}, {6, 4, 5}}));
+        System.out.println(FindSumOfTopLeftToBottomRightDiagonals.diagonalSum(new int[][]{{1, 2, 3, 4}, {5, 6, 7, 8}, {9, 10, 11, 12}, {13, 14, 15, 16}}));
+
 
     }
 }
